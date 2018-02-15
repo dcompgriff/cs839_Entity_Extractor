@@ -11,3 +11,4 @@ Steps:
 	Dan takes 200-299
 	Markup the data in "Markedup data" folder to label all institution names. 
 	
+	Don't commit your "markedup data" folder untill we have satisfactorily marked up all the docs in it. 
