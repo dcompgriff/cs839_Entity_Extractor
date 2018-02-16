@@ -1,5 +1,5 @@
 import pandas as pd
-proj = "G:/edu/sem2/839/Proj/1a/cs839_Entity_Extractor"#git project location
+proj = "../"#git project location
 rn = pd.read_csv(proj+"/data/randnums.txt")
 data = pd.read_csv(proj+"/data/fake.csv")
 j=0
