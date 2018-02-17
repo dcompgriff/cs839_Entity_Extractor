@@ -45,7 +45,8 @@ towns
 most
 arriving
 on
-foot,
+foot
+,
 and
 many
 with
@@ -56,7 +57,8 @@ the
 clothing
 on
 their
-backs.
+backs
+.
 
 The
 agencies
@@ -69,7 +71,8 @@ of
 preparation
 they
 engaged
-in,
+in
+,
 but
 exactly
 how
@@ -97,14 +100,18 @@ government
 or
 from
 the
-US-led
-coalition,
+US
+-
+led
+coalition
+,
 is
 still
 up
 in
 the
-air.
+air
+.
 
 The
 UN
@@ -117,8 +124,11 @@ ready
 to
 accept
 about
-50,000
-people,
+50
+,
+000
+people
+,
 and
 11
 more
@@ -129,11 +139,13 @@ the
 process
 of
 being
-readied.
+readied
+.
 At
 the
 same
-time,
+time
+,
 the
 UN
 has
@@ -153,7 +165,8 @@ refugees
 over
 the
 long
-run,
+run
+,
 and
 the
 Mosul
@@ -165,7 +178,8 @@ much
 be
 the
 long
-run.
+run
+.
 
 Iraq
 has
@@ -177,7 +191,8 @@ against
 fleeing
 from
 the
-city,
+city
+,
 a
 warning
 that
@@ -195,7 +210,8 @@ strikes
 against
 fleeing
 ISIS
-fighters.
+fighters
+.
 It’s
 unclear
 how
@@ -210,7 +226,8 @@ put”
 as
 they
 were
-ordered,
+ordered
+,
 but
 the
 expectations
@@ -229,5 +246,6 @@ flee
 while
 they
 still
-can.
+can
+.
 

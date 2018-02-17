@@ -18,7 +18,8 @@ a
 bag
 from
 your
-car,
+car
+,
 while
 others
 have

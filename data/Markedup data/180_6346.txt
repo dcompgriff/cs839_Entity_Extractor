@@ -12,7 +12,8 @@ enough
 news
 for
 the
-world,
+world
+,
 a
 new
 report
@@ -28,4 +29,7 @@ that
 contains
 very
 frightening
-visions...
+visions
+.
+.
+.

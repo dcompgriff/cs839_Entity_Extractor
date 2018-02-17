@@ -4,19 +4,24 @@ drug
 baron
 hands
 himself
-in,
+in
+,
 says
 life
 on
 the
-run...
+run
+.
+.
+.
 ‘Most
 wanted’
 drug
 baron
 hands
 himself
-in,
+in
+,
 says
 life
 on
@@ -52,12 +57,15 @@ became
 too
 much
 for
-him.
+him
+.
 
 Robert
-Gerrard,
+Gerrard
+,
 of
-Liverpool,
+Liverpool
+,
 handed
 himself
 over
@@ -65,7 +73,9 @@ to
 National
 Crime
 Agency
-(NCA)
+(
+NCA
+)
 officers
 in
 Manchester
@@ -78,10 +88,15 @@ Most
 Wanted
 list
 of
-criminals.
+criminals
+.
 
 The
-53-year-old
+53
+-
+year
+-
+old
 made
 the
 arrangements
@@ -104,7 +119,8 @@ too
 much
 for
 him
-.”
+.
+”
 
 He
 was
@@ -119,7 +135,8 @@ as
 part
 of
 Operation
-Return,
+Return
+,
 a
 campaign
 to
@@ -127,7 +144,8 @@ capture
 criminals
 on
 the
-lam.
+lam
+.
 
 He
 appeared
@@ -136,7 +154,8 @@ Manchester
 Magistrates’
 Court
 on
-Wednesday,
+Wednesday
+,
 where
 he
 was
@@ -150,9 +169,14 @@ in
 a
 £60
 million
-(US$75
-million)
-plot.
+(
+US
+$
+75
+million
+)
+plot
+.
 
 Gerrard
 is
@@ -162,18 +186,22 @@ have
 used
 Café
 de
-Ketel,
+Ketel
+,
 in
-Rotterdam,
+Rotterdam
+,
 the
-Netherlands,
+Netherlands
+,
 as
 a
 front
 for
 international
 drug
-trafficking.
+trafficking
+.
 
 NCA
 regional
@@ -199,7 +227,8 @@ with
 our
 Most
 Wanted
-campaigns.
+campaigns
+.
 Three
 arrests
 in
@@ -209,7 +238,8 @@ week
 is
 a
 tremendous
-result.
+result
+.
 
 “
 We
@@ -227,7 +257,8 @@ back
 in
 the
 UK
-for,
+for
+,
 but
 he
 told
@@ -262,7 +293,8 @@ do
 have
 nowhere
 to
-hide.
+hide
+.
 I
 would
 urge
@@ -294,10 +326,12 @@ and
 you
 will
 face
-justice,
+justice
+,
 ”
 he
-added.
+added
+.
 
 Crimestoppers
 director
@@ -324,13 +358,15 @@ that
 when
 the
 pressure
-mounts,
+mounts
+,
 hiding
 places
 become
 harder
 to
-find.
+find
+.
 
 “
 This
@@ -358,13 +394,15 @@ on
 the
 run
 in
-Spain.
+Spain
+.
 These
 campaigns
 really
 do
 work
-.”
+.
+”
 
 His
 next
@@ -377,7 +415,8 @@ Magistrates’
 Court
 on
 November
-23.
+23
+.
 
 Via
 RT
@@ -393,4 +432,5 @@ News
 with
 permission
 or
-license.
+license
+.

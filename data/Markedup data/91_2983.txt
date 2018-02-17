@@ -1,5 +1,6 @@
 October
-28,
+28
+,
 2016
 Likud
 deputy
@@ -15,7 +16,9 @@ Deputy
 Minister
 Ayoob
 Kara
-(Likud)
+(
+Likud
+)
 caused
 controversy
 when
@@ -46,12 +49,14 @@ connection
 to
 the
 Temple
-Mount.
+Mount
+.
 
 
 The
 deputy
-minister,
+minister
+,
 who
 was
 in
@@ -59,14 +64,16 @@ Italy
 when
 the
 earthquakes
-hit,
+hit
+,
 ascribed
 the
 natural
 disasters
 to
 divine
-will.
+will
+.
 
 
 The
@@ -94,7 +101,8 @@ its
 holy
 sites
 in
-Jerusalem.
+Jerusalem
+.
 
 
 Kara
@@ -117,7 +125,8 @@ up
 opposition
 for
 the
-resolution.
+resolution
+.
 Kara
 even
 managed
@@ -131,4 +140,5 @@ the
 Pope
 during
 his
-visit.
+visit
+.

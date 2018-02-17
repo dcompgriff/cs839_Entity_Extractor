@@ -10,9 +10,11 @@ from
 International
 Criminal
 Court
-AFP,
+AFP
+,
 October
-26,
+26
+,
 2016
 
 Gambia
@@ -25,10 +27,15 @@ the
 International
 Criminal
 Court
-(ICC),
+(
+ICC
+)
+,
 accusing
 the
-Hague-based
+Hague
+-
+based
 tribunal
 of
 the
@@ -38,9 +45,11 @@ humiliation
 of
 people
 of
-colour,
+colour
+,
 especially
-Africans”.
+Africans”
+.
 
 The
 announcement
@@ -61,7 +70,8 @@ to
 abandon
 the
 troubled
-institution,
+institution
+,
 set
 up
 to
@@ -69,7 +79,8 @@ try
 the
 world’s
 worst
-crimes.
+crimes
+.
 
 Information
 Minister
@@ -103,7 +114,8 @@ crimes
 committed
 by
 the
-West.
+West
+.
 
 He
 singled
@@ -116,7 +128,8 @@ British
 prime
 minister
 Tony
-Blair,
+Blair
+,
 who
 the
 ICC
@@ -127,14 +140,19 @@ indict
 over
 the
 Iraq
-war.
+war
+.
 
-{snip}
+{
+snip
+}
 
 The
-withdrawal,
+withdrawal
+,
 he
-said,
+said
+,
 “is
 warranted
 by
@@ -142,13 +160,15 @@ the
 fact
 that
 the
-ICC,
+ICC
+,
 despite
 being
 called
 International
 Criminal
-Court,
+Court
+,
 is
 in
 fact
@@ -164,16 +184,20 @@ humiliation
 of
 people
 of
-colour,
+colour
+,
 especially
-Africans”.
+Africans”
+.
 
 The
-ICC,
+ICC
+,
 set
 up
 in
-2002,
+2002
+,
 is
 often
 accused
@@ -189,12 +213,14 @@ with
 a
 lack
 of
-cooperation,
+cooperation
+,
 including
 from
 the
 United
-States,
+States
+,
 which
 has
 signed
@@ -204,7 +230,8 @@ treaty
 but
 never
 ratified
-it.
+it
+.
 
 Gambia
 has
@@ -232,9 +259,12 @@ trying
 to
 reach
 its
-shores.
+shores
+.
 
-{snip}
+{
+snip
+}
 
 South
 Africa’s
@@ -248,7 +278,9 @@ when
 Sudanese
 President
 Omar
-al-Bashir
+al
+-
+Bashir
 visited
 the
 country
@@ -264,18 +296,21 @@ warrant
 over
 alleged
 war
-crimes.
+crimes
+.
 
 Earlier
 this
-month,
+month
+,
 Burundi
 said
 it
 would
 leave
 the
-court,
+court
+,
 while
 Namibia
 and
@@ -284,6 +319,9 @@ have
 also
 raised
 the
-possibility.
+possibility
+.
 
-{snip}
+{
+snip
+}

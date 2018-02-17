@@ -1,6 +1,7 @@
 Transcripts
 November
-3,
+3
+,
 2016
 Obama:
 ‘It’s
@@ -29,7 +30,8 @@ of
 North
 Carolina
 this
-afternoon,
+afternoon
+,
 President
 Barack
 Obama
@@ -59,8 +61,11 @@ could
 enter
 publicly
 into
-same-sex
-marriages.
+same
+-
+sex
+marriages
+.
 
 “It
 is
@@ -79,9 +84,12 @@ that
 didn’t
 have
 it
-before,”
+before
+,
+”
 Obama
-said.
+said
+.
 “It
 is
 because
@@ -100,7 +108,8 @@ that
 couldn’t
 afford
 it
-before.
+before
+.
 It’s
 because
 of
@@ -117,7 +126,8 @@ hiding
 the
 husband
 he
-loves.
+loves
+.
 It
 is
 because
@@ -136,4 +146,6 @@ and
 are
 serving
 our
-country.”
+country
+.
+”

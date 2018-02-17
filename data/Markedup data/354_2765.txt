@@ -1,7 +1,8 @@
 Meteor
 Or
 Alien
-Ship?
+Ship
+?
 Mystery
 Surrounds
 Bright
@@ -30,8 +31,10 @@ northern
 Japan
 on
 October
-31,
-2016.
+31
+,
+2016
+.
 Many
 people
 speculated
@@ -61,7 +64,8 @@ burning
 up
 in
 the
-atmosphere.
+atmosphere
+.
 The
 event
 lasted
@@ -74,5 +78,6 @@ was
 captured
 by
 several
-cameras.
+cameras
+.
 Tags

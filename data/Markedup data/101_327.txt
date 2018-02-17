@@ -2,7 +2,8 @@ By
 Tony
 Cartalucci
 In
-reality,
+reality
+,
 since
 even
 before
@@ -11,7 +12,8 @@ conflict
 began
 unfolding
 in
-2011,
+2011
+,
 the
 United
 States
@@ -22,4 +24,7 @@ for
 the
 nation’s
 division
-and...
+and
+.
+.
+.

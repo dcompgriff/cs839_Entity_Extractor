@@ -1,5 +1,6 @@
 Combined
-dipshit,
+dipshit
+,
 all
 the
 women
@@ -7,4 +8,7 @@ and
 children
 in
 developing
-world….combined.
+world…
+.
+combined
+.

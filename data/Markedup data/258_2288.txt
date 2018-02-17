@@ -1,7 +1,9 @@
 Mike
-Rowe,
+Rowe
+,
 the
-ex-
+ex
+-
 Dirty
 Jobs
 star
@@ -12,7 +14,8 @@ of
 Somebody’s
 Gotta
 Do
-It,
+It
+,
 took
 to
 his
@@ -26,12 +29,16 @@ a
 current
 topic
 of
-controversy.
-And,
+controversy
+.
+And
+,
 as
-usual,
+usual
+,
 nailed
-it.
+it
+.
 
 One
 of
@@ -41,5 +48,6 @@ sent
 him
 a
 message
-saying,
+saying
+,
 

@@ -43,7 +43,9 @@ desire
 —
 bread
 and
-circuses.”
+circuses
+.
+”
 The
 government
 kept
@@ -58,10 +60,15 @@ food
 and
 staging
 huge
-spectacles.
+spectacles
+.
 
-So,
-(S)election
+So
+,
+(
+S
+)
+election
 is
 part
 of
@@ -75,4 +82,5 @@ the
 Free
 food
 distribution
-increases.
+increases
+.

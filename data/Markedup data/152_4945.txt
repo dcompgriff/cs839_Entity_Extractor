@@ -36,7 +36,8 @@ of
 little
 or
 no
-use.
+use
+.
 
 It
 is
@@ -58,7 +59,8 @@ that
 doesn’t
 always
 mean
-better”.
+better”
+.
 
 Tips
 include
@@ -89,4 +91,5 @@ needed
 for
 children’s
 wrist
-fractures.
+fractures
+.

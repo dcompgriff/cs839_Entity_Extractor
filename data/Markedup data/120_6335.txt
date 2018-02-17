@@ -1,6 +1,7 @@
 By
 Heather
-Callaghan,
+Callaghan
+,
 Editor
 The
 power
@@ -21,10 +22,14 @@ cranberry
 extract
 cuts
 bacteria
-communication,
+communication
+,
 stops
 it
 from
 spreading
 and
-lessens...
+lessens
+.
+.
+.

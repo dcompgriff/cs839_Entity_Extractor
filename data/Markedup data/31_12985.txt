@@ -3,8 +3,13 @@ for
 the
 last
 two
-weeks,
+weeks
+,
 Gold
 is
-"naturally",
-unchanged.
+"
+naturally
+"
+,
+unchanged
+.

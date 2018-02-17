@@ -9,7 +9,8 @@ wireless
 meters
 communicate
 via
-microwaves.
+microwaves
+.
 What
 was
 unknown
@@ -25,4 +26,7 @@ in
 the
 2
 to
-50...
+50
+.
+.
+.

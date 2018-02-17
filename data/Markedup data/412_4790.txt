@@ -27,7 +27,8 @@ represent
 the
 views
 of
-IJR.
+IJR
+.
 
 The
 2016
@@ -37,7 +38,8 @@ is
 tightening
 by
 all
-measures,
+measures
+,
 and
 a
 poll
@@ -57,7 +59,8 @@ shot
 at
 winning
 the
-election.
+election
+.
 
 The
 gap
@@ -90,7 +93,9 @@ that
 “Donald
 Trump
 could
-win.”
+win
+.
+”
 
 Hillary
 campaign
@@ -102,14 +107,16 @@ the
 following
 statement:
 
-"We’ve
+"
+We’ve
 seen
 polls
 tighten
 since
 the
 last
-debate,
+debate
+,
 and
 we
 expect
@@ -120,21 +127,28 @@ even
 closer
 by
 election
-day,”
+day
+,
+”
 he
-said.
+said
+.
 
 “Donald
 Trump
 could
 win
 this
-election,”
+election
+,
+”
 Mook
-added.
+added
+.
 
 Just
-recently,
+recently
+,
 the
 Clinton
 campaign
@@ -151,7 +165,8 @@ to
 run
 up
 the
-tally.
+tally
+.
 
 As
 FiveThirtyEight
@@ -167,7 +182,8 @@ leading
 up
 to
 election
-day.
+day
+.
 Hillary's
 national
 average
@@ -175,7 +191,8 @@ is
 currently
 around
 five
-points,
+points
+,
 and
 Trump
 has
@@ -189,7 +206,8 @@ states
 of
 Florida
 and
-Nevada.
+Nevada
+.
 
 It
 looks
@@ -212,4 +230,5 @@ than
 many
 had
 recently
-believed.
+believed
+.

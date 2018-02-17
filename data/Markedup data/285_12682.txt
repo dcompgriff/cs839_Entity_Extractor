@@ -9,7 +9,8 @@ Participants
 shun
 GOP
 nominee's
-products,
+products
+,
 retailers
 who
 carry
@@ -19,9 +20,13 @@ Published:
 hour
 ago
 
-(CBC)
+(
+CBC
+)
 An
-eye-catching
+eye
+-
+catching
 shoe
 piques
 your
@@ -29,10 +34,12 @@ interest
 and
 draws
 you
-in.
+in
+.
 Upon
 closer
-inspection,
+inspection
+,
 the
 label
 leaps
@@ -41,7 +48,8 @@ at
 you
 —
 Ivanka
-Trump,
+Trump
+,
 in
 simple
 gold
@@ -52,7 +60,8 @@ you
 recoil
 as
 if
-stung.
+stung
+.
 
 That’s
 the
@@ -80,9 +89,12 @@ as
 well
 as
 the
-popular,
+popular
+,
 working
-women-targeted
+women
+-
+targeted
 fashion
 line
 from
@@ -105,4 +117,5 @@ during
 the
 current
 election
-campaign.
+campaign
+.

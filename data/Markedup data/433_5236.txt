@@ -37,7 +37,8 @@ is
 published
 each
 business
-day.
+day
+.
 If
 there
 is
@@ -46,9 +47,13 @@ debt
 value
 for
 the
-date(s)
+date
+(
+s
+)
 you
-requested,
+requested
+,
 the
 value
 for
@@ -58,4 +63,5 @@ business
 day
 will
 be
-displayed.
+displayed
+.

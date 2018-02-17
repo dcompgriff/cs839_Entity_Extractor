@@ -12,7 +12,9 @@ offered
 to
 relocate
 over
-1,500
+1
+,
+500
 refugee
 children
 who
@@ -22,12 +24,15 @@ behind
 at
 a
 Calais
-campsite,
+campsite
+,
 and
 to
 give
 them
-full-time
+full
+-
+time
 work
 as
 general
@@ -39,7 +44,8 @@ factories
 littered
 across
 the
-world.
+world
+.
 
 The
 opportunity
@@ -52,7 +58,8 @@ refugees
 from
 the
 ‘Calais
-Jungle’,
+Jungle’
+,
 while
 French
 authorities
@@ -61,7 +68,8 @@ to
 demolish
 it
 from
-existence,
+existence
+,
 like
 a
 red
@@ -70,7 +78,8 @@ stain
 from
 a
 woollen
-rug.
+rug
+.
 
 It
 is
@@ -82,7 +91,9 @@ begin
 a
 series
 of
-in-house
+in
+-
+house
 training
 courses
 before
@@ -93,11 +104,13 @@ Apple
 floor
 to
 make
-phones,
+phones
+,
 iPads
 and
 MacBook
-computers.
+computers
+.
 
 “I
 have
@@ -106,10 +119,17 @@ loved
 Apple’s
 sleek
 product
-design,”
-9-year-old
+design
+,
+”
+9
+-
+year
+-
+old
 Hafez
-Mohammed,
+Mohammed
+,
 who
 was
 born
@@ -122,7 +142,8 @@ the
 first
 ever
 iPhone
-release,
+release
+,
 “I
 cannot
 wait
@@ -149,7 +170,8 @@ no
 idea
 where
 they
-are”.
+are”
+.
 
 Apple
 CEO
@@ -174,7 +196,8 @@ Steve
 Jobs
 was
 also
-Syrian,
+Syrian
+,
 and
 believes
 he
@@ -198,10 +221,12 @@ difficult
 period
 of
 their
-lives.
+lives
+.
 
 “Who
-knows,
+knows
+,
 we
 may
 have
@@ -212,12 +237,17 @@ in
 one
 of
 the
-1,500
+1
+,
+500
 new
-employees,”
+employees
+,
+”
 Cook
 told
-WWN.
+WWN
+.
 
 The
 Apple
@@ -246,10 +276,13 @@ for
 Britain
 to
 accept
-1,500
+1
+,
+500
 child
 migrants
-yesterday,
+yesterday
+,
 leaving
 only
 child
@@ -259,4 +292,5 @@ to
 pick
 up
 the
-tab.
+tab
+.

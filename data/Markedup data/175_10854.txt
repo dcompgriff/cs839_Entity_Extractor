@@ -14,7 +14,10 @@ keeping
 them
 safe
 and
-well-informed,
+well
+-
+informed
+,
 they
 are
 doing
@@ -28,4 +31,7 @@ media
 and
 science
 press
-in...
+in
+.
+.
+.

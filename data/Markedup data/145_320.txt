@@ -22,4 +22,7 @@ tension
 continues
 to
 escalate
-between...
+between
+.
+.
+.

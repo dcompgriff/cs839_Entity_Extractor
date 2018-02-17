@@ -2,7 +2,8 @@ I
 love
 that
 video
-clip.
+clip
+.
 I
 think
 it
@@ -16,4 +17,5 @@ at
 this
 point
 in
-time!
+time
+!

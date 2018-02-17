@@ -16,10 +16,14 @@ over
 REAL
 ID
 last
-month,
+month
+,
 threatening
 once
 again
 to
 ban
-residents...
+residents
+.
+.
+.

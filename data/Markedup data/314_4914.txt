@@ -28,7 +28,8 @@ The
 Hill
 -
 October
-26,
+26
+,
 2016
 Comments
 Top
@@ -44,7 +45,8 @@ endorsed
 Hillary
 Clinton
 for
-president.
+president
+.
 
 “Clinton’s
 platform
@@ -72,14 +74,18 @@ where
 we
 need
 to
-go,”
+go
+,
+”
 McKesson
 wrote
 in
 a
 Washington
 Post
-op-ed
+op
+-
+ed
 .
 Clinton
 hosted
@@ -105,7 +111,8 @@ plan
 to
 end
 police
-violence.
+violence
+.
 McKesson
 wrote
 that
@@ -139,4 +146,6 @@ racial
 justice
 is
 now
-“strong.”
+“strong
+.
+”

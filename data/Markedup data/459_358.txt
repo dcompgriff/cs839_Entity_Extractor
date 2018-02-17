@@ -11,7 +11,8 @@ ballot
 measure
 legalizing
 medical
-marijuana,
+marijuana
+,
 taking
 a
 big
@@ -22,4 +23,7 @@ the
 unconstitutional
 federal
 prohibition
-of...
+of
+.
+.
+.

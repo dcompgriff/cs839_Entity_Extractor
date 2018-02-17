@@ -22,4 +22,7 @@ Clinton
 is
 making
 the
-situation...
+situation
+.
+.
+.

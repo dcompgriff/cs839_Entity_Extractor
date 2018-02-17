@@ -5,7 +5,8 @@ Over
 the
 past
 few
-days,
+days
+,
 the
 Western
 corporate
@@ -18,8 +19,13 @@ with
 reports
 of
 hospital
-bombings,
+bombings
+,
 dead
-civilians,
+civilians
+,
 and
-war...
+war
+.
+.
+.

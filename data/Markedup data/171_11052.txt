@@ -16,7 +16,8 @@ a
 minor
 and
 temporary
-event.
+event
+.
 I
 think
 they
@@ -26,7 +27,8 @@ it
 as
 an
 existential
-threat,
+threat
+,
 which
 explains
 the
@@ -35,4 +37,5 @@ and
 growing
 crackdown
 and
-repression.
+repression
+.
