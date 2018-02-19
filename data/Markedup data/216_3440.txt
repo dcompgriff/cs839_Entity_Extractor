@@ -43,7 +43,7 @@ show
 “The
 Apprentice”
 on
-NBC
+<[>NBC<]>
 ,
 in
 which
@@ -229,8 +229,8 @@ doors
 For
 example
 ,
-USA
-Today
+<[>USA
+Today<]>
 ,
 a
 newspaper
@@ -271,7 +271,7 @@ mass
 effective
 airstrikes
 on
-ISIS
+<[>ISIS<]>
 .
 The
 due
@@ -361,7 +361,7 @@ for
 “massive
 bombardments
 against
-ISIS”
+<[>ISIS”<]>
 is
 important
 .
@@ -385,7 +385,7 @@ only
 been
 supposedly
 bombing
-ISIS
+<[>ISIS<]>
 for
 several
 years
@@ -408,7 +408,7 @@ example
 only
 two
 killed
-ISIS
+<[>ISIS<]>
 leaders
 .
 It
@@ -566,8 +566,8 @@ writing
 today
 .
 The
-Washington
-Post
+<[>Washington
+Post<]>
 ,
 citing
 senior
@@ -618,8 +618,8 @@ is
 accurate
 since
 the
-Washington
-Post
+<[>Washington
+Post<]>
 is
 a
 newspaper
@@ -739,7 +739,7 @@ to
 start
 really
 bombing
-ISIS
+<[>ISIS<]>
 .
 Here
 it
@@ -766,8 +766,8 @@ For
 example
 ,
 The
-Washington
-Post
+<[>Washington
+Post<]>
 ’s
 last
 issue
@@ -936,5 +936,5 @@ miracle
 Follow
 us
 on
-Facebook
+<[>Facebook<]>
 !

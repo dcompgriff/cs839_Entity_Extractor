@@ -54,9 +54,9 @@ contributing
 staff
 writer
 for
-REALfarmacy
+<[>REALfarmacy
 .
-com
+com<]>
 .
 She
 is
@@ -104,9 +104,9 @@ Nature
 She
 graduated
 The
-Evergreen
+<[>Evergreen
 State
-College
+College<]>
 with
 an
 undergraduate
@@ -123,5 +123,5 @@ Follow
 her
 adventures
 on
-Instagram
+<[>Instagram<]>
 .

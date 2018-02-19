@@ -5,6 +5,8 @@ Dan Notes and Patterns:
 *"on" comes before
 *"called" comes before
 *"they" comes after
+*Contains "of", or "of" as second word.
+*Contains "for"
 *"in" comes before, as a feature for indicating "not an institution", as it is likely a place.
 *"near", "at" comes before or after, as a feature for indicating "not an institution", as it is likely a place.
 *"is" comes after.
@@ -15,15 +17,18 @@ Dan Notes and Patterns:
 *"reported", "notes", "reviewed" and similar words comes after (But not "said", as these are people)
 *"by" comes before (This may cause some issues though, as it could be cause names of people to occur)
 *"named", "entity"
-*"group", "organization", "society", "founded", "formed", "foundation", "community" in or nearby
+*"group", "organization", "society", "founded", "formed", "foundation", "community", "agency"
+"movement", "newspaper" in or nearby
 *".org", ".com", ".co", "ltd", "partners", "company", "project", "corporation", "website", "nonprofit" before or after.
 *Capital letters, and number of capital letters
 *Not a city, state, or country
 *Frequency of occurrence, or sub-word occurence in document. ("FBI National Security Branch" contains "FBI"
-*Length of the entity.
+*Length of the entity in characters, number of words.
 *Verb occurs after the entity (Maybe we would be allowed to use open NLTK for this, or use a verb dictionary?)
 *Probability of word occurring before or after unknown entity string, given training set 
 probabilities. (Multinomial distribution, or counts)
+
+File 211_* has many good negatie examples with "ADHD" as the error.
 
 ** Post-processing rules. If any entity was labeled as positive, find all other occurrences of the
 entity in the file, and mark as positive. BE CAREFUL, THIS MAY DRASTICALLY REDUCE PRECISION.

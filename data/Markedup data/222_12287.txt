@@ -40,7 +40,7 @@ dental
 clinic
 have
 informed
-WWN
+<[>WWN<]>
 of
 the
 curious
@@ -61,8 +61,8 @@ waiting
 room
 .
 
-Maguires
-Dental
+<[>Maguire
+Dental<]>
 on
 St
 .
@@ -134,7 +134,7 @@ filling
 spoke
 exclusively
 to
-WWN
+<[>WWN<]>
 about
 the
 difficulties
@@ -285,8 +285,8 @@ room
 ,
 staff
 at
-Maguire
-Dental
+<[>Maguire
+Dental<]>
 said
 they’d
 have

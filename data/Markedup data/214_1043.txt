@@ -179,7 +179,7 @@ teacher
 quoted
 by
 the
-NDR
+<[>NDR<]>
 ,
 the
 teen’s
@@ -327,13 +327,13 @@ the
 far
 -
 right
-PEGIDA
+<[>PEGIDA<]>
 movement
 .
 According
 to
 the
-NDR
+<[>NDR<]>
 report
 ,
 the
@@ -343,8 +343,8 @@ the
 lawyer
 through
 the
-‘Pax
-Europa’
+<[>‘Pax
+Europa’<]>
 movement
 ,
 a

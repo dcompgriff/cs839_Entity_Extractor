@@ -1,5 +1,5 @@
-EU
-UN
+<[>EU<]>
+<[>UN<]>
 Secretary
 -
 General
@@ -34,7 +34,7 @@ leader
 ,
 at
 the
-UN
+<[>UN<]>
 headquarters
 in
 New
@@ -80,17 +80,17 @@ island
 country
 ,
 the
-United
-Nations
+<[>United
+Nations<]>
 (
-UN
+<[>UN<]>
 )
 has
 announced
 .
 
 A
-UN
+<[>UN<]>
 spokesman
 ,
 Aleem
@@ -142,7 +142,7 @@ the
 presence
 of
 the
-UN
+<[>UN<]>
 envoy
 for
 Cyprus
@@ -214,7 +214,7 @@ within
 ,
 ”
 the
-UN
+<[>UN<]>
 spokesman
 said
 .
@@ -243,7 +243,7 @@ talks
 led
 by
 the
-UN
+<[>UN<]>
 nearly
 18
 months
@@ -270,7 +270,7 @@ rights
 .
 
 Previous
-UN
+<[>UN<]>
 -
 mediated
 talks
@@ -379,10 +379,10 @@ Cyprus
 has
 been
 a
-European
-Union
+<[>European
+Union<]>
 (
-EU
+<[>EU<]>
 )
 member
 since

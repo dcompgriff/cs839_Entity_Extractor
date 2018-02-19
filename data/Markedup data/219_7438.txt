@@ -6,9 +6,9 @@ sealed
 
 
 Source:
-Amnesty
+<[>Amnesty
 .
-org
+org<]>
 .
 ru
 The
@@ -22,11 +22,11 @@ of
 Moscow
 sealed
 the
-Moscow
+<[>Moscow
 office
 of
 Amnesty
-International
+International<]>
 human
 rights
 organization
@@ -88,9 +88,9 @@ a
 message
 from
 the
-Department
+<[>Department
 for
-Property
+Property<]>
 said
 .
 Human
@@ -109,8 +109,8 @@ was
 also
 noted
 that
-Amnesty
-International
+<[>Amnesty
+International<]>
 was
 supposed
 to
@@ -137,8 +137,8 @@ Later
 John
 Dalhuisen
 ,
-Amnesty
-International's
+<[>Amnesty
+International's<]>
 Europe
 and
 Central
@@ -218,14 +218,14 @@ the
 situation
 around
 the
-Moscow
+<[>Moscow
 office
 of
 Amnesty
-International
+International<]>
 .
-Amnesty
-International
+<[>Amnesty
+International<]>
 is
 an
 international
@@ -241,8 +241,8 @@ As
 of
 2013
 ,
-Amnesty
-International
+<[>Amnesty
+International<]>
 has
 about
 seven
