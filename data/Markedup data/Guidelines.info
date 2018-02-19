@@ -4,13 +4,13 @@
 4. Entity can span multiple lines. Don't use a line for just tag alone. Tag and the first/last word in entity come on same line.
 5. Entity are Institutions, like Corporations, Educational, Teams, and Govt. departments
 6. Don't include political parties.
-7. Don't include armed forces, police etc. 
-8. Can include Boy scouts etc as they can fall under educational
+7. Can include Boy scouts etc as they can fall under educational
+8. 5 word long institution maximum. (Maybe we need to tag only the first 5 words of an entity longer than 5?)
 
 # keep adding more rules here after confirming that with all. Need to keep tab on what rules we are following.
 
 Should we include "Communications" from the mention "Director of Communications" ??
 Should we include domain name "b.com" from email address "a@b.com"
-"Wall Street"?
-"Hilary Clinton Campaign"?"HRC"?
-"Catholic Church"? "The Church"?
+"Wall Street"? No
+"Hilary Clinton Campaign"?"HRC"? Yes
+"Catholic Church"? "The Church"? Yes

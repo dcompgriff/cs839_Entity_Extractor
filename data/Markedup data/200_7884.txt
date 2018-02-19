@@ -75,7 +75,7 @@ actors
 were
 hired
 on
-Craigslist
+<[>Craigslist<]>
 and
 trained
 to
@@ -87,7 +87,7 @@ For
 example
 ,
 one
-Craigslist
+<[>Craigslist<]>
 ad
 was
 answered
@@ -135,9 +135,9 @@ my
 guess
 would
 be
-Hillary
+<[>Hillary
 Clinton’s
-campaign
+campaign<]>
 ,
 ”
 Horner
@@ -160,10 +160,10 @@ from
 a
 group
 called
-‘Women
+<[>‘Women
 Are
 The
-Future’
+Future’<]>
 .
 After
 I
@@ -379,13 +379,13 @@ caught
 on
 video
 from
-Project
-Veritas
+<[>Project
+Veritas<]>
 shows
 how
 the
-Clinton
-campaign
+<[>Clinton
+campaign<]>
 caused
 disruptions
 via
@@ -427,7 +427,7 @@ Then
 there
 was
 this
-Craigslist
+<[>Craigslist<]>
 ad
 .
 
@@ -456,8 +456,8 @@ these
 just
 like
 the
-Clinton
-campaign
+<[>Clinton
+campaign<]>
 ,
 are
 rigged
@@ -538,8 +538,8 @@ from
 a
 group
 called
-DC
-Leaks
+<[>DC
+Leaks<]>
 got
 into
 the
@@ -547,8 +547,8 @@ private
 documents
 of
 the
-Open
-Society
+<[>Open
+Society<]>
 ,
 an
 organization
@@ -560,8 +560,8 @@ Soros
 Soros
 ,
 whom
-DC
-Leaks
+<[>DC
+Leaks<]>
 referred
 to
 as
@@ -605,8 +605,8 @@ for
 decades
 .
 
-Zero
-Hedge
+<[>Zero
+Hedge<]>
 reported
 on
 the
@@ -628,9 +628,9 @@ organizations
 .
 Soros’
 the
-Open
+<[>Open
 Society
-Foundations
+Foundations<]>
 seems
 to
 be
@@ -675,8 +675,8 @@ America
 Africa
 ,
 the
-World
-Bank
+<[>World
+Bank<]>
 “the
 President’s
 Office”
@@ -688,12 +688,12 @@ an
 unknown
 entity
 named
-SOUK
+<[>SOUK<]>
 .
 As
 the
-Daily
-Caller
+<[>Daily
+Caller<]>
 notes
 ,
 there
@@ -788,7 +788,7 @@ An
 email
 leaked
 by
-WikiLeaks
+<[>WikiLeaks<]>
 earlier
 this
 week
@@ -849,8 +849,8 @@ a
 siege
 .
 The
-Washington
-Times
+<[>Washington
+Times<]>
 reported:
 
 …liberal
@@ -893,9 +893,9 @@ what
 he
 did
 with
-MoveOn
+<[>MoveOn
 .
-org
+org<]>
 .
 
 Mr
@@ -931,9 +931,9 @@ financial
 records
 reviewed
 by
-The
+<[>The
 Washington
-Times
+Times<]>
 .
 
 In
@@ -983,9 +983,9 @@ filings
 of
 his
 nonprofit
-Open
+<[>Open
 Society
-Foundations…
+Foundations…<]>
 EVERYDAY
 CARRY
 GEAR
@@ -1009,12 +1009,12 @@ as
 usual
 for
 the
-OSF
+<[>OSF
 (
 Open
 Society
 Foundation
-)
+)<]>
 ,
 as
 explained
@@ -1028,7 +1028,7 @@ Mr
 .
 Zimmerman
 said
-OSF
+<[>OSF<]>
 has
 been
 giving
@@ -1132,9 +1132,9 @@ increasingly
 evident
 to
 the
-social
+<[>social
 justice
-groups
+groups<]>
 involved
 that
 what
@@ -1283,10 +1283,10 @@ media
 echo
 chamber
 of
-Facebook
+<[>Facebook<]>
 “likes”
 and
-Twitter
+<[>Twitter<]>
 hashtags
 that
 dominated
@@ -1323,8 +1323,8 @@ It’s
 FACT
 .
 The
-Daily
-Mail
+<[>Daily
+Mail<]>
 reported
 that
 Soros
@@ -1338,8 +1338,8 @@ the
 protests
 .
 The
-Washington
-Times
+<[>Washington
+Times<]>
 reported
 that
 it
@@ -1361,9 +1361,9 @@ wanted
 to
 help
 the
-civil
+<[>civil
 rights
-movement
+movement<]>
 .
 What
 a
@@ -1383,11 +1383,11 @@ the
 kabillionaires
 .
 The
-Ford
-Foundation
+<[>Ford
+Foundation<]>
 and
-Rockefeller
-foundation
+<[>Rockefeller
+foundation<]>
 also
 fund
 “social
@@ -1414,9 +1414,9 @@ mind
 that
 the
 organization
-Black
+<[>Black
 Lives
-Matter
+Matter<]>
 was
 born
 through
@@ -1442,9 +1442,9 @@ familiar
 ,
 that’s
 because
-MoveOn
+<[>MoveOn
 .
-org
+org<]>
 is
 organizing
 a
@@ -1453,7 +1453,7 @@ of
 them
 ,
 and
-MoveOn
+<[>MoveOn<]>
 is
 funded
 by
@@ -1486,8 +1486,8 @@ proud
 instigator
 is
 the
-Answer
-Coalition
+<[>Answer
+Coalition<]>
 which
 also
 –
@@ -1687,9 +1687,9 @@ can
 follow
 Daisy
 on
-Facebook
+<[>Facebook<]>
 and
-Twitter
+<[>Twitter<]>
 ,
 and
 you
