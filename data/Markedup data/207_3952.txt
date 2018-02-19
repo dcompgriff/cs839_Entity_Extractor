@@ -69,8 +69,8 @@ reporters
 which
 influenced
 the
-Electoral
-College
+<[>Electoral
+College<]>
 before
 the
 election

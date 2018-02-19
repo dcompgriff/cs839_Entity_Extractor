@@ -1,6 +1,6 @@
-We
+<[>We
 Are
-Change
+Change<]>
 
 
 In
@@ -71,7 +71,7 @@ the
 Republican
 candidate
 from
-Yuengling
+<[>Yuengling<]>
 ,
 America’s
 oldest
@@ -110,9 +110,9 @@ D
 .
 G
 .
-Yuengling
+<[>Yuengling
 &
-Son’s
+Son’s<]>
 ,
 located
 in
@@ -173,7 +173,7 @@ that
 they’d
 never
 drink
-Yuengling
+<[>Yuengling<]>
 again
 .
 This
@@ -215,7 +215,7 @@ Sims
 announced
 on
 his
-Facebook
+<[>Facebook<]>
 page
 that
 he
@@ -224,8 +224,8 @@ saying
 “GOOD
 BYE”
 to
-Yuengling
-Brewery
+<[>Yuengling
+Brewery<]>
 .
 “I’m
 not
@@ -255,8 +255,8 @@ and
 values
 !
 Supporting
-Yuengling
-Brewery
+<[>Yuengling
+Brewery<]>
 ,
 that
 uses
@@ -282,7 +282,7 @@ a
 member
 of
 the
-LGBT
+<[>LGBT<]>
 community
 and
 punish
@@ -503,11 +503,11 @@ June
 report
 from
 the
-Philadelphia
+<[>Philadelphia
 Department
 of
 Public
-Health
+Health<]>
 ,
 entitled
 “The
@@ -557,7 +557,7 @@ S
 according
 to
 the
-Centers
+<[>Centers
 for
 Disease
 Control
@@ -565,7 +565,7 @@ Control
 Prevention
 (
 CDC
-)
+)<]>
 .
 Sixty
 -
@@ -1072,8 +1072,8 @@ post
 Political
 Correctness
 for
-Yuengling
-Brewery
+<[>Yuengling
+Brewery<]>
 ;
 What
 About
@@ -1084,7 +1084,7 @@ Epidemic
 appeared
 first
 on
-We
+<[>We
 Are
-Change
+Change<]>
 .

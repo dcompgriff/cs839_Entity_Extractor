@@ -3,8 +3,8 @@ something
 interesting
 from
 The
-Unz
-Review
+<[>Unz
+Review<]>
 .
 .
 .
@@ -15,7 +15,7 @@ Email
 =>
 
 When
-FBI
+<[>FBI<]>
 Director
 James
 Comey
@@ -25,9 +25,9 @@ July
 5
 that
 the
-Department
+<[>Department
 of
-Justice
+Justice<]>
 would
 not
 seek
@@ -82,7 +82,7 @@ by
 the
 behavior
 of
-FBI
+<[>FBI<]>
 agents
 who
 wouldn’t
@@ -96,7 +96,7 @@ Did
 he
 let
 the
-FBI
+<[>FBI<]>
 become
 a
 political
@@ -111,7 +111,7 @@ story
 .
 
 The
-FBI
+<[>FBI<]>
 began
 investigating
 the
@@ -126,9 +126,9 @@ of
 ,
 when
 The
-New
+<[>New
 York
-Times
+Times<]>
 revealed
 Clinton’s
 use
@@ -153,8 +153,8 @@ preserve
 the
 emails
 on
-State
-Department
+<[>State
+Department<]>
 servers
 ,
 contrary
@@ -235,7 +235,7 @@ later
 ,
 the
 senior
-FBI
+<[>FBI<]>
 agent
 in
 charge
@@ -250,7 +250,7 @@ and
 retired
 from
 the
-FBI
+<[>FBI<]>
 because
 he
 felt
@@ -295,7 +295,7 @@ field
 offices
 of
 the
-FBI
+<[>FBI<]>
 and
 ,
 at
@@ -311,10 +311,10 @@ the
 chief
 of
 the
-FBI
+<[>FBI
 National
 Security
-Branch
+Branch<]>
 .
 
 The
@@ -329,9 +329,9 @@ been
 Giacalone’s
 realization
 that
-DOJ
+<[>DOJ<]>
 and
-FBI
+<[>FBI<]>
 senior
 management
 had
@@ -365,10 +365,10 @@ criminal
 cases
 ,
 the
-FBI
+<[>FBI<]>
 and
 the
-DOJ
+<[>DOJ<]>
 cannot
 issue
 subpoenas
@@ -394,7 +394,7 @@ grand
 jury
 ,
 the
-FBI
+<[>FBI<]>
 would
 be
 toothless
@@ -417,7 +417,7 @@ grand
 jury
 ,
 the
-FBI
+<[>FBI<]>
 would
 have
 a
@@ -572,7 +572,7 @@ and
 determination
 —
 some
-FBI
+<[>FBI<]>
 agents
 privately
 came
@@ -709,9 +709,9 @@ We
 know
 that
 the
-National
+<[>National
 Security
-Agency
+Agency<]>
 can
 access
 anything
@@ -767,7 +767,7 @@ be
 indicted
 because
 the
-FBI
+<[>FBI<]>
 had
 determined
 that
@@ -879,8 +879,8 @@ lied
 when
 he
 told
-CBS
-News
+<[>CBS
+News<]>
 that
 he
 learned
@@ -911,7 +911,7 @@ as
 head
 of
 the
-FBI
+<[>FBI<]>
 Washington
 field
 office
@@ -924,7 +924,7 @@ No
 person
 in
 the
-FBI
+<[>FBI<]>
 ,
 is
 married
@@ -956,8 +956,8 @@ failed
 run
 for
 the
-Virginia
-Senate
+<[>Virginia
+Senate<]>
 .
 Comey
 apparently
@@ -1023,7 +1023,7 @@ that
 he
 ordered
 the
-FBI
+<[>FBI<]>
 to
 exonerate
 Clinton
@@ -1037,7 +1037,7 @@ damned
 ?
 Did
 the
-FBI
+<[>FBI<]>
 lose
 its
 reputation
@@ -1061,7 +1061,7 @@ is
 not
 your
 grandfather’s
-FBI
+<[>FBI<]>
 —
 or
 your
@@ -1071,7 +1071,7 @@ It
 is
 the
 Obama
-FBI
+<[>FBI<]>
 .
 
 Copyright
@@ -1083,7 +1083,7 @@ Napolitano
 .
 Distributed
 by
-Creators
+<[>Creators
 .
-com
+com<]>
 .
