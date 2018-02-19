@@ -1,6 +1,6 @@
 Share
 on
-Twitter
+<[>Twitter<]>
 
 Ten
 months
@@ -133,9 +133,9 @@ acquitted
 .
 
 The
-New
+<[>New
 York
-Times
+Times<]>
 reports:
 
 "
@@ -150,10 +150,10 @@ occupied
 and
 held
 the
-Malheur
+<[>Malheur
 National
 Wildlife
-Refuge
+Refuge<]>
 headquarters
 for
 nearly
@@ -163,8 +163,8 @@ weeks
 demanding
 that
 the
-federal
-government
+<[>federal
+government<]>
 surrender
 the
 188
@@ -204,16 +204,16 @@ workers
 employees
 of
 the
-Fish
+<[>Fish
 and
 Wildlife
-Service
+Service<]>
 and
 the
-Bureau
+<[>Bureau
 of
 Land
-Management
+Management<]>
 —
 from
 doing
@@ -223,8 +223,8 @@ jobs
 "
 
 The
-Washington
-Times
+<[>Washington
+Times<]>
 provided
 some
 additional
@@ -306,12 +306,12 @@ J
 Brown
 of
 the
-U
+<[>U
 .
 S
 .
 District
-Court
+Court<]>
 ordered
 that
 one
@@ -426,11 +426,11 @@ he
 was
 tackled
 by
-U
+<[>U
 .
 S
 .
-Marshals
+Marshals<]>
 in
 the
 courtroom:
@@ -446,8 +446,8 @@ by
 at
 least
 5
-us
-marshals
+<[>us
+marshals<]>
 after
 kept
 arguing

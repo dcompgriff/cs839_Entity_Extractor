@@ -183,9 +183,9 @@ pronunciation
 Raymond
 Navarro
 of
-Catholic
+<[>Catholic
 broadcaster
-EWTN
+EWTN<]>
 asked
 him
 directly
@@ -287,7 +287,7 @@ this
 funny
 clip
 from
-Bloomberg
+<[>Bloomberg<]>
 ,
 which
 was
@@ -314,7 +314,7 @@ Featured
 image:
 screenshot
 from
-YouTube
+<[>YouTube<]>
 video
 Connect
 with

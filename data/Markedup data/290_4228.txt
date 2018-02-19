@@ -41,8 +41,8 @@ church
 ,
 according
 to
-CBN
-News
+<[>CBN
+News<]>
 .
 Workmen
 ,
@@ -52,8 +52,8 @@ watchful
 eye
 of
 The
-National
-Geographic
+<[>National
+Geographic<]>
 ,
 have
 gently
@@ -91,8 +91,8 @@ Fredrik
 Hiebert
 ,
 a
-National
-Geographic
+<[>National
+Geographic<]>
 archeologist
 -
 in
@@ -448,9 +448,9 @@ Tomb
 Scientists
 from
 the
-National
+<[>National
 Technical
-University
+University<]>
 of
 Athens
 are
@@ -749,8 +749,8 @@ by
 Jeanette
 Smith
 Sources:
-CBN
-News:
+<[>CBN
+News:<]>
 What
 Researchers
 Found
@@ -770,8 +770,8 @@ Revealed
 in
 New
 Images
-National
-Geographic:
+<[>National
+Geographic:<]>
 Exclusive:
 Christ’s
 Burial

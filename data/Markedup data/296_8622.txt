@@ -5,8 +5,8 @@ as
 Monday
 evening
 the
-Huffington
-Post
+<[>Huffington
+Post<]>
 was
 98
 %
@@ -124,8 +124,8 @@ electoral
 map
 .
 The
-Huffington
-Post
+<[>Huffington
+Post<]>
 is
 freaking
 out
@@ -187,4 +187,4 @@ Live
 Election
 Coverage
 with
-NBC:
+<[>NBC:<]>

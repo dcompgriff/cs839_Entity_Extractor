@@ -3,9 +3,9 @@ Email
 In
 September
 the
-National
+<[>National
 ICE
-Council
+Council<]>
 ,
 representing
 some
@@ -212,7 +212,7 @@ countless
 preventable
 deaths…
 .
-ICE
+<[>ICE<]>
 officers
 on
 the
@@ -604,8 +604,8 @@ those
 noted
 in
 the
-ICE
-Council’s
+<[>ICE
+Council’s<]>
 warning
 ,
 will
@@ -648,9 +648,9 @@ regular
 contributor
 to
 The
-New
+<[>New
 American
-magazine
+magazine<]>
 and
 blogs
 frequently

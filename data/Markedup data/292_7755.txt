@@ -28,7 +28,7 @@ Oct
 2016
 .
 Source:
-Reuters
+<[>Reuters<]>
 
 Madrid
 has
@@ -193,11 +193,11 @@ heavy
 criticism
 from
 its
-NATO
+<[>NATO<]>
 allies
 .
 
-NATO
+<[>NATO<]>
 Secretary
 General
 Jens
@@ -288,11 +288,11 @@ that
 members
 of
 the
-Congress
+<[>Congress
 of
 Deputies
 of
-Spain
+Spain<]>
 from
 the
 party
@@ -330,7 +330,7 @@ the
 territory
 of
 a
-NATO
+<[>NATO<]>
 country
 .
 9
@@ -685,7 +685,7 @@ U
 S
 .
 and
-NATO
+<[>NATO<]>
 ,
 the
 entry
@@ -733,15 +733,15 @@ Pukhov
 director
 of
 the
-Center
+<[>Center
 for
 Analysis
 of
 Strategies
 and
-Technologies
+Technologies<]>
 (
-TsAST
+<[>TsAST<]>
 )
 ,
 does
@@ -913,7 +913,7 @@ conditions
 .
 "
 
-TsAST
+<[>TsAST<]>
 expert
 Andrei
 Frolov
@@ -980,4 +980,4 @@ to
 our
 mailing
 list
-Facebook
+<[>Facebook<]>

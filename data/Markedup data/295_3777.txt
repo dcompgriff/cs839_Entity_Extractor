@@ -54,7 +54,7 @@ Clinton
 .
 As
 the
-FBI
+<[>FBI<]>
 continues
 its
 investigations
@@ -86,9 +86,9 @@ narrator
 ”
 as
 the
-New
+<[>New
 York
-Times
+Times<]>
 called
 David
 Axelrod
@@ -530,9 +530,9 @@ he
 would
 have
 attended
-Patrice
+<[>Patrice
 Lumumba
-University
+University<]>
 in
 Moscow
 .
@@ -1199,7 +1199,7 @@ president’s
 speech
 at
 the
-Democratic
+<[>Democratic
 National
-Convention
+Convention<]>
 .

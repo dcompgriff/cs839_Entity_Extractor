@@ -10,9 +10,9 @@ comments
 Students
 at
 the
-University
+<[>University
 of
-Massachusetts
+Massachusetts<]>
 ,
 Amherst
 are
@@ -80,9 +80,9 @@ call
 Students
 at
 the
-University
+<[>University
 of
-Massachusetts
+Massachusetts<]>
 ,
 Amherst
 are
@@ -162,7 +162,7 @@ met
 ,
 though
 the
-Facebook
+<[>Facebook<]>
 event
 specifies
 a
@@ -199,11 +199,11 @@ Tweet
 This
 
 
-Gender
+<[>Gender
 Liberation
-UMass
+UMass<]>
 (
-GLU
+<[>GLU<]>
 )
 ,
 a
@@ -411,7 +411,7 @@ a
 statement
 on
 its
-Facebook
+<[>Facebook<]>
 page
 expressing
 solidarity

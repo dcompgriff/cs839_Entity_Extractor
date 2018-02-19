@@ -9,7 +9,7 @@ Wrigley
 Field
 Crowd’s
 Indigestion
-Close
+Close 
 Vol
 52
 Issue
@@ -202,12 +202,12 @@ WATCH
 VIDEO
 FROM
 THE
-ONION
+<[>ONION<]>
 Sign
 up
 For
 The
-Onion's
+<[>Onion's<]>
 Newsletter
 
 Give

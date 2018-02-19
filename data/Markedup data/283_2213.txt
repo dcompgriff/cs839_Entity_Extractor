@@ -66,8 +66,8 @@ secretary
 Donald
 Evans
 ,
-Dallas
-Cowboys
+<[>Dallas
+Cowboys<]>
 owner
 and
 general
@@ -204,10 +204,10 @@ a
 librarian
 in
 the
-Austin
+<[>Austin
 Independent
 School
-District
+District<]>
 when
 she
 met
@@ -235,10 +235,10 @@ November
 1977
 at
 the
-First
+<[>First
 United
 Methodist
-Church
+Church<]>
 in
 Midland
 ,

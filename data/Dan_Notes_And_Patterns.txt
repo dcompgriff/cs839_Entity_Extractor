@@ -7,6 +7,7 @@ Dan Notes and Patterns:
 *"they" comes after
 *Contains "of", or "of" as second word.
 *Contains "for"
+*Contains University
 *"in" comes before, as a feature for indicating "not an institution", as it is likely a place.
 *"near", "at" comes before or after, as a feature for indicating "not an institution", as it is likely a place.
 *"is" comes after.

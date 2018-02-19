@@ -118,9 +118,9 @@ vitriol
 from
 groups
 like
-Black
+<[>Black
 Lives
-Matter
+Matter<]>
 has
 never
 been
@@ -824,7 +824,7 @@ was
 boycotted
 by
 the
-NAACP
+<[>NAACP<]>
 ,
 but
 a

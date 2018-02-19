@@ -54,8 +54,8 @@ https://t
 co/acC8lhBGki
 
 —
-NBC
-News
+<[>NBC
+News<]>
 (
 @NBCNews
 )
@@ -93,8 +93,8 @@ twitter
 com/SWXo4mNOT4
 
 —
-Washington
-Examiner
+<[>Washington
+Examiner<]>
 (
 @dcexaminer
 )

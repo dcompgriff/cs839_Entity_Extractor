@@ -2,7 +2,7 @@
 2. Use Tag <[> at the start of entity mention
 3. Use tag <]> at the end of the mention.
 4. Entity can span multiple lines. Don't use a line for just tag alone. Tag and the first/last word in entity come on same line.
-5. Entity are Institutions, like Corporations, Educational, Teams, and Govt. departments (Include police like NYPD)
+5. Entity are Institutions or Organizations, like Corporations, Educational, Teams, and Govt. departments (Include police like NYPD)
 6. Don't include political parties. (Include things like "Congress", and "Virginia Senate")
 7. Can include Boy scouts etc as they can fall under educational
 8. 8 word long institution maximum? (Maybe we need to tag only the first 8 words of an entity longer than 8?)

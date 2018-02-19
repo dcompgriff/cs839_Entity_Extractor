@@ -30,7 +30,7 @@ I
 agreed
 that
 the
-FBI
+<[>FBI<]>
 should
 take
 appropriate
@@ -200,7 +200,7 @@ not
 mean
 the
 the
-FBI
+<[>FBI<]>
 is
 suddenly
 going
@@ -275,8 +275,8 @@ of
 impropriety
 at
 the
-Clinton
-Foundation
+<[>Clinton
+Foundation<]>
 that
 had
 finally
