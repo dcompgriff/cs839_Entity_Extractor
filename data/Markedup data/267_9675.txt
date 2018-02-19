@@ -195,8 +195,8 @@ the
 pro
 -
 abortion
-Guttmacher
-Institute
+<[>Guttmacher
+Institute<]>
 found
 that
 abortions
@@ -691,8 +691,8 @@ candidacy
 in
 return
 .
-Planned
-Parenthood
+<[>Planned
+Parenthood<]>
 has
 given
 $

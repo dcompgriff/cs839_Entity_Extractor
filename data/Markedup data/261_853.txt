@@ -456,13 +456,13 @@ House
 Last
 week
 ,
-National
-Intelligence
+<[>National
+Intelligence<]>
 Director
 and
 former
-Air
-Force
+<[>Air
+Force<]>
 General
 James
 Clapper
@@ -564,7 +564,7 @@ in
 Europe
 ,
 as
-NATO
+<[>NATO<]>
 defense
 ministers
 met
@@ -627,7 +627,7 @@ explained
 ,
 referring
 to
-NATO’s
+<[>NATO’s<]>
 July
 summit
 meeting
@@ -1018,7 +1018,7 @@ a
 career
 as
 a
-CIA
+<[>CIA<]>
 analyst
 under
 President
@@ -1111,8 +1111,8 @@ author’s
 permission
 from
 the
-Baltimore
-Sun
+<[>Baltimore
+Sun<]>
 .
 Read
 more

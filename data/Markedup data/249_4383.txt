@@ -19,9 +19,9 @@ Sarah
 Snyder
 .
 
-Health
+<[>Health
 Impact
-News
+News<]>
 
 The
 VAXXED
@@ -273,8 +273,8 @@ a
 trip
 to
 the
-Mayo
-clinic
+<[>Mayo
+clinic<]>
 ,
 Savannah
 was
@@ -359,9 +359,9 @@ on
 this
 article
 at
-VaccineImpact
+<[>VaccineImpact
 .
-com
+com<]>
 .
 
 Watch
@@ -610,11 +610,11 @@ is
 presented
 by
 the
-U
+<[>U
 .
 S
 .
-Government
+Government<]>
 and
 mainstream
 media
@@ -704,7 +704,7 @@ size
 fits
 -
 all
-CDC
+<[>CDC<]>
 childhood
 schedule
 .
@@ -820,8 +820,8 @@ pharmaceutical
 industry
 ,
 the
-federal
-government
+<[>federal
+government<]>
 ,
 and
 the

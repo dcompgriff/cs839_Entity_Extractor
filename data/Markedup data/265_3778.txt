@@ -1,6 +1,6 @@
 Why
-Time
-Magazine’s
+<[>Time
+Magazine’s<]>
 Joe
 Klein
 Is
@@ -24,8 +24,8 @@ November
 Joseph
 Klein
 
-Time
-Magazine’s
+<[>Time
+Magazine’s<]>
 Joe
 Klein
 has
@@ -155,8 +155,8 @@ a
 private
 server
 for
-State
-Department
+<[>State
+Department<]>
 business
 while
 she
@@ -172,8 +172,8 @@ pay
 for
 -
 play
-Clinton
-Foundation
+<[>Clinton
+Foundation<]>
 .
 
 “There
@@ -576,9 +576,9 @@ right
 when
 she
 parrots
-Black
+<[>Black
 Lives
-Matter’s
+Matter’s<]>
 stereotypical
 attacks
 on
@@ -744,8 +744,8 @@ aides
 have
 targeted
 the
-Catholic
-Church
+<[>Catholic
+Church<]>
 in
 particular
 for
@@ -789,8 +789,8 @@ gender
 equality
 in
 the
-Catholic
-Church
+<[>Catholic
+Church<]>
 ,
 ”
 wrote
@@ -799,9 +799,9 @@ Newman
 ,
 president
 of
-Voices
+<[>Voices
 for
-Progress
+Progress<]>
 ,
 in
 an
@@ -859,8 +859,8 @@ so
 now
 .
 Likewise
-Catholics
-United
+<[>Catholics
+United<]>
 .
 Like
 most
@@ -881,8 +881,8 @@ up
 ”
 
 When
-Time
-Magazine’s
+<[>Time
+Magazine’s<]>
 Joe
 Klein
 talks

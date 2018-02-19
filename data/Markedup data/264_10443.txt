@@ -137,9 +137,9 @@ Russians
 This
 is
 now
-World
+<[>World
 Wrestling
-Entertainment
+Entertainment<]>
 on
 a
 global

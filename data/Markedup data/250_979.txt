@@ -1,7 +1,7 @@
 Email
 
 
-Reddit
+<[>Reddit<]>
 users
 (
 also
@@ -16,13 +16,13 @@ angry
 at
 pro
 -
-Hillary
+<[>Hillary
 Clinton
 political
 action
-committee
+committee<]>
 (
-PAC
+<[>PAC<]>
 )
 Correct
 The
@@ -47,9 +47,9 @@ are
 especially
 concerned
 that
-Correct
+<[>Correct
 The
-Record’s
+Record’s<]>
 paid
 internet
 commenters
@@ -57,7 +57,7 @@ are
 suppressing
 revelations
 from
-WikiLeaks’
+<[>WikiLeaks’<]>
 release
 of
 Clinton
@@ -81,7 +81,7 @@ Clinton
 campaign
 .
 
-Reddit
+<[>Reddit<]>
 ,
 which
 describes
@@ -131,7 +131,7 @@ post
 does
 well
 on
-Reddit
+<[>Reddit<]>
 (
 and
 ,

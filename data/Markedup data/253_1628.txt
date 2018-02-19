@@ -43,8 +43,8 @@ a
 technology
 journalist
 for
-Network
-World
+<[>Network
+World<]>
 ,
 an
 author
@@ -70,12 +70,12 @@ app
 was
 developed
 by
-In
+<[>In
 -
 Q
 -
 Tel
-corporation
+corporation<]>
 which
 is
 the
@@ -84,7 +84,7 @@ capital
 firm
 of
 the
-CIA
+<[>CIA<]>
 ,
 and
 how
@@ -97,7 +97,7 @@ phones
 and
 provides
 the
-CIA
+<[>CIA<]>
 access
 to
 all

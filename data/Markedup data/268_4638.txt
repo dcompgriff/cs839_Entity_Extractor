@@ -12,7 +12,7 @@ Clinton
 was
 running
 for
-Senate
+<[>Senate<]>
 in
 New
 York

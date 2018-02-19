@@ -210,9 +210,9 @@ his
 address
 to
 the
-UN
+<[>UN
 General
-Assembly
+Assembly<]>
 that
 Moscow
 continued
@@ -250,8 +250,8 @@ Consider
 helping
 us
 !
-Russia
-Insider
+<[>Russia
+Insider<]>
 depends
 on
 your

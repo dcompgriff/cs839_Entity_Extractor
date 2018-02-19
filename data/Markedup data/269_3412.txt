@@ -3,9 +3,9 @@ November
 ,
 2016
 -
-Fort
+<[>Fort
 Russ
-News
+News<]>
 -
 
 
@@ -152,11 +152,11 @@ International
 human
 rights
 organization
-Human
+<[>Human
 Rights
-Action
+Action<]>
 (
-HRA
+<[>HRA<]>
 )
 said
 that
@@ -598,9 +598,9 @@ is
 chairman
 of
 the
-National
+<[>National
 Affairs
-Council
+Council<]>
 in
 the
 Government
@@ -609,16 +609,16 @@ Moscow
 ,
 and
 the
-Foundation
-projects
+<[>Foundation
+projects<]>
 director
 ,
 international
 relations
 for
 the
-Neighbourhood
-Foundation
+<[>Neighbourhood
+Foundation<]>
 .
 
 
@@ -891,11 +891,11 @@ In
 addition
 ,
 the
-Federal
+<[>Federal
 Migration
 Service
 of
-Russia
+Russia<]>
 ,
 which
 was
@@ -922,10 +922,10 @@ turned
 over
 to
 the
-Interior
+<[>Interior
 Ministry
 of
-Russia
+Russia<]>
 ,
 a
 Ministry
@@ -1118,7 +1118,7 @@ Tr
 Follow
 us
 on
-Facebook
+<[>Facebook<]>
 !
 
 
@@ -1234,7 +1234,7 @@ Facebook
 Follow
 us
 on
-Twitter
+<[>Twitter<]>
 !
 
 

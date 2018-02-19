@@ -137,8 +137,8 @@ UK
 -
 based
 publication
-Politics
-First
+<[>Politics
+First<]>
 to
 discuss
 the
@@ -165,7 +165,7 @@ bigs
 like
 US
 -
-NATO
+<[>NATO<]>
 and
 Russian
 relations
@@ -241,7 +241,7 @@ HillaryBettingPool
 .
 
 SUPPORT
-21WIRE
+<[>21WIRE<]>
 –
 SUBSCRIBE
 &

@@ -120,7 +120,7 @@ nominee
 
 So
 despite
-FBI
+<[>FBI<]>
 Director
 James
 Comey’s
@@ -164,7 +164,7 @@ a
 part
 of
 the
-FBI’s
+<[>FBI’s<]>
 investigation
 into
 allegations
@@ -236,8 +236,8 @@ civil
 lawsuit
 filed
 by
-Judicial
-Watch
+<[>Judicial
+Watch<]>
 .
 
 “There’s
@@ -277,7 +277,7 @@ new
 information
 that
 the
-FBI
+<[>FBI<]>
 found
 State
 Department
@@ -362,7 +362,7 @@ subsequently
 reviewed
 by
 the
-FBI
+<[>FBI<]>
 .
 )
 
@@ -394,8 +394,8 @@ Attorney
 Ramona
 Cotca
 for
-Judicial
-Watch
+<[>Judicial
+Watch<]>
 asked
 her
 .

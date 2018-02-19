@@ -19,7 +19,8 @@ Dan Notes and Patterns:
 *"named", "entity"
 *"group", "organization", "society", "founded", "formed", "foundation", "community", "agency", "center"
 "movement", "newspaper" in or nearby
-*".org", ".com", ".co", "ltd", "partners", "company", "project", "corporation", "website", "nonprofit" before or after.
+*".org", ".com", ".co", "ltd", "partners", "company", "project", "corporation", "website", 
+"nonprofit", "center" before or after.
 *Capital letters, and number of capital letters
 *Not a city, state, or country
 *Frequency of occurrence, or sub-word occurence in document. ("FBI National Security Branch" contains "FBI"
