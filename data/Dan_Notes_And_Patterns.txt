@@ -17,7 +17,7 @@ Dan Notes and Patterns:
 *"reported", "notes", "reviewed" and similar words comes after (But not "said", as these are people)
 *"by" comes before (This may cause some issues though, as it could be cause names of people to occur)
 *"named", "entity"
-*"group", "organization", "society", "founded", "formed", "foundation", "community", "agency"
+*"group", "organization", "society", "founded", "formed", "foundation", "community", "agency", "center"
 "movement", "newspaper" in or nearby
 *".org", ".com", ".co", "ltd", "partners", "company", "project", "corporation", "website", "nonprofit" before or after.
 *Capital letters, and number of capital letters

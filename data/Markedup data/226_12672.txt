@@ -6,11 +6,11 @@ $
 ,
 000
 to
-U
+<[>U
 .
 S
 .
-Treasury
+Treasury<]>
 'I
 promised
 Kentuckians

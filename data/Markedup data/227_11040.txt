@@ -262,7 +262,7 @@ today
 Reuters
 copy
 /
-TRUNEWS
+<[>TRUNEWS<]>
 analysis
 .
 Article
@@ -270,5 +270,5 @@ by
 ,
 Correspondent
 for
-TRUNEWS
+<[>TRUNEWS<]>
 

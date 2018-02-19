@@ -138,11 +138,11 @@ executive
 director
 of
 the
-United
+<[>United
 Nations
 children’s
 agency
-UNICEF
+UNICEF<]>
 ,
 of
 the
@@ -197,7 +197,7 @@ future
 ”
 According
 to
-BBC
+<[>BBC<]>
 :
 The
 attack
@@ -230,7 +230,7 @@ buildings
 ,
 reports
 the
-BBC’s
+<[>BBC’s<]>
 James
 Longman
 in

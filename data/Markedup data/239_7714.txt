@@ -20,7 +20,7 @@ Russian
 auto
 giant
 .
-Facebook
+<[>Facebook<]>
 india
 ,
 kamaz
@@ -33,12 +33,12 @@ from
 the
 Indian
 company
-KLT
+<[>KLT
 Automotive
 &
 Tubular
 Products
-Ltd
+Ltd<]>
 .
 visited
 the
@@ -95,8 +95,8 @@ Thakkar
 Managing
 Director
 of
-KLT
-Automotive
+<[>KLT
+Automotive<]>
 ,
 while
 KAMAZ
@@ -144,11 +144,11 @@ CUMMINS
 KAMAZ
 and
 the
-KAMAZ
+<[>KAMAZ
 Scientific
 and
 Technical
-Center
+Center<]>
 ,
 where
 talks
@@ -159,12 +159,12 @@ held
 
 The
 company
-KLT
+<[>KLT
 Automotive
 &
 Tubular
 Products
-Ltd
+Ltd<]>
 .
 was
 founded
@@ -203,8 +203,8 @@ sites
 in
 India
 ,
-KLT
-Automotive
+<[>KLT
+Automotive<]>
 also
 has
 operations
@@ -212,4 +212,4 @@ in
 South
 Africa
 .
-Facebook
+<[>Facebook<]>

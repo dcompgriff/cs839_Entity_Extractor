@@ -170,8 +170,8 @@ catchall
 —
 and
 the
-Supreme
-Court’s
+<[>Supreme
+Court’s<]>
 refusal
 to
 hear
@@ -260,9 +260,9 @@ prison
 ,
 ”
 The
-New
+<[>New
 York
-Times
+Times<]>
 explained
 .
 “In
@@ -386,8 +386,8 @@ ridiculous
 capitulation
 by
 the
-Supreme
-Court
+<[>Supreme
+Court<]>
 to
 Alabama’s
 archaic
@@ -548,7 +548,7 @@ infantry
 service
 .
 
-Vox
+<[>Vox<]>
 reported
 that
 even
@@ -572,7 +572,7 @@ And
 according
 to
 the
-Times
+<[>Times<]>
 ,
 the
 judge
@@ -666,9 +666,9 @@ well
 ,
 as
 The
-Free
+<[>Free
 Thought
-Project
+Project<]>
 reported
 recently
 ,
@@ -711,9 +711,9 @@ Brooker
 now
 ,
 the
-Drug
+<[>Drug
 Enforcement
-Agency
+Agency<]>
 will
 likely
 downgrade
@@ -880,7 +880,7 @@ their
 jobs
 .
 
-Google
+<[>Google<]>
 +
 Harry
 Houston
@@ -935,15 +935,15 @@ however
 I
 would
 add
-UNITED
+<[>UNITED
 STATES
 DEPARTMENT
 OF
-JUSTICE
+JUSTICE<]>
 
-Drug
+<[>Drug
 Enforcement
-Administration
+Administration<]>
 
 OPINION
 AND
@@ -1303,8 +1303,8 @@ boy
 Don
 
 The
-American
-government
+<[>American
+government<]>
 has
 grown
 so

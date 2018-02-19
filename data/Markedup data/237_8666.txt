@@ -39,8 +39,8 @@ tangible
 victory
 .
 Though
-Ford
-Motors
+<[>Ford
+Motors<]>
 were
 resistant
 to
@@ -112,7 +112,7 @@ promises
 Either
 way
 ,
-Ford
+<[>Ford<]>
 and
 other
 big
@@ -197,7 +197,7 @@ office
 yet
 .
 
-Ford
+<[>Ford<]>
 CEO
 Folds
 ?
@@ -216,7 +216,7 @@ Durden
 Just
 hours
 after
-Ford
+<[>Ford<]>
 CEO
 complained
 of
@@ -298,13 +298,13 @@ first’
 victory
 .
 As
-WSJ
+<[>WSJ<]>
 reported
 yesterday
 ,
-Ford
+<[>Ford
 Motor
-Co
+Co<]>
 .
 Chief
 Executive
@@ -441,7 +441,7 @@ achieve
 that
 goal
 .
-Ford’s
+<[>Ford’s<]>
 plan
 to
 move
@@ -479,7 +479,7 @@ of
 its
 rivals
 ,
-Ford
+<[>Ford<]>
 is
 building
 more
@@ -528,7 +528,7 @@ Ford
 ,
 Chairman
 of
-Ford
+<[>Ford<]>
 ,
 who
 advised
@@ -610,7 +610,7 @@ by
 a
 statement
 from
-Ford
+<[>Ford<]>
 confirming
 Trump’s
 comment…
@@ -625,7 +625,7 @@ and
 originally
 published
 at
-Zero
-Hedge
+<[>Zero
+Hedge<]>
 .
 

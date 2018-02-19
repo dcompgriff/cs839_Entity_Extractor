@@ -56,10 +56,10 @@ Last
 Friday’s
 letter
 from
-Federal
+<[>Federal
 Bureau
 of
-Investigation
+Investigation<]>
 Director
 James
 Comey
@@ -103,7 +103,7 @@ raging
 conflicts
 within
 the
-FBI
+<[>FBI<]>
 and
 ,
 more
@@ -124,7 +124,7 @@ letter
 acknowledged
 that
 the
-FBI
+<[>FBI<]>
 has
 not
 actually
@@ -220,8 +220,8 @@ developments
 this
 weekend
 ,
-Justice
-Department
+<[>Justice
+Department<]>
 officials
 revealed
 that
@@ -244,10 +244,10 @@ longstanding
 principle
 that
 no
-Justice
-Department
+<[>Justice
+Department<]>
 or
-FBI
+<[>FBI<]>
 action
 that
 might
@@ -310,7 +310,7 @@ She
 also
 tweeted
 that
-“FBI
+<[>FBI<]>
 Director
 Comey
 bowed
@@ -518,7 +518,7 @@ to
 the
 publication
 by
-WikiLeaks
+<[>WikiLeaks<]>
 of
 tens
 of
@@ -585,7 +585,7 @@ then
 handed
 over
 to
-WikiLeaks
+<[>WikiLeaks<]>
 to
 damage
 Clinton
@@ -594,13 +594,13 @@ help
 Trump
 .
 
-NBC
-News
+<[>NBC
+News<]>
 reported
 Sunday
 that
 the
-FBI
+<[>FBI<]>
 has
 now
 obtained
@@ -639,7 +639,7 @@ Abedin
 Weiner
 is
 under
-FBI
+<[>FBI<]>
 investigation
 for
 allegedly
@@ -655,9 +655,9 @@ girl
 .
 
 The
-Wall
+<[>Wall
 Street
-Journal
+Journal<]>
 gave
 details
 ,
@@ -679,14 +679,14 @@ internal
 crisis
 within
 the
-FBI
+<[>FBI<]>
 that
 led
 to
 Comey’s
 letter
 to
-Congress
+<[>Congress<]>
 .
 By
 this
@@ -700,15 +700,15 @@ fierce
 battle
 within
 the
-FBI
+<[>FBI<]>
 and
 between
 the
-FBI
+<[>FBI<]>
 and
 the
-Justice
-Department
+<[>Justice
+Department<]>
 not
 only
 over
@@ -723,7 +723,7 @@ separate
 investigations
 involving
 four
-FBI
+<[>FBI<]>
 field
 offices
 (
@@ -746,8 +746,8 @@ the
 operations
 of
 the
-Clinton
-Foundation
+<[>Clinton
+Foundation<]>
 .
 
 More
@@ -756,7 +756,7 @@ eight
 months
 ago
 ,
-FBI
+<[>FBI<]>
 agents
 presented
 plans
@@ -773,8 +773,8 @@ career
 prosecutors
 in
 the
-Justice
-Department
+<[>Justice
+Department<]>
 ,
 only
 to
@@ -792,7 +792,7 @@ insufficient
 evidence
 .
 The
-FBI
+<[>FBI<]>
 offices
 nonetheless
 continued
@@ -825,12 +825,12 @@ substantial
 faction
 within
 the
-FBI
+<[>FBI<]>
 was
 convinced
 that
 top
-FBI
+<[>FBI<]>
 officials
 were
 covering
@@ -848,7 +848,7 @@ Clinton
 ,
 or
 the
-FBI
+<[>FBI<]>
 dissidents
 were
 politically
@@ -873,10 +873,10 @@ top
 officials
 in
 the
-FBI
+<[>FBI<]>
 and
-Justice
-Department
+<[>Justice
+Department<]>
 opposed
 these
 efforts
@@ -890,12 +890,12 @@ in
 leaks
 to
 the
-Wall
+<[>Wall
 Street
-Journal
+Journal<]>
 centrally
 targeting
-FBI
+<[>FBI<]>
 Deputy
 Director
 Andrew
@@ -909,8 +909,8 @@ unsuccessful
 Democratic
 candidate
 for
-state
-senate
+<[>state
+senate<]>
 in
 Virginia
 last
@@ -927,7 +927,7 @@ sent
 his
 letter
 to
-Congress
+<[>Congress<]>
 last
 week
 because
@@ -944,7 +944,7 @@ through
 further
 leaks
 by
-FBI
+<[>FBI<]>
 subordinates
 .
 

@@ -7,8 +7,8 @@ historian
 Roger
 Ekirch
 of
-Virginia
-Tech
+<[>Virginia
+Tech<]>
 published
 a
 paper
