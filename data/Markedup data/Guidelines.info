@@ -2,10 +2,10 @@
 2. Use Tag <[> at the start of entity mention
 3. Use tag <]> at the end of the mention.
 4. Entity can span multiple lines. Don't use a line for just tag alone. Tag and the first/last word in entity come on same line.
-5. Entity are Institutions, like Corporations, Educational, Teams, and Govt. departments
-6. Don't include political parties.
+5. Entity are Institutions, like Corporations, Educational, Teams, and Govt. departments (Include police like NYPD)
+6. Don't include political parties. (Do include "Congress")
 7. Can include Boy scouts etc as they can fall under educational
-8. 5 word long institution maximum. (Maybe we need to tag only the first 5 words of an entity longer than 5?)
+8. 8 word long institution maximum? (Maybe we need to tag only the first 8 words of an entity longer than 8?)
 
 # keep adding more rules here after confirming that with all. Need to keep tab on what rules we are following.
 
@@ -14,3 +14,4 @@ Should we include domain name "b.com" from email address "a@b.com"
 "Wall Street"? No
 "Hilary Clinton Campaign"?"HRC"? Yes
 "Catholic Church"? "The Church"? Yes
+"New York City Police Department" is <[>New York City Police Department<]>

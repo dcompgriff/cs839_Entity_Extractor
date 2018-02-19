@@ -1,14 +1,22 @@
 Dan Notes and Patterns:
 *"the" comes before
+*"and" comes before or after
 *"from" comes before 
 *"called" comes before
 *"they" comes after
+*"according to" comes before or after
+*"officials" comes after (Immediately or two to three places after)
+*"members of" comes before
+*"member", "director", "chief", "sources" or other similar person designations comes directly after entity.\
 *"reported", "notes", "reviewed" and similar words comes after (But not "said", as these are people)
 *"by" comes before (This may cause some issues though, as it could be cause names of people to occur)
 *"named", "entity"
-*"group", "organization", "society", "founded", "formed" nearby
-*".org", ".com", ".co", "company", "corporation", "website", "nonprofit" before or after.
+*"group", "organization", "society", "founded", "formed", "foundation" in or nearby
+*".org", ".com", ".co", "company", "project", "corporation", "website", "nonprofit" before or after.
 *Capital letters
+*Not a city, state, or country
+*Frequency of occurrence in document.
+*Length of the entity.
 
 
 
