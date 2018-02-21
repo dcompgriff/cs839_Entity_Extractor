@@ -11,6 +11,7 @@ GLOBAL VARIABLES
 ****************************************************************
 '''
 MAX_ENTITY_WORD_LENGTH = 8
+NUM_FEATURES = 2
 
 
 '''
@@ -64,7 +65,14 @@ def generateStringTuples(fileContents, fileName):
             except IndexError:
                 continue
 
-    return pd.DataFrame(tupleList, columns=['string', 'file', 'lineStart', 'lineEnd', 'class'])
+    return pd.DataFrame(tupleList, columns=['string', 'file', 'lineStart', 'lineEnd', 'label'])
+
+
+def F0(tuple, fileContents):
+    return str(tuple)
+
+def F1(tuple, fileContents):
+    return 0
 
 
 '''
@@ -84,6 +92,13 @@ Feature list:
 '''
 def generateFeaturesFromFile(fileContents, fileName):
     tuplesDF = generateStringTuples(fileContents, fileName)
+
+    # Call each feature generation function on each dataframe tuple.
+    for i in range(0, NUM_FEATURES):
+        featureList = []
+        for tuple in tuplesDF.itertuples():
+            featureList.append(eval('F' + str(i) +  '(tuple, fileContents)'))
+        print(featureList)
 
 
 
