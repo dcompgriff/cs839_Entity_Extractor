@@ -17,3 +17,4 @@ Should we include domain name "b.com" from email address "a@b.com"
 "New York City Police Department" is <[>New York City Police Department<]>
 
 "The Greanville Post" should be "The <[>Greanville Post<]>"
+"OSF ( Open Society Foundation )" should be "<[>OSF<[> ( <[>Open Society Foundation<]> )"

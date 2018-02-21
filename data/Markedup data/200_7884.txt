@@ -931,7 +931,8 @@ financial
 records
 reviewed
 by
-<[>The
+The
+<[>
 Washington
 Times<]>
 .
@@ -1009,12 +1010,12 @@ as
 usual
 for
 the
-<[>OSF
+<[>OSF<[>
 (
-Open
+<[>Open
 Society
-Foundation
-)<]>
+Foundation<]>
+)
 ,
 as
 explained
