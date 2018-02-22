@@ -123,7 +123,7 @@ Feature list:
     F0: "[The]" occurs 1 or two lines before string.
     F1: Number of Capital Letters.
     F2: Verb occurs 1 or two lines after the string.
-    F3:
+    F3: The frequency of the string occurring in the file contents.
     F4:
     F5:
     F6:
@@ -144,8 +144,13 @@ def generateFeaturesFromFile(fileContents, fileName):
             featureList.append(eval('F' + str(i) +  '(tuple, fileContents)'))
         allFeaturesList.append(featureList)
 
+    allFeaturesList.append(tuplesDF['label'].tolist())
     # TODO: Add code for creating pandas feature structure column by column.
+
 	# TODO: write to a csv file the entire matrix of examples and features. Randomize. Remove some to ensure almost even split b/w + and -
+
+    return pd.DataFrame(np.array(allFeaturesList).T, columns=['F' + str(i) for i in range(NUM_FEATURES)] + ['label'])
+
 
 
 
@@ -165,14 +170,22 @@ def main(args):
     # Get sorted file list names from the given directory.
     fileList = sorted(filter(lambda item: '.txt' in str(item), os.listdir(args.FileFolder)), key=lambda item: int(item.split('_')[0]))
     startTime = time.time()
-    for file in fileList[200:300]:#TODO: later make use of entire folder. Training and test set will be randomly split into folders. 
+
+    fullDF = pd.DataFrame(columns=['F' + str(i) for i in range(NUM_FEATURES)] + ['label'])
+
+    # For each file, parse into tuples, then parse into features, and create a full pandas data frame object.
+    for file in fileList[200:300]:#TODO: later make use of entire folder. Training and test set will be randomly split into folders.
         if '.txt' in file:
             with open(args.FileFolder + file, "r", encoding="ISO-8859-1") as f:
-                generateFeaturesFromFile(f.readlines(), file)
+                fileDF = generateFeaturesFromFile(f.readlines(), file)
+                fullDF = pd.concat([fullDF, fileDF])
     endTime = time.time()
     print("Total time to run: %s seconds." %str(endTime-startTime))
 
-
+    # Save the entire pandas data frame object of features and classes.
+    print('Saving the full dataframe...')
+    fullDF.to_csv('../data/featurized_instances.csv')
+    print('Done!')
 
 
 
