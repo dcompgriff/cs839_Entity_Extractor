@@ -2,3 +2,4 @@
 .project
 .pydevproject
 data/fake.csv
+data/featurized_instances.csv
