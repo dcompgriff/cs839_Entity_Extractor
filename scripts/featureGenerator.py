@@ -47,7 +47,7 @@ def generateStringTuples(fileContents, fileName):
     # Create native python list for appending to, which is faster than pandas DF append or concat.
     tupleList = []
     reg = re.compile(r'[a-zA-Z0-9_\’]+')# use to strip all inner punctuations, except _ and \’
-    tupleColumns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'class']
+    tupleColumns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'label']
 
     
     for entityLength in range(1, MAX_ENTITY_LENGTH):
@@ -145,8 +145,6 @@ def generateFeaturesFromFile(fileContents, fileName):
         allFeaturesList.append(featureList)
 
     allFeaturesList.append(tuplesDF['label'].tolist())
-    # TODO: Add code for creating pandas feature structure column by column.
-
 	# TODO: write to a csv file the entire matrix of examples and features. Randomize. Remove some to ensure almost even split b/w + and -
 
     return pd.DataFrame(np.array(allFeaturesList).T, columns=['F' + str(i) for i in range(NUM_FEATURES)] + ['label'])
@@ -188,14 +186,6 @@ def main(args):
     print('Saving the full dataframe...')
     fullDF.to_csv('../data/featurized_instances.csv')
     print('Done!')
-
-
-
-
-
-
-
-
 
 
 
