@@ -3,6 +3,7 @@ import pandas as pd
 import argparse
 import glob
 import os
+import time
 
 
 '''
@@ -11,8 +12,11 @@ GLOBAL VARIABLES
 ****************************************************************
 '''
 MAX_ENTITY_WORD_LENGTH = 8
-NUM_FEATURES = 2
-
+NUM_FEATURES = 3
+globalVerbSet = set()
+with open('../data/verbs.txt', 'r') as f:
+    for line in f:
+        globalVerbSet.add(line.strip())
 
 '''
 ****************************************************************
@@ -69,36 +73,60 @@ def generateStringTuples(fileContents, fileName):
 
 
 def F0(tuple, fileContents):
-    return str(tuple)
+    try:
+        if fileContents[tuple.lineStart - 1].strip().lower() == 'the' or fileContents[tuple.lineStart - 2].strip().lower() == 'the':
+            return 1
+        else:
+            return 0
+    except IndexError:
+        return 0
 
 def F1(tuple, fileContents):
-    return 0
+    return sum(1 for char in tuple.string if char.isupper())
+
+def F2(tuple, fileContents):
+    try:
+        if fileContents[tuple.lineEnd].strip().lower() in globalVerbSet:
+            return 1
+        else:
+            return 0
+    except IndexError:
+        return 0
+
+
+
+
 
 
 '''
 
 
 Feature list:
-    F0:
-    F1:
-    F2:
+    F0: "[Th]e" occurs 1 or two lines before string.
+    F1: Number of Capital Letters.
+    F2: Verb occurs 1 or two lines after the string.
     F3:
     F4:
     F5:
     F6:
     F7:
 
+Each "tuple" object is a Pandas series with first entry tuple[0] the index, and
+    all following entries the entries of each row from the string tuples dataframe.
 
 '''
 def generateFeaturesFromFile(fileContents, fileName):
     tuplesDF = generateStringTuples(fileContents, fileName)
 
+    allFeaturesList = []
     # Call each feature generation function on each dataframe tuple.
     for i in range(0, NUM_FEATURES):
         featureList = []
         for tuple in tuplesDF.itertuples():
             featureList.append(eval('F' + str(i) +  '(tuple, fileContents)'))
-        print(featureList)
+        allFeaturesList.append(featureList)
+
+    # TODO: Add code for creating pandas feature structure column by column.
 
 
 
@@ -116,13 +144,15 @@ possible feature sets.
 
 '''
 def main(args):
-
     # Get sorted file list names from the given directory.
     fileList = sorted(filter(lambda item: '.txt' in str(item), os.listdir(args.FileFolder)), key=lambda item: int(item.split('_')[0]))
+    startTime = time.time()
     for file in fileList[200:300]:
         if '.txt' in file:
             with open(args.FileFolder + file, "r", encoding="ISO-8859-1") as f:
                 generateFeaturesFromFile(f.readlines(), file)
+    endTime = time.time()
+    print("Total time to run: %s seconds." %str(endTime-startTime))
 
 
 
