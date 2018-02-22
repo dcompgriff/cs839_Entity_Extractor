@@ -46,14 +46,14 @@ def generateStringTuples(fileContents, fileName):
     #tupleDF = pd.DataFrame(columns=['rawString', 'file', 'start', 'end', 'string', 'wordCount' 'class'])
     # Create native python list for appending to, which is faster than pandas DF append or concat.
     tupleList = []
-    reg = re.compile(r'[a-zA-Z0-9_\’]+')# use to strip all inner punctuations, except _ and \’
-    tupleColumns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'label']
-
+    reg = re.compile(r'[a-zA-Z0-9_\’\']+')# use to strip inner punctuations, except _ and \’
+    tupleColumns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'class']
+    uniques = {}#unique string to tuple
     
     for entityLength in range(1, MAX_ENTITY_LENGTH):
         for i in range(len(fileContents)-entityLength):#reversed order here to prevent i+entityLength overflow
             # For each possible entityLength, generate string from each index.
-            # Strip punctuations
+            # Strip punctuations in order to get wordCount
             # make tuples only from those whose word count is <= MAX_ENTITY_WORD_LENGTH, >=0 and unique
             try:
                 tuple = ['', fileName, i, i+entityLength, '', 0, '-']
@@ -77,12 +77,22 @@ def generateStringTuples(fileContents, fileName):
 
                 # Update the rest of the tuple information.
                 tuple[0] = ' '.join(entityList)#rawString
-                #groups of only continuous alpha numeric characters. Not including '.' as a separate group.
+                #groups of only continous alpha numeric characters. Not including '.' as a separate group.
                 words = re.findall(reg, tuple[0])
-                tuple[4] = ' '.join(words)# string
+                tuple[4] = ' '.join(words)# string after stripping inner punctuations
                 tuple[5] = len(words)# wordCount
-                if(tuple[5]>0 and tuple[5]<=MAX_ENTITY_WORD_LENGTH):
-                    tupleList.append(tuple)
+                if(tuple[5]>0 and tuple[5]<=MAX_ENTITY_WORD_LENGTH):#not too large a phrase
+                    if(tuple[4] in uniques):#already seen same phrase before
+                        tmp = uniques[tuple[4]]#get the previous occurence
+                        #print(tmp)
+                        if(abs(tmp[2]-i)<4): #prev started not more than 4 characters ago
+                            if(tmp[3]-tmp[2]<entityLength):#earlier one was smaller
+                                #update all properties, hence keeping the bigger one in list
+                                tmp[:-1]=tuple[:-1]
+                            tmp[-1] = '+' if(tuple[-1]=='+') else tmp[-1]#modify if new label is +    
+                    else:#Haven't encoutered this phrase before
+                        tupleList.append(tuple)
+                        uniques[tuple[4]] = tuple
                     #Check for unique ones too. 
             except IndexError:
                 continue
