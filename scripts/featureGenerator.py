@@ -174,12 +174,14 @@ def main(args):
     fullDF = pd.DataFrame(columns=['F' + str(i) for i in range(NUM_FEATURES)] + ['label'])
 
     # For each file, parse into tuples, then parse into features, and create a full pandas data frame object.
-    for file in fileList[200:300]:#TODO: later make use of entire folder. Training and test set will be randomly split into folders.
+    print('Performing featurization...')
+    for file in fileList[200:300]:
         if '.txt' in file:
             with open(args.FileFolder + file, "r", encoding="ISO-8859-1") as f:
                 fileDF = generateFeaturesFromFile(f.readlines(), file)
                 fullDF = pd.concat([fullDF, fileDF])
     endTime = time.time()
+    print('Done!')
     print("Total time to run: %s seconds." %str(endTime-startTime))
 
     # Save the entire pandas data frame object of features and classes.
