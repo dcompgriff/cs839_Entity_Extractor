@@ -4,6 +4,7 @@ import argparse
 import glob
 import os
 import time
+import re
 
 
 '''
@@ -11,6 +12,7 @@ import time
 GLOBAL VARIABLES
 ****************************************************************
 '''
+MAX_ENTITY_LENGTH = 20
 MAX_ENTITY_WORD_LENGTH = 8
 NUM_FEATURES = 3
 globalVerbSet = set()
@@ -36,15 +38,25 @@ line.
 '''
 def generateStringTuples(fileContents, fileName):
     # Create initial pandas dataframe for data objects.
-    tupleDF = pd.DataFrame(columns=['string', 'file', 'lineStart', 'lineEnd', 'class'])
+    # rawString: as read form the file after removing entity markers
+    # string: after stripping punctuations from inside rawString
+    # wordCount: number of words in 'string' field
+    # start, end: index in file 
+    # class: class label if marked entity
+    #tupleDF = pd.DataFrame(columns=['rawString', 'file', 'start', 'end', 'string', 'wordCount' 'class'])
     # Create native python list for appending to, which is faster than pandas DF append or concat.
     tupleList = []
+    reg = re.compile(r'[a-zA-Z0-9_\’]+')# use to strip all inner punctuations, except _ and \’
+    tupleColumns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'class']
 
-    for i in range(len(fileContents)):
-        for entityLength in range(1, MAX_ENTITY_WORD_LENGTH):
-            # For each starting index in the file, generate tuples of sizes 1 through MAX_ENTITY_WORD_LENGTH.
+    
+    for entityLength in range(1, MAX_ENTITY_LENGTH):
+        for i in range(len(fileContents)-entityLength):#reversed order here to prevent i+entityLength overflow
+            # For each possible entityLength, generate string from each index.
+            # Strip punctuations
+            # make tuples only from those whose word count is <= MAX_ENTITY_WORD_LENGTH, >=0 and unique
             try:
-                tuple = ['', fileName, i, i+entityLength, '-']
+                tuple = ['', fileName, i, i+entityLength, '', 0, '-']
                 entityList = list(map(lambda item: str(item).strip(), fileContents[i:i+entityLength]))
                 # Set class to positive if '<[>' in first list word, and '<]>' in last word in list.
                 if '<[>' in entityList[0] and '<]>' in entityList[-1]:
@@ -64,17 +76,23 @@ def generateStringTuples(fileContents, fileName):
                 entityList = list(map(lambda item: item.replace('<]>', ''), entityList))
 
                 # Update the rest of the tuple information.
-                tuple[0] = ' '.join(entityList)
-                tupleList.append(tuple)
+                tuple[0] = ' '.join(entityList)#rawString
+                #groups of only continuous alpha numeric characters. Not including '.' as a separate group.
+                words = re.findall(reg, tuple[0])
+                tuple[4] = ' '.join(words)# string
+                tuple[5] = len(words)# wordCount
+                if(tuple[5]>0 and tuple[5]<=MAX_ENTITY_WORD_LENGTH):
+                    tupleList.append(tuple)
+                    #Check for unique ones too. 
             except IndexError:
                 continue
 
-    return pd.DataFrame(tupleList, columns=['string', 'file', 'lineStart', 'lineEnd', 'label'])
-
+    return pd.DataFrame(tupleList, columns=tupleColumns)
+	
 
 def F0(tuple, fileContents):
     try:
-        if fileContents[tuple.lineStart - 1].strip().lower() == 'the' or fileContents[tuple.lineStart - 2].strip().lower() == 'the':
+        if fileContents[tuple.start - 1].strip().lower() == 'the' or fileContents[tuple.start - 2].strip().lower() == 'the':
             return 1
         else:
             return 0
@@ -86,7 +104,7 @@ def F1(tuple, fileContents):
 
 def F2(tuple, fileContents):
     try:
-        if fileContents[tuple.lineEnd].strip().lower() in globalVerbSet:
+        if fileContents[tuple.end].strip().lower() in globalVerbSet:
             return 1
         else:
             return 0
@@ -102,7 +120,7 @@ def F2(tuple, fileContents):
 
 
 Feature list:
-    F0: "[Th]e" occurs 1 or two lines before string.
+    F0: "[The]" occurs 1 or two lines before string.
     F1: Number of Capital Letters.
     F2: Verb occurs 1 or two lines after the string.
     F3:
@@ -127,7 +145,7 @@ def generateFeaturesFromFile(fileContents, fileName):
         allFeaturesList.append(featureList)
 
     # TODO: Add code for creating pandas feature structure column by column.
-
+	# TODO: write to a csv file the entire matrix of examples and features. Randomize. Remove some to ensure almost even split b/w + and -
 
 
 
@@ -147,7 +165,7 @@ def main(args):
     # Get sorted file list names from the given directory.
     fileList = sorted(filter(lambda item: '.txt' in str(item), os.listdir(args.FileFolder)), key=lambda item: int(item.split('_')[0]))
     startTime = time.time()
-    for file in fileList[200:300]:
+    for file in fileList[200:300]:#TODO: later make use of entire folder. Training and test set will be randomly split into folders. 
         if '.txt' in file:
             with open(args.FileFolder + file, "r", encoding="ISO-8859-1") as f:
                 generateFeaturesFromFile(f.readlines(), file)
