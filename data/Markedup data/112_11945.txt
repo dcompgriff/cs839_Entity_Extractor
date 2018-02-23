@@ -9,12 +9,12 @@ citing
 threats
 ‹
 ›
-GPD
+<[>GPD<]>
 is
 our
-General
+<[>General
 Posting
-Department
+Department<]>
 whereby
 we
 share
@@ -55,7 +55,7 @@ is
 off
 limits
 By
-GPD
+<[>GPD<]>
 on
 November
 4
@@ -72,10 +72,10 @@ The
 Shiite
 -
 led
-Hashd
+<[>Hashd
 al
 -
-Shaabi
+Shaabi<]>
 militia
 said
 Thursday
@@ -104,10 +104,10 @@ clear
 of
 .
 “The
-Hashd
+<[>Hashd
 al
 -
-Shaabi
+Shaabi<]>
 are
 continuously
 advancing
@@ -134,10 +134,10 @@ Nuri
 spokesperson
 of
 the
-Hashd
+<[>Hashd
 al
 -
-Shaabi
+Shaabi<]>
 ,
 told
 Rudaw
@@ -171,7 +171,7 @@ line
 for
 the
 two
-ISIS
+<[>ISIS<]>
 strongholds
 in
 Iraq
@@ -184,7 +184,7 @@ the
 Iranian
 -
 backed
-Hashd
+<[>Hashd<]>
 had
 not
 received
@@ -228,7 +228,7 @@ that
 was
 captured
 by
-ISIS
+<[>ISIS<]>
 two
 years
 ago
@@ -247,7 +247,7 @@ north
 Turkey
 has
 warned
-Hashd
+<[>Hashd<]>
 forces
 from
 entering
@@ -287,7 +287,7 @@ his
 country
 opposed
 any
-Hashd
+<[>Hashd<]>
 presence
 in
 Tal
@@ -310,7 +310,7 @@ not
 regard
 it
 [
-Hashd
+<[>Hashd<]>
 involvement
 ]
 positively
@@ -371,10 +371,10 @@ added
 ,
 “But
 if
-Hashd
+<[>Hashd
 al
 -
-Shaabi
+Shaabi<]>
 terrorizes
 the
 region
@@ -394,7 +394,7 @@ Posts
 The
 
 
-GPD
+<[>GPD<]>
 
 
 19
