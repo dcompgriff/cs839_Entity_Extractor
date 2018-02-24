@@ -118,7 +118,50 @@ def F3(tuple, fileContents):
 def F4(tuple, fileContents):
     return len(tuple.string.strip().split())
 
+def F5(tuple, fileContents):
+    try:
+        return sum(1 for char in fileContents[tuple.start - 1] if char.isupper())
+    except:
+        return -1
 
+def F6(tuple, fileContents):
+    try:
+        if fileContents[tuple.start - 1].strip().lower() == 'on':
+            return 1
+        else:
+            return 0
+    except IndexError:
+        return 0
+
+def F7(tuple, fileContents):
+    try:
+        if fileContents[tuple.start - 1].strip().lower() == 'called':
+            return 1
+        else:
+            return 0
+    except IndexError:
+        return 0
+
+def F8(tuple, fileContents):
+    try:
+        if fileContents[tuple.end].strip().lower() == 'they':
+            return 1
+        else:
+            return 0
+    except IndexError:
+        return 0
+
+def F9(tuple, fileContents):
+    try:
+        if "." in tuple.rawString.split()[1:-1] or "!" in tuple.rawString.split()[1:-1] or "?" in tuple.rawString.split()[1:-1]:
+            return 1
+        else:
+            return 0
+    except IndexError:
+        return 0
+
+def F10(tuple, fileContents):
+    return tuple.rawString.count('.')
 
 
 '''
@@ -126,14 +169,17 @@ def F4(tuple, fileContents):
 
 Feature list:
     F0: "[The]" occurs 1 or two lines before string.
-    F1: Number of Capital Letters.
+    F1: Number of capitol Letters.
     F2: Verb occurs 1 or two lines after the string.
     F3: Total character length
     F4: Total number of words
-    F5: The frequency of the string occurring in the file contents.
-    F5:
-    F6:
-    F7:
+    F5: Number of capitol letters before the string.
+    F5: Number of capitol letters in line after this string.
+    F6: "on" comes before
+    F7: "called" comes before
+    F8: "they" comes after
+    F9: .?! comes in the middle of and entry
+    F10: Number of "."s
 
 Each "tuple" object is a Pandas series with first entry tuple[0] the index, and
     all following entries the entries of each row from the string tuples dataframe.
