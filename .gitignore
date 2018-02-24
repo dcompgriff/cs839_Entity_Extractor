@@ -3,3 +3,5 @@
 .pydevproject
 data/fake.csv
 data/featurized_instances.csv
+data/tuples_instances.csv
+scripts/*.txt

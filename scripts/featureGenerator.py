@@ -199,7 +199,7 @@ def generateFeaturesFromFile(fileContents, fileName):
     allFeaturesList.append(tuplesDF['label'].tolist())
 	# TODO: write to a csv file the entire matrix of examples and features. Randomize. Remove some to ensure almost even split b/w + and -
 
-    return pd.DataFrame(np.array(allFeaturesList).T, columns=['F' + str(i) for i in range(NUM_FEATURES)] + ['label'])
+    return pd.DataFrame(np.array(allFeaturesList).T, columns=['F' + str(i) for i in range(NUM_FEATURES)] + ['label']), tuplesDF
 
 
 
@@ -222,14 +222,17 @@ def main(args):
     startTime = time.time()
 
     fullDF = pd.DataFrame(columns=['F' + str(i) for i in range(NUM_FEATURES)] + ['label'])
+    tuplesDF = pd.DataFrame(columns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'label'])
 
     # For each file, parse into tuples, then parse into features, and create a full pandas data frame object.
     print('Performing featurization...')
     for file in fileList[200:300]:
         if '.txt' in file:
             with open(args.FileFolder + file, "r", encoding="ISO-8859-1") as f:
-                fileDF = generateFeaturesFromFile(f.readlines(), file)
+                print(file)
+                fileDF, fileTuplesDF = generateFeaturesFromFile(f.readlines(), file)
                 fullDF = pd.concat([fullDF, fileDF])
+                tuplesDF = pd.concat([tuplesDF, fileTuplesDF])
     endTime = time.time()
     print('Done!')
     print("Total time to run: %s seconds." %str(endTime-startTime))
@@ -237,6 +240,7 @@ def main(args):
     # Save the entire pandas data frame object of features and classes.
     print('Saving the full dataframe...')
     fullDF.to_csv('../data/featurized_instances.csv')
+    tuplesDF.to_csv('../data/tuples_instances.csv')
     print('Done!')
 
 
