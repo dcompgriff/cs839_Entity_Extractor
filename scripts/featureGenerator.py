@@ -5,6 +5,7 @@ import glob
 import os
 import time
 import re
+from multiprocessing import Pool
 
 
 '''
@@ -14,7 +15,7 @@ GLOBAL VARIABLES
 '''
 MAX_ENTITY_LENGTH = 20
 MAX_ENTITY_WORD_LENGTH = 8
-NUM_FEATURES = 3
+NUM_FEATURES = 5
 globalVerbSet = set()
 with open('../data/verbs.txt', 'r') as f:
     for line in f:
@@ -111,7 +112,11 @@ def F2(tuple, fileContents):
     except IndexError:
         return 0
 
+def F3(tuple, fileContents):
+    return len(tuple.string.strip())
 
+def F4(tuple, fileContents):
+    return len(tuple.string.strip().split())
 
 
 
@@ -123,8 +128,9 @@ Feature list:
     F0: "[The]" occurs 1 or two lines before string.
     F1: Number of Capital Letters.
     F2: Verb occurs 1 or two lines after the string.
-    F3: The frequency of the string occurring in the file contents.
-    F4:
+    F3: Total character length
+    F4: Total number of words
+    F5: The frequency of the string occurring in the file contents.
     F5:
     F6:
     F7:
