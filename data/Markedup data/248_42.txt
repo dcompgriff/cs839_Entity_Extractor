@@ -242,7 +242,6 @@ HillaryBettingPool
 
 SUPPORT
 <[>21WIRE<]>
-–
 SUBSCRIBE
 &
 BECOME

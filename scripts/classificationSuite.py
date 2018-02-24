@@ -114,7 +114,7 @@ def runDT(args):
 
     dtScores = []
     rfScores = []
-    skf = StratifiedKFold(n_splits=50, shuffle=True, random_state=np.random)
+    skf = StratifiedKFold(n_splits=5, shuffle=True, random_state=np.random)
     fold = 0
     startTime = time.time()
     for train_index, test_index in skf.split(X, Y):
@@ -156,7 +156,7 @@ def runDT(args):
         for score in rfScores:
             f.write("%s,%s\n"%(score[0], score[1]))
 
-def runDTAnalysis(args, plot=False):
+def runDTAnalysis(args, plot=True):
     dtScores = []
     rfScores = []
     with open('dtscores.txt', 'r') as f:
@@ -194,7 +194,7 @@ def runDTAnalysis(args, plot=False):
     for i in range(len(predictions)):
         if Y[i] == -1 and predictions[i] == 1:
             # False Positive Found, so print it out.
-            print(tuplesDF.iloc[i]['string'])
+            print(tuplesDF.iloc[i])
 
 
 

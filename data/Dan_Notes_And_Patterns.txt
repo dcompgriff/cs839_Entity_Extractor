@@ -39,5 +39,181 @@ entity in the file, and mark as positive. BE CAREFUL, THIS MAY DRASTICALLY REDUC
 
 
 
+FALSE POSITIVE CASES TO CHECK OUT:
+#####################################
+INCORRECT LABELS FROM PARSER
+#####################################
+Unnamed: 0              458
+rawString               FBI
+file          204_11510.txt
+start                   508
+end                     509
+string                  FBI
+wordCount                 1
+label                     -
+Name: 37148, dtype: object
+
+Unnamed: 0             1887
+rawString             FBI ,
+file          204_11510.txt
+start                   926
+end                     928
+string                  FBI
+wordCount                 1
+label                     -
+Name: 38577, dtype: object
+
+Unnamed: 0             866
+rawString              OSF
+file          200_7884.txt
+start                 1012
+end                   1013
+string                 OSF
+wordCount                1
+label                    -
+Name: 866, dtype: object
+
+Unnamed: 0             3116
+rawString            FBI . 
+file          204_11510.txt
+start                  1073
+end                    1076
+string                  FBI
+wordCount                 1
+label                     -
+Name: 39806, dtype: object
+
+Unnamed: 0             811
+rawString        , YouTube
+file          218_6637.txt
+start                  374
+end                    376
+string             YouTube
+wordCount                1
+label                    -
+Name: 141868, dtype: object
+
+Unnamed: 0             895
+rawString        . YouTube
+file          218_6637.txt
+start                  461
+end                    463
+string             YouTube
+wordCount                1
+label                    -
+Name: 141952, dtype: object
+
+Unnamed: 0            436
+rawString           ICC ,
+file          230_515.txt
+start                 163
+end                   165
+string                ICC
+wordCount               1
+label                   -
+Name: 170405, dtype: object
+
+Unnamed: 0             421
+rawString              FBI
+file          231_4068.txt
+start                  471
+end                    472
+string                 FBI
+wordCount                1
+label                    -
+Name: 173346, dtype: object
+
+Unnamed: 0           477
+rawString       21WIRE 
+file          248_42.txt
+start                243
+end                  245
+string            21WIRE
+wordCount              1
+label                  -
+Name: 272259, dtype: object
+***Add feature to reject data that has non-standard characters such as "21WIRE "
+
+
+
+######################################
+INCORRECT MANUAL LABELING
+######################################
+
+
+
+######################################
+TRUE FALSE POSITIVES
+######################################
+*Incorrect prediction due to person title. Reject CEO in post processing, or have a feature for CEO.
+Unnamed: 0              52
+rawString              CEO
+file          237_8666.txt
+start                   59
+end                     60
+string                 CEO
+wordCount                1
+label                    -
+Name: 216540, dtype: object
+
+*Incorrect prediction due to "THE" occurring before and verb "LOOK" after. Add feature or perform processing for rejection of "THE"
+Unnamed: 0            1119
+rawString              OUT
+file          270_1176.txt
+start                 1269
+end                   1270
+string                 OUT
+wordCount                1
+label                    -
+Name: 370958, dtype: object
+
+*Incorrect prediction due to "The" occurring before, and verb after it. No good idea on remedy yet.
+Unnamed: 0              42
+rawString              MWR
+file          271_8815.txt
+start                   49
+end                     50
+string                 MWR
+wordCount                1
+label                    -
+Name: 381250, dtype: object
+
+*Incorrect prediction. Remedy by post-processing, or adding feature "instrument" after.
+Unnamed: 0             524
+rawString          JunoCam
+file          271_8815.txt
+start                  608
+end                    609
+string             JunoCam
+wordCount                1
+label                    -
+Name: 381732, dtype: object
+
+*Incorrect prediction. Add feature for "a, an, at, etc..." to remove these instances.
+Unnamed: 0            1157
+rawString           a NATO
+file          292_7755.txt
+start                  331
+end                    333
+string              a NATO
+wordCount                2
+label                    -
+Name: 473330, dtype: object
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

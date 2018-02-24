@@ -78,6 +78,22 @@ def generateStringTuples(fileContents, fileName):
 
                 # Update the rest of the tuple information.
                 tuple[0] = ' '.join(entityList)#rawString
+
+
+                #################################
+                # PRE-PROCESSING RULES
+                #################################
+                if ',' in tuple[0].strip().split()[0] or ',' in tuple[0].strip().split()[-1]:
+                    continue
+                if ('.' in tuple[0].strip().split()[0] or '.' in tuple[0].strip().split()[-1]) and len(entityList):
+                    continue
+                if ('-' in tuple[0].strip()):
+                    continue
+                if ('(' in tuple[0].strip() or ')' in tuple[0].strip()):
+                    continue
+                if 'as' in tuple[0].lower() or 'a' in tuple[0].lower() or 'an' in tuple[0].lower():
+                    continue
+
                 #groups of only continuous alpha numeric characters. Not including '.' as a separate group.
                 words = re.findall(reg, tuple[0])
                 tuple[4] = ' '.join(words)# string
@@ -163,6 +179,46 @@ def F9(tuple, fileContents):
 def F10(tuple, fileContents):
     return tuple.rawString.count('.')
 
+def F11(tuple, fileContents):
+    if ',' in tuple.rawString:
+        return 1
+    else:
+        return 0
+
+def F12(tuple, fileContents):
+    if ',' in tuple.rawString.strip().split()[0] or ',' in tuple.rawString.strip().split()[-1]:
+        return 1
+    else:
+        return 0
+
+def F13(tuple, fileContents):
+    if '.' in tuple.rawString.strip().split()[0] or '.' in tuple.rawString.strip().split()[-1]:
+        return 1
+    else:
+        return 0
+
+def F14(tuple, fileContents):
+    if 'as' in tuple.rawString.lower() or 'a' in tuple.rawString.lower() or 'an' in tuple.rawString.lower():
+        return 1
+    else:
+        return 0
+
+def F15(tuple, fileContents):
+    count = 0
+    for word in tuple.rawString.strip().split():
+        if word[0].isupper() and word[1:] == word[1:].lower():
+            count += 1
+    return count / len(tuple.rawString.strip().split())
+
+def F16(tuple, fileContents):
+    try:
+        if fileContents[tuple.end][0].isupper() and fileContents[tuple.end][1:] == fileContents[tuple.end][1:].lower():
+            return 1
+        else:
+            return 0
+    except:
+        return 0
+
 
 '''
 
@@ -180,6 +236,12 @@ Feature list:
     F8: "they" comes after
     F9: .?! comes in the middle of and entry
     F10: Number of "."s
+    F11: "," is in the raw string "NOTE: This feature reliably improves precision!"
+    F12: "," is in the first or last raw string position "NOTE: This feature reliably improves precision!"
+    F13: "." is in the first or last raw string position.
+    F14: "as", "a", "an" is in the raw string.
+    F15: The faction of the number of words where only the first character is capitalized to all words.
+    F16: The rawString has a Single capitolized word after it.
 
 Each "tuple" object is a Pandas series with first entry tuple[0] the index, and
     all following entries the entries of each row from the string tuples dataframe.
