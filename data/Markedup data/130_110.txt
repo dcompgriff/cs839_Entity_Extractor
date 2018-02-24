@@ -18,8 +18,8 @@ Jewish
 
 
 The
-Jewish
-Chronicle
+<[>Jewish
+Chronicle<]>
 reports
 this
 weekend
@@ -80,7 +80,7 @@ Abraham
 ,
 founder
 of
-SlimFast
+<[>SlimFast<]>
 
 
 The

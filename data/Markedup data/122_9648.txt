@@ -1,9 +1,9 @@
-Pinterest
+<[>Pinterest<]>
 
 In
 her
-Washington
-Post
+<[>Washington
+Post<]>
 article
 explaining
 why
@@ -82,8 +82,8 @@ wrote
 her
 article
 in
-The
-Post
+<[>The
+Post<]>
 on
 Tuesday
 (
@@ -93,7 +93,7 @@ a
 link
 to
 her
-Twitter
+<[>Twitter<]>
 feed
 ,
 which
@@ -510,7 +510,7 @@ is
 exactly
 why
 the
-Left
+<[>Left<]>
 is
 so
 dangerous

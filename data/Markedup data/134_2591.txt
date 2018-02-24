@@ -155,7 +155,7 @@ Dixon
 was
 asked
 on
-“CBS
+<[>CBS<]>
 This
 Morning”
 Monday
@@ -175,7 +175,7 @@ Trump
 to
 take
 to
-Twitter
+<[>Twitter<]>
 and
 say
 that
@@ -201,8 +201,8 @@ demanding
 an
 apology
 ,
-”
-CBS
+
+<[>CBS<]>
 anchor
 Charlie
 Rose
@@ -289,8 +289,8 @@ show
 .
 ”
 
-Dixon’s
-“CBS
+Dixon's
+<[>CBS<]>
 This
 Morning”
 interview
