@@ -118,9 +118,9 @@ una
 entrevista
 a
 la
-CNN
+<[>CNN
 .
-El
+El<]>
 muro
 será
 circular
