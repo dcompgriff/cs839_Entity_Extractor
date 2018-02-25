@@ -4,7 +4,7 @@ in
 Weiner
 probe
 prompts
-FBI
+<[>FBI<]>
 to
 take
 new
@@ -13,8 +13,8 @@ in
 Clinton
 email
 inquiry
-Washington
-Post
+<[>Washington
+Post<]>
 
 Read
 the
@@ -22,7 +22,7 @@ letter
 Comey
 sent
 to
-FBI
+<[>FBI<]>
 employees
 explaining
 his
@@ -33,8 +33,8 @@ the
 Clinton
 email
 investigation
-Washington
-Post
+<[>Washington
+Post<]>
 .
 Consistent
 with
@@ -270,21 +270,21 @@ Mulligan
 
 Clinton
 urges
-FBI
+<[>FBI<]>
 to
 explain
 renewed
 email
 inquiry
 ‘without
-delay’
-Washington
-Post
+delay
+<[>Washington
+Post<]>
 .
 As
 if
 the
-FBI
+<[>FBI<]>
 has
 to
 explain
@@ -303,7 +303,7 @@ reopens
 Clinton
 email
 wound
-Politico
+<[>Politico<]>
 .
 How
 fickle
@@ -324,14 +324,14 @@ is
 that
 Comey
 told
-Congress
+<[>Congress<]>
 because
 so
 many
 agents
 in
 the
-FBI
+<[>FBI<]>
 were
 unhappy
 about

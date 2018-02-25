@@ -14,7 +14,7 @@ Pipeline
 Trump
 Share
 on
-Facebook
+<[>Facebook<]>
 Tweet
 We
 feature

@@ -210,9 +210,9 @@ E
 .
 Trottie
 of
-Quebec’s
+<[>Quebec's
 Laval
-University
+University<]>
 might
 have
 made
@@ -1184,8 +1184,8 @@ I
 studied
 journalism
 at
-Murdoch
-University
+<[>Murdoch
+University<]>
 in
 West
 Australia

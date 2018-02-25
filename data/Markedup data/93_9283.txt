@@ -47,10 +47,10 @@ people
 Archer
 ,
 of
-Hackney
+<[>Hackney
 Citizens
 Against
-Gentrification
+Gentrification<]>
 ,
 said:
 “Apparently
@@ -131,9 +131,9 @@ Brubaker
 ,
 of
 the
-Institute
+<[>Institute
 of
-Studies
+Studies<]>
 ,
 said:
 “Once

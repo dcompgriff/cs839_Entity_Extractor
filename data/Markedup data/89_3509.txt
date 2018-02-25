@@ -223,8 +223,8 @@ revolutionary
 army
 ,
 the
-Continental
-Congress
+<[>Continental
+Congress<]>
 had
 created
 a
@@ -294,9 +294,9 @@ be
 possible
 for
 the
-House
+<[>House
 of
-Representatives
+Representatives<]>
 to
 begin
 impeachment
@@ -318,7 +318,7 @@ contact
 various
 members
 of
-Congress
+<[>Congress<]>
 to
 ask
 them
@@ -513,8 +513,8 @@ four
 appointments
 to
 the
-Supreme
-Court
+<[>Supreme
+Court<]>
 .
 Clinton
 and
@@ -545,8 +545,8 @@ two
 objectives
 are
 reversing
-Citizens
-United
+<[>Citizens
+United<]>
 and
 Heller
 ,
@@ -701,7 +701,7 @@ requires
 2/3
 of
 the
-Senate
+<[>Senate<]>
 ,
 which
 would
@@ -732,7 +732,7 @@ national
 security
 ,
 has
-Congress
+<[>Congress<]>
 lost
 its
 power

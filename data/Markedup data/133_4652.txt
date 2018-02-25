@@ -127,5 +127,5 @@ tweet
 .
 
 And
-Twitter
+<[>Twitter<]>
 reacted…
