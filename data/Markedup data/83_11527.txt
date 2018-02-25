@@ -21,9 +21,9 @@ a
 small
 detachment
 of
-US
+<[>US
 Special
-Forces
+Forces<]>
 on
 11
 April
@@ -313,7 +313,7 @@ same
 time
 by
 the
-Peshmerga
+<[>Peshmerga<]>
 ,
 despite
 having
@@ -390,7 +390,7 @@ Inside
 the
 newly
 established
-Peshmerga
+<[>Peshmerga<]>
 headquarters
 ,
 I
@@ -405,10 +405,10 @@ Jalal
 Talabani
 headed
 the
-Patriotic
+<[>Patriotic
 Union
 of
-Kurdistan
+Kurdistan<]>
 ,
 the
 political
@@ -640,7 +640,7 @@ of
 the
 anti
 -
-Isis
+<[>Isis<]>
 forces
 potentially
 involved
@@ -649,8 +649,8 @@ seizing
 Mosul
 –
 the
-Iraqi
-army
+<[>Iraqi
+army<]>
 ,
 Kurds
 ,
@@ -719,8 +719,8 @@ The
 Shia
 -
 dominated
-Iraqi
-government
+<[>Iraqi
+government<]>
 needs
 to
 take
@@ -836,8 +836,8 @@ the
 defeat
 of
 the
-Iraqi
-Army
+<[>Iraqi
+Army<]>
 in
 northern
 Iraq
@@ -867,9 +867,9 @@ the
 area
 of
 the
-Kurdistan
+<[>Kurdistan
 Regional
-Government
+Government<]>
 (
 KRG
 )
@@ -903,7 +903,7 @@ expanded
 version
 of
 the
-KRG
+<[>KRG<]>
 .
 
 These
@@ -951,8 +951,8 @@ may
 calculate
 that
 the
-Iraqi
-army
+<[>Iraqi
+army<]>
 ,
 if
 it
@@ -1015,8 +1015,8 @@ reports
 to
 join
 the
-Syrian
-Army
+<[>Syrian
+Army<]>
 in
 the
 siege
@@ -1180,7 +1180,7 @@ down
 the
 anti
 -
-Isis
+<[>Isis<]>
 advance
 towards
 Mosul
@@ -1254,7 +1254,7 @@ The
 likelihood
 is
 that
-Isis
+<[>Isis<]>
 will
 fight
 for
@@ -1351,5 +1351,5 @@ Mosul
 Reprinted
 from
 The
-Independent
+<[>Independent<]>
 
