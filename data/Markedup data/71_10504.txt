@@ -45,7 +45,7 @@ famous
 weekly
 newspaper
 The
-Posthoorn
+<[>Posthoorn<]>
 (
 chosen
 by
@@ -478,7 +478,7 @@ wrinkle
 I
 wonder
 is
-Skype
+<[>Skype<]>
 sponsored
 by
 Botox
