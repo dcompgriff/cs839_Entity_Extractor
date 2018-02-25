@@ -3,8 +3,8 @@ something
 interesting
 from
 The
-Unz
-Review
+<[>Unz
+Review<]>
 .
 .
 .
@@ -33,7 +33,7 @@ him
 both
 houses
 of
-Congress
+<[>Congress<]>
 .
 
 Much
@@ -117,7 +117,7 @@ Still
 compatible
 agendas
 and
-GOP
+<[>GOP<]>
 self
 -
 interest
@@ -532,7 +532,7 @@ testified
 for
 hours
 to
-FBI
+<[>FBI<]>
 agents
 investigating
 why
@@ -556,7 +556,7 @@ Forty
 times
 during
 her
-FBI
+<[>FBI<]>
 interrogation
 ,
 Clinton
@@ -600,7 +600,7 @@ of
 her
 emails
 ,
-FBI
+<[>FBI<]>
 Director
 James
 Comey
@@ -632,7 +632,7 @@ sent
 a
 subpoena
 from
-Congress
+<[>Congress<]>
 to
 retain
 them
@@ -657,8 +657,8 @@ were
 contributors
 to
 the
-Clinton
-Foundation
+<[>Clinton
+Foundation<]>
 .
 
 Yet
@@ -692,8 +692,8 @@ raised
 money
 for
 the
-Clinton
-Foundation
+<[>Clinton
+Foundation<]>
 ,
 and
 then
@@ -800,13 +800,13 @@ of
 testimony
 to
 the
-FBI
+<[>FBI<]>
 ,
 grand
 jury
 or
 before
-Congress
+<[>Congress<]>
 ,
 Clinton
 were
@@ -816,8 +816,8 @@ have
 lied
 ,
 her
-Justice
-Department
+<[>Justice
+Department<]>
 would
 be
 obligated
@@ -861,8 +861,8 @@ her
 .
 
 The
-Republican
-House
+<[>Republican
+House<]>
 is
 already
 gearing
@@ -903,14 +903,14 @@ the
 erasures
 ,
 the
-Clinton
-Foundation
+<[>Clinton
+Foundation<]>
 .
 Now
 ,
 thanks
 to
-WikiLeaks
+<[>WikiLeaks<]>
 ,
 there
 are
@@ -986,7 +986,7 @@ Syrians
 ,
 Russians
 ,
-Taliban
+<[>Taliban<]>
 ,
 North
 Koreans
@@ -1068,7 +1068,7 @@ Majority
 
 Copyright
 2016
-Creators
+<[>Creators
 .
-com
+com<]>
 .

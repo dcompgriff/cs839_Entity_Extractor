@@ -16,8 +16,8 @@ on
 Tuesday
 ,
 the
-Washington
-Post
+<[>Washington
+Post<]>
 was
 reporting
 that
