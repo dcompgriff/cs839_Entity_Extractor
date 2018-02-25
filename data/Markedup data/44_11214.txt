@@ -1,9 +1,9 @@
 Inside
-‘Bill
+<[>Bill
 Clinton
 Inc
-.
-’:
+.<]>
+:
 Hacked
 Memo
 Shows
@@ -33,7 +33,7 @@ Band
 ,
 published
 by
-WikiLeaks
+<[>WikiLeaks<]>
 ,
 details
 “a
@@ -49,8 +49,8 @@ raised
 money
 for
 the
-Clinton
-Foundation
+<[>Clinton
+Foundation<]>
 from
 top
 -
@@ -58,12 +58,12 @@ tier
 corporations
 such
 as
-Dow
-Chemical
+<[>Dow
+Chemical<]>
 and
-Coca
+<[>Coca
 -
-Cola
+Cola<]>
 that
 were
 clients
@@ -71,7 +71,7 @@ of
 his
 firm
 ,
-Teneo
+<[>Teneo<]>
 ,
 while
 pressing
@@ -92,12 +92,12 @@ president
 ”
 reports
 The
-Washington
-Post
+<[>Washington
+Post<]>
 .
 
 The
-Post
+<[>Post<]>
 continues:
 
 The
@@ -158,7 +158,7 @@ anti
 -
 secrecy
 group
-WikiLeaks
+<[>WikiLeaks<]>
 ,
 lays
 out
@@ -199,8 +199,8 @@ Hillary
 Clinton
 led
 the
-State
-Department
+<[>State
+Department<]>
 .
 It
 describes
@@ -211,11 +211,11 @@ run
 what
 he
 called
-“Bill
+<[>Bill
 Clinton
 Inc
-.
-,”
+.<]>
+,
 obtaining
 “in
 -
@@ -270,7 +270,7 @@ activities
 ,
 ”
 the
-Post
+<[>Post<]>
 reports
 .
 In
@@ -334,7 +334,7 @@ my
 partner
 role
 at
-Teneo
+<[>Teneo<]>
 ,
 to
 support
@@ -349,7 +349,7 @@ foundation
 ”
 
 The
-Post
+<[>Post<]>
 continues:
 
 Band’s
@@ -362,7 +362,7 @@ much
 money
 each
 of
-Teneo’s
+<[>Teneo's<]>
 20
 clients
 at
@@ -372,8 +372,8 @@ had
 given
 to
 the
-Clinton
-Foundation
+<[>Clinton
+Foundation<]>
 ,
 how
 much
@@ -407,7 +407,7 @@ payments
 Band
 wrote
 that
-Teneo
+<[>Teneo<]>
 partners
 had
 raised
@@ -480,9 +480,9 @@ the
 chief
 executive
 of
-Coca
+<[>Coca
 -
-Cola
+Cola<]>
 in
 January
 2009
@@ -501,7 +501,7 @@ to
 Band’s
 memo
 ,
-Coke
+<[>Coke<]>
 had
 contributed
 $
@@ -530,10 +530,10 @@ a
 fruitful
 relationship
 with
-UBS
+<[>UBS
 Global
 Wealth
-Management
+Management<]>
 ,
 introducing
 Bill
@@ -553,7 +553,7 @@ the
 ensuing
 years
 ,
-UBS
+<[>UBS<]>
 upped
 its
 giving
@@ -565,7 +565,7 @@ signed
 on
 as
 a
-Teneo
+<[>Teneo<]>
 client
 and
 agreed
@@ -633,9 +633,9 @@ achievement
 cited
 by
 Band:
-Laureate
+<[>Laureate
 International
-Universities
+Universities<]>
 ,
 a
 chain
@@ -675,20 +675,20 @@ Companies
 aligned
 with
 the
-Clinton
-Foundation
+<[>Clinton
+Foundation<]>
 paid
 several
 million
 dollars
 to
-Teneo
+<[>Teneo<]>
 for
 consulting
 services
 .
 The
-Post
+<[>Post<]>
 reports
 that
 a
@@ -696,7 +696,7 @@ spike
 in
 payments
 from
-Dow
+<[>Dow<]>
 “raised
 red
 flags
@@ -736,10 +736,10 @@ investigator
 wrote:
 “It
 appears
-Dow
+<[>Dow<]>
 is
 paying
-Teneo
+<[>Teneo<]>
 for
 connections
 with

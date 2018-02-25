@@ -5,7 +5,7 @@ the
 world
 -
 famous
-FOTM
+<[>FOTM<]>
 Caption
 Contest
 !
@@ -49,7 +49,7 @@ via
 email
 or
 on
-Facebook
+<[>Facebook<]>
 .
 The
 winner
@@ -73,7 +73,7 @@ subscription
 to
 FOTM
 !
-FOTM
+<[>FOTM<]>
 writers
 will
 vote
@@ -85,7 +85,7 @@ Any
 captions
 proffered
 by
-FOTM
+<[>FOTM<]>
 writers
 ,
 no

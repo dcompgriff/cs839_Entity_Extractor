@@ -208,8 +208,8 @@ the
 monster
 vote
 .
-Gateway
-Pundit
+<[>Gateway
+Pundit<]>
 reported:
 
 DONALD
@@ -225,8 +225,8 @@ very
 positive
 news
 on
-FOX
-News
+<[>FOX
+News<]>
 on
 Sunday
 morning
@@ -318,7 +318,7 @@ Trump
 5
 %
 ,
-HRC
+<[>HRC<]>
 =
 48
 .
@@ -368,10 +368,10 @@ broken
 down
 by
 The
-Conservative
-Treehouse
+<[>Conservative
+Treehouse<]>
 (
-CTH
+<[>CTH<]>
 )
 :
 
@@ -554,7 +554,7 @@ these
 smart
 guys
 at
-CTH
+<[>CTH<]>
 are
 saying
 ,
