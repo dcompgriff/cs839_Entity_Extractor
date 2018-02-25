@@ -59,9 +59,9 @@ him
 ?
 ·
 The
-Blue
+<[>Blue
 Dog
-Coalition
+Coalition<]>
 —represents
 conservative
 Democrats
@@ -651,7 +651,7 @@ activities
 And
 if
 the
-FBI
+<[>FBI<]>
 “gets
 religion”
 this
@@ -729,8 +729,8 @@ the
 vote
 by
 the
-Electoral
-College
+<[>Electoral
+College<]>
 itself
 .
 

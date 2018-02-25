@@ -211,8 +211,8 @@ E
 Trottie
 of
 Quebec’s
-Laval
-University
+<[>Laval
+University<]>
 might
 have
 made
@@ -1157,7 +1157,7 @@ Image
 By
 Beckie
 Via
-Flickr/
+<[>Flickr/<]>
 CC
 -
 2
@@ -1184,8 +1184,8 @@ I
 studied
 journalism
 at
-Murdoch
-University
+<[>Murdoch
+University<]>
 in
 West
 Australia

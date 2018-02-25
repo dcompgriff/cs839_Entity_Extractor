@@ -1,5 +1,5 @@
-BNI
-Store
+<[>BNI
+Store<]>
 Oct
 29
 2016
@@ -623,7 +623,7 @@ Paris
 threatened
 to
 sue
-FOX
+<[>FOX<]>
 News
 for
 reporting
@@ -642,7 +642,7 @@ a
 result
 ,
 several
-FOX
+<[>FOX<]>
 commentators
 were
 forced
@@ -656,8 +656,8 @@ for
 claiming
 after
 the
-Charlie
-Hebdo
+<[>Charlie
+Hebdo<]>
 attack
 that
 there

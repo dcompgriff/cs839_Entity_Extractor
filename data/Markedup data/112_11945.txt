@@ -9,12 +9,12 @@ citing
 threats
 ‹
 ›
-GPD
+<[>GPD<]>
 is
 our
-General
+<[>General
 Posting
-Department
+Department<]>
 whereby
 we
 share
@@ -55,7 +55,7 @@ is
 off
 limits
 By
-GPD
+<[>GPD<]>
 on
 November
 4
@@ -63,7 +63,7 @@ November
 2016
 By
 Rudaw
-ERBIL
+<[>ERBIL<]>
 ,
 Kurdistan
 Region
@@ -171,7 +171,7 @@ line
 for
 the
 two
-ISIS
+<[>ISIS<]>
 strongholds
 in
 Iraq
@@ -228,7 +228,7 @@ that
 was
 captured
 by
-ISIS
+<[>ISIS<]>
 two
 years
 ago
@@ -394,7 +394,7 @@ Posts
 The
 
 
-GPD
+<[>GPD<]>
 
 
 19

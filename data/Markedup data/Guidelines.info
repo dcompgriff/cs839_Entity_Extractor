@@ -6,6 +6,8 @@
 #6. Don't include political parties. (Include things like "Congress", and "Virginia Senate")
 7. Can include Boy scouts etc as they can fall under educational
 8. 8 word long institution maximum? (Maybe we need to tag only the first 8 words of an entity longer than 8?)
+9. <[> should always be at the beginning of the line. Even if some punctuations get included
+10. <]> should always be followed by a new line even if some punctuations get included on its line after the last word
 
 # keep adding more rules here after confirming that with all. Need to keep tab on what rules we are following.
 
@@ -15,6 +17,6 @@ Should we include domain name "b.com" from email address "a@b.com"
 "Hilary Clinton Campaign"?"HRC"? Yes
 "Catholic Church"? "The Church"? Yes
 "New York City Police Department" is <[>New York City Police Department<]>
-
+"CNBC's" should be "<[>CNBC's<]>"
 "The Greanville Post" should be "The <[>Greanville Post<]>"
 "OSF ( Open Society Foundation )" should be "<[>OSF<]> ( <[>Open Society Foundation<]> )"

@@ -19,9 +19,9 @@ new
 report
 by
 the
-Living
+<[>Living
 Planet
-Index
+Index<]>
 was
 recently
 released

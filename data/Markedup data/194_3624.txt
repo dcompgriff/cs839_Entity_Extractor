@@ -1,5 +1,5 @@
-BBC
-News
+<[>BBC
+News<]>
 A
 group
 of
@@ -43,13 +43,13 @@ port
 were
 cancelled
 after
-Nato
+<[>NATO<]>
 allies
 voiced
 concern
 .
 
-Nato
+<[>NATO<]>
 is
 concerned
 planes
@@ -218,7 +218,7 @@ Mediterranean
 .
 
 The
-BBC’s
+<[>BBC’s<]>
 Jonathan
 Marcus
 reports
@@ -288,9 +288,9 @@ being
 approached
 by
 the
-Spanish
+<[>Spanish
 foreign
-ministry
+ministry<]>
 .
 
 “Given
@@ -318,10 +318,10 @@ of
 Aleppo
 ,
 the
-ministry
+<[>ministry
 of
 foreign
-affairs
+affairs<]>
 requested
 clarification
 from
@@ -329,16 +329,16 @@ the
 embassy
 of
 the
-Russian
-Federation
+<[>Russian
+Federation<]>
 in
 Madrid
 ,
 ”
 the
-Spanish
+<[>Spanish
 foreign
-ministry
+ministry<]>
 had
 said
 on
@@ -348,7 +348,7 @@ a
 statement
 to
 the
-BBC
+<[>BBC<]>
 .
 
 It
@@ -396,7 +396,7 @@ Spanish
 ports
 .
 
-Nato
+<[>NATO<]>
 had
 said
 the
@@ -443,7 +443,7 @@ against
 Syria
 ,
 ”
-Nato’s
+<[>NATO’s<]>
 Secretary
 -
 General
@@ -456,7 +456,7 @@ Tuesday
 .
 Image
 copyright
-EPA
+<[>EPA<]>
 Image
 caption
 The

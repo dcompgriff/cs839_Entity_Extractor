@@ -6,10 +6,10 @@ November
 2016
 GOLD
 ,
-KWN
-King
+<[>KWN<]>
+<[>King
 World
-News
+News<]>
 
 With
 stocks
@@ -68,14 +68,14 @@ of
 monetary
 madness:
 It
-IS
+is
 the
 best
 of
 times
 ,
 it
-IS
+is
 the
 worst
 of
@@ -209,9 +209,9 @@ Casey
 Rick
 Rule
 and
-Sprott
+<[>Sprott
 Asset
-Management
+Management<]>
 are
 pounding
 the
@@ -273,7 +273,7 @@ today’s
 reaction
 to
 the
-FBI
+<[>FBI<]>
 news
 is
 obvious
@@ -361,7 +361,7 @@ who
 wins
 ,
 the
-FOMC
+<[>FOMC<]>
 will
 be
 most
@@ -395,7 +395,7 @@ going
 to
 win
 the
-Senate
+<[>Senate<]>
 ?
 
 Over
@@ -407,10 +407,10 @@ losing
 streak
 ,
 the
-S
+<[>S
 &
 P
-500
+500<]>
 lost
 just
 66
@@ -422,9 +422,9 @@ morning’s
 rally
 in
 the
-S
+<[>S
 &
-P
+P<]>
 futures
 is
 retracing
@@ -542,7 +542,7 @@ $
 was
 due
 to
-PBOC
+<[>PBOC<]>
 intervention
 .
 The
@@ -643,8 +643,8 @@ jumped
 %
 and
 the
-Hang
-Seng
+<[>Hang
+Seng<]>
 was
 up
 by
@@ -714,7 +714,7 @@ A
 few
 days
 after
-BoJ
+<[>BoJ<]>
 Governor
 Kuroda
 basically
@@ -731,13 +731,13 @@ inflation
 obsession
 ,
 the
-Ministry
+<[>Ministry
 of
 Health
 ,
 Labor
 and
-Welfare
+Welfare<]>
 said
 base
 earnings

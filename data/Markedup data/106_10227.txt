@@ -1,5 +1,5 @@
-VICE
-News
+<[>VICE
+News<]>
 Fri
 ,
 November
@@ -31,8 +31,8 @@ just
 63
 days
 ,
-Planned
-Parenthood
+<[>Planned
+Parenthood<]>
 will
 have
 to
@@ -57,8 +57,8 @@ D
 C
 .
 where
-Planned
-Parenthood’s
+<[>Planned
+Parenthood’s<]>
 leadership
 met
 behind
@@ -73,8 +73,8 @@ attack
 .
 
 Watch
-VICE
-News
+<[>VICE
+News<]>
 Tonight
 weeknights
 at
@@ -85,8 +85,8 @@ HBO
 
 Subscribe
 to
-VICE
-News
+<[>VICE
+News<]>
 here:
 http://bit
 .
@@ -94,14 +94,14 @@ ly/Subscribe
 -
 to
 -
-VICE
+<[>VICE
 -
-News
+News<]>
 
 Check
 out
-VICE
-News
+<[>VICE
+News<]>
 for
 more:
 http://vicenews
@@ -109,6 +109,6 @@ http://vicenews
 com
 
 Follow
-VICE
-News
+<[>VICE
+News<]>
 here:

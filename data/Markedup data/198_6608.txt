@@ -16,4 +16,4 @@ Guest
 More
 Stories
 about:
-Ticker
+<[>Ticker<]>

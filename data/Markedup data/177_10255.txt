@@ -33,8 +33,8 @@ carried
 out
 by
 the
-Ukrainian
-military
+<[>Ukrainian
+military<]>
 ,
 reported
 today
@@ -42,9 +42,9 @@ the
 head
 of
 the
-Petrovsky
+<[>Petrovsky
 district
-administration
+administration<]>
 Maxim
 Zhukovsky
 and
@@ -117,8 +117,8 @@ that
 last
 night
 the
-Ukrainian
-punishers
+<[>Ukrainian
+punishers<]>
 launched
 280
 artillery
@@ -157,6 +157,6 @@ of
 the
 capital
 .
-DONi
+<[>DONi
 News
-Agency
+Agency<]>

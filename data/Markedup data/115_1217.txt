@@ -43,8 +43,8 @@ U
 .
 S
 .
-Supreme
-Court’s
+<[>Supreme
+Court’s<]>
 gutting
 of
 the
@@ -59,8 +59,8 @@ huge
 win
 for
 the
-Republican
-Party
+<[>Republican
+Party<]>
 .
 Since
 high
@@ -141,8 +141,8 @@ fraud”
 may
 land
 the
-Republican
-Party
+<[>Republican
+Party<]>
 in
 some
 serious
@@ -153,8 +153,8 @@ AZ
 Central
 reports
 the
-Democratic
-Party
+<[>Democratic
+Party<]>
 of
 Arizona
 filed
@@ -210,8 +210,8 @@ suit
 says
 the
 state
-Republican
-Party
+<[>Republican
+Party<]>
 is
 essentially
 an
@@ -290,11 +290,11 @@ in
 1981
 ,
 the
-Republican
+<[>Republican
 National
-Committee
+Committee<]>
 (
-RNC
+<[>RNC<]>
 )
 employed
 similar
@@ -311,10 +311,10 @@ New
 Jersey
 .
 Their
-“Ballot
+<[>“Ballot
 Security
 Task
-Force”
+Force”<]>
 employed
 heavy
 -
@@ -393,7 +393,7 @@ on
 the
 part
 of
-DNC
+<[>DNC<]>
 lawyers
 at
 the
@@ -430,7 +430,7 @@ legal
 trouble
 for
 the
-RNC
+<[>RNC<]>
 .
 
 Of
@@ -464,7 +464,7 @@ since
 —
 thanks
 to
-SCOTUS
+<[>SCOTUS<]>
 —
 we
 no
@@ -484,7 +484,7 @@ elections
 But
 ,
 as
-POLITICO
+<[>POLITICO<]>
 points
 out
 ,
@@ -588,7 +588,7 @@ themselves
 ’
 
 The
-POLITICO
+<[>POLITICO<]>
 article
 explains
 how

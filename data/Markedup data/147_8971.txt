@@ -8,7 +8,7 @@ URL
 Following
 the
 US
-Navy’s
+<[>Navy’s<]>
 latest
 provocative
 patrol
@@ -45,7 +45,7 @@ week
 ,
 the
 US
-Navy
+<[>Navy<]>
 conducted
 its
 latest
@@ -66,8 +66,8 @@ chain
 .
 The
 Chinese
-defense
-ministry
+<[>defense
+ministry<]>
 called
 the
 move
@@ -102,9 +102,9 @@ released
 by
 the
 country’s
-Maritime
+<[>Maritime
 Safety
-Administration
+Administration<]>
 indicates
 that
 Beijing
@@ -124,8 +124,8 @@ Thursday
 according
 to
 the
-Japan
-Times
+<[>Japan
+Times<]>
 .
 
 The
@@ -235,7 +235,7 @@ and
 Malaysia
 .
 ©
-AP
+<[>AP<]>
 Photo/
 Bullit
 Marquez
@@ -390,10 +390,10 @@ Russia
 .
 "
 ©
-Flickr/
-Naval
+<[>Flickr/<]>
+<[>Naval
 Surface
-Warriors
+Warriors<]>
 Waning
 Influence:
 Washington
@@ -485,9 +485,9 @@ in
 an
 article
 for
-New
+<[>New
 Eastern
-Outlook
+Outlook<]>
 ,
 pointing
 out

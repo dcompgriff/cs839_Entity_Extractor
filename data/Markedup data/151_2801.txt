@@ -1,7 +1,7 @@
-LA
-TIMES
+<[>LA
+TIMES<]>
 TUESDAY:
-FBI
+<[>FBI<]>
 Investigators
 had
 planned

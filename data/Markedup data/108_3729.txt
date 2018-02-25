@@ -77,7 +77,7 @@ was
 the
 reason
 the
-FBI
+<[>FBI<]>
 declined
 to
 prosecute
@@ -164,9 +164,9 @@ what
 the
 man
 the
-New
+<[>New
 York
-Times
+Times<]>
 dubbed
 “Obama’s
 narrator
@@ -571,7 +571,7 @@ Putin’s
 background
 in
 the
-KGB
+<[>KGB<]>
 .
 The
 believer
@@ -688,7 +688,7 @@ strong
 language
 for
 a
-KGB
+<[>KGB<]>
 veteran
 and
 expansionist

@@ -18,8 +18,8 @@ Jewish
 
 
 The
-Jewish
-Chronicle
+<[>Jewish
+Chronicle<]>
 reports
 this
 weekend
@@ -129,7 +129,8 @@ free
 I
 guess
 that
-manyAmerican
+many
+American
 Jews
 have
 connected

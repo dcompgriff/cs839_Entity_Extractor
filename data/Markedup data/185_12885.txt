@@ -1,5 +1,5 @@
-Natural
-Blaze
+<[>Natural
+Blaze<]>
 reports:
 
 After
@@ -98,7 +98,7 @@ guardsmen
 .
 
 As
-UsUncut
+<[>UsUncut<]>
 relays
 ,
 the

@@ -5,8 +5,8 @@ chief
 fundraisers
 for
 the
-Clinton
-Foundation
+<[>Clinton
+Foundation<]>
 pressed
 corporate
 donors
@@ -30,7 +30,7 @@ memo
 published
 Wednesday
 by
-WikiLeaks
+<[>WikiLeaks<]>
 .
 
 The
@@ -68,8 +68,8 @@ on
 behalf
 of
 the
-Clinton
-Foundation
+<[>Clinton
+Foundation<]>
 and
 how
 that
@@ -166,8 +166,8 @@ contribute
 money
 to
 the
-Clinton
-Foundation
+<[>Clinton
+Foundation<]>
 or
 attend
 the

@@ -40,13 +40,13 @@ heavy
 fighting
 with
 the
-Taliban
+<[>Taliban<]>
 this
 morning
 ,
 as
 the
-Taliban
+<[>Taliban<]>
 attempted
 to
 surge
@@ -124,7 +124,7 @@ in
 Kunduz
 .
 
-NATO
+<[>NATO<]>
 conceded
 immediately
 that
@@ -150,7 +150,7 @@ deaths
 were
 because
 the
-Taliban
+<[>Taliban<]>
 were
 using
 the

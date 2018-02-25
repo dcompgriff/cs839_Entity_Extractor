@@ -27,7 +27,7 @@ has
 voting
 machines
 from
-SmartMatics
+<[>SmartMatics<]>
 ,
 and
 since

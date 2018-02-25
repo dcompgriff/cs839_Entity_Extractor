@@ -72,7 +72,8 @@ seeing
 a
 magazine
 about
-rifles“with
+rifles
+“with
 a
 picture
 of
@@ -208,9 +209,9 @@ remarks
 .
 
 The
-Senate
+<[>Senate
 Intelligence
-Committee
+Committee<]>
 chairman
 issued
 an
@@ -320,8 +321,8 @@ appointment
 of
 a
 ninth
-Supreme
-Court
+<[>Supreme
+Court<]>
 justice
 .
 When
@@ -384,8 +385,8 @@ an
 opening
 on
 the
-Supreme
-Court
+<[>Supreme
+Court<]>
 .
 ”
 
@@ -431,8 +432,9 @@ Featured
 image
 via
 Gabriella
-Demczuk/Getty
-Images
+Demczuk/
+<[>Getty
+Images<]>
 Share
 this
 Article

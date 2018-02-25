@@ -1,4 +1,4 @@
-LAPD
+<[>LAPD<]>
 Investigating
 Boyle
 Heights
@@ -14,9 +14,9 @@ Fight
 Brittny
 Mejia
 ,
-Los
+<[>Los
 Angeles
-Times
+Times<]>
 ,
 November
 3
@@ -24,10 +24,10 @@ November
 2016
 
 The
-Los
+<[>Los
 Angeles
 Police
-Department
+Department<]>
 is
 treating
 three
@@ -174,7 +174,7 @@ John
 Parra
 of
 the
-LAPD’s
+<[>LAPD’s<]>
 Hollenbeck
 station
 said
@@ -197,8 +197,8 @@ spray
 painted
 on
 the
-Nicodim
-Gallery
+<[>Nicodim
+Gallery<]>
 .
 
 Boyle
@@ -251,7 +251,8 @@ But
 some
 in
 Boyle
-Heights–for
+Heights
+–for
 decades
 the
 heart
@@ -263,7 +264,8 @@ A
 ’s
 Mexican
 American
-community–have
+community
+–have
 vowed
 to
 fight
@@ -351,8 +353,8 @@ three
 incidents
 prompted
 the
-Hollenbeck
-Division
+<[>Hollenbeck
+Division<]>
 to
 call
 a
@@ -388,9 +390,9 @@ with
 the
 activist
 group
-Defend
+<[>Defend
 Boyle
-Heights
+Heights<]>
 ,
 which
 has
@@ -413,9 +415,9 @@ On
 Thursday
 afternoon
 ,
-Defend
+<[>Defend
 Boyle
-Heights
+Heights<]>
 issued
 a
 statement
@@ -471,7 +473,8 @@ displacement
 art
 washing
 and
-gentrification–however
+gentrification
+–however
 they
 see
 fit

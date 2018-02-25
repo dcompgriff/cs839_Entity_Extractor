@@ -74,8 +74,8 @@ media
 lies
 with
 the
-Hillary
-campaign
+<[>Hillary
+campaign<]>
 to
 try
 to
@@ -331,7 +331,7 @@ And
 finally
 we
 have
-Wikileak
+<[>Wikileaks<]>
 emails
 showing
 Clinton
@@ -390,8 +390,8 @@ THE
 IDIOTS
 THAT
 THE
-CLINTON
-CAMPAIGN
+<[>CLINTON
+CAMPAIGN<]>
 ARE
 PAYING
 TO
@@ -399,11 +399,11 @@ GO
 ON
 FORUMS
 LIKE
-TRUTHFEED
+<[>TRUTHFEED<]>
 ,
-YOUTUBE
+<[>YOUTUBE<]>
 ,
-TWITTER
+<[>TWITTER<]>
 ,
 ETC…
 .
@@ -443,7 +443,7 @@ REPUTABLE
 POLL
 ,
 INCLUDING
-RASMUSSEN
+<[>RASMUSSEN<]>
 .
 THE
 ONLY
@@ -458,11 +458,11 @@ COMING
 OUT
 OF
 THE
-CLINTON
-CAMP
+<[>CLINTON
+CAMP<]>
 AND
 THE
-MSM
+<[>MSM<]>
 .
 October
 26
@@ -471,7 +471,7 @@ October
 robbo
 
 The
-ballt
+ballot
 box
 find
 was
@@ -481,8 +481,8 @@ hoax
 the
 photo
 used
-fort
-e
+for
+the
 media
 is
 clearly

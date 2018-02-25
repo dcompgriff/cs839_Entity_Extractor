@@ -1,9 +1,9 @@
-Pinterest
+<[>Pinterest<]>
 
 In
 her
-Washington
-Post
+<[>Washington
+Post<]>
 article
 explaining
 why
@@ -83,7 +83,7 @@ her
 article
 in
 The
-Post
+<[>Post<]>
 on
 Tuesday
 (
@@ -93,7 +93,7 @@ a
 link
 to
 her
-Twitter
+<[>Twitter<]>
 feed
 ,
 which

@@ -17,7 +17,7 @@ Comments
 
 A
 new
-WikiLeaks
+<[>WikiLeaks<]>
 email
 from
 John
@@ -25,8 +25,8 @@ Podesta’s
 account
 reveals
 the
-Clinton
-campaign
+<[>Clinton
+campaign<]>
 manager
 was
 worried
@@ -113,8 +113,8 @@ well
 as
 exposing
 the
-Clinton
-camp
+<[>Clinton
+camp<]>
 as
 the
 kind
@@ -159,7 +159,7 @@ Recommended
 weeks
 ago
 )
-WikiLeaks
+<[>WikiLeaks<]>
 Dumps
 More
 Podesta
@@ -194,7 +194,7 @@ violated
 the
 trust
 of
-HRC
+<[>HRC<]>
 and
 the
 rest
@@ -255,9 +255,9 @@ Seth
 Rich
 ,
 the
-Democratic
+<[>Democratic
 National
-Committee
+Committee<]>
 employee
 widely
 suspected
@@ -283,7 +283,7 @@ unsolved
 
 Speaking
 on
-Nieuwsuur
+<[>Nieuwsuur<]>
 ,
 a
 Dutch
@@ -302,7 +302,7 @@ cause
 of
 concern
 for
-WikiLeaks’
+<[>WikiLeaks’<]>
 whistleblowers
 .
 
@@ -316,7 +316,7 @@ who
 worked
 for
 the
-DNC
+<[>DNC<]>
 who
 was
 shot
@@ -356,7 +356,7 @@ Seth
 Rich
 was
 a
-WikiLeaks
+<[>WikiLeaks<]>
 source
 ,
 Assange
@@ -392,8 +392,8 @@ concerned
 after
 learning
 the
-Clinton
-campaign
+<[>Clinton
+campaign<]>
 is
 the
 kind

@@ -57,7 +57,7 @@ children
 ,
 both
 girls
-AND
+and
 boys
 about
 female
@@ -78,7 +78,7 @@ daughters
 about
 this
 problem
-ARE
+are
 the
 problem
 .

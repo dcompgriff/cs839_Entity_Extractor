@@ -6,10 +6,10 @@ November
 2016
 GOLD
 ,
-KWN
-King
+<[>KWN<]>
+<[>King
 World
-News
+News<]>
 
 Today
 a
@@ -33,9 +33,9 @@ China
 ,
 spoke
 with
-King
+<[>King
 World
-News
+News<]>
 about
 the
 bear
@@ -151,7 +151,7 @@ legend
 just
 spoke
 with
-KWN
+<[>KWN<]>
 about
 $
 8
@@ -369,9 +369,9 @@ is
 supported
 by
 the
-Shanghai
+<[>Shanghai
 Gold
-Exchange
+Exchange<]>
 ,
 which
 is
@@ -572,7 +572,7 @@ latest
 piece
 (
 on
-KWN
+<[>KWN<]>
 )
 ,
 that
@@ -622,7 +622,7 @@ pain
 
 *
 *
-*KWN
+<[>*KWN<]>
 has
 now
 released
@@ -638,7 +638,7 @@ Greyerz
 where
 he
 gives
-KWN
+<[>KWN<]>
 listeners
 a
 look
@@ -688,9 +688,9 @@ HERE
 ©
 2015
 by
-King
+<[>King
 World
-News®
+News®<]>
 .
 All
 Rights

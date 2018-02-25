@@ -363,8 +363,8 @@ while
 still
 in
 the
-Air
-Force
+<[>Air
+Force<]>
 ,
 Linebaugh
 was
@@ -389,8 +389,8 @@ job
 ,
 but
 the
-Air
-Force
+<[>Air
+Force<]>
 refused
 .
 She
@@ -957,7 +957,7 @@ the
 film
 that
 the
-FBI
+<[>FBI<]>
 told
 two
 whistleblowers
@@ -977,7 +977,7 @@ She
 said
 that
 the
-FBI
+<[>FBI<]>
 has
 also
 contacted
@@ -1018,12 +1018,12 @@ op
 ed
 in
 the
-Guardian
+<[>Guardian<]>
 )
 .
 
 The
-FBI
+<[>FBI<]>
 also
 raids
 Daniel's
