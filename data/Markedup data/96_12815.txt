@@ -45,10 +45,10 @@ Arabia’s
 place
 on
 the
-UN
+<[>UN
 Human
 Rights
-Council
+Council<]>
 despite
 the
 Kingdoms
@@ -62,9 +62,9 @@ a
 debate
 at
 the
-House
+<[>House
 of
-Commons
+Commons<]>
 in
 Parliament
 on
@@ -94,8 +94,8 @@ video
 below
 )
 
-Press
-TV
+<[>Press
+TV<]>
 reports:
 
 “The
@@ -156,8 +156,8 @@ May
 spoke
 about
 the
-UK
-government’s
+<[>UK
+government's<]>
 contribution
 to
 the
@@ -183,10 +183,10 @@ Arabia’s
 membership
 in
 the
-UN
+<[>UN
 Human
 Rights
-Council
+Council<]>
 .
 A
 crucial
@@ -218,10 +218,10 @@ rights
 groups
 ,
 including
-Oxfam
+<[>Oxfam<]>
 and
-Amnesty
-International
+<[>Amnesty
+International<]>
 ,
 for
 fueling
@@ -244,8 +244,8 @@ last
 year
 ,
 the
-British
-government
+<[>British
+government<]>
 has
 approved
 more

@@ -9,7 +9,7 @@ Italy
 earthquakes
 retribution
 for
-UNESCO
+<[>UNESCO<]>
 vote
 
 Deputy
@@ -40,7 +40,7 @@ in
 favor
 of
 a
-UNESCO
+<[>UNESCO<]>
 resolution
 disregarding
 a

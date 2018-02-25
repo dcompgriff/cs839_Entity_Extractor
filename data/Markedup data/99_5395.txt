@@ -93,7 +93,7 @@ effect
 of
 entrenching
 the
-“Establishment”
+Establishment
 ,
 whoever
 that
@@ -539,8 +539,8 @@ referred
 to
 as
 the
-“Establishment
-candidate”
+Establishment
+candidate
 throughout
 the
 campaign
@@ -874,8 +874,8 @@ president
 .
 As
 the
-Huffington
-Post
+<[>Huffington
+Post<]>
 published
 underneath
 every
@@ -1113,7 +1113,7 @@ able
 to
 control
 the
-CIA
+<[>CIA<]>
 or
 the
 industrial
@@ -1270,8 +1270,8 @@ coming
 out
 of
 every
-Western
-government
+<[>Western
+government<]>
 .
 Obviously
 this
@@ -1306,8 +1306,8 @@ possible
 to
 reduce
 the
-US
-military
+<[>US
+military<]>
 commitment
 ,
 with
@@ -1481,7 +1481,7 @@ Farage
 former
 leader
 of
-UKIP
+<[>UKIP<]>
 and
 the
 main
@@ -1491,8 +1491,8 @@ the
 UK
 leaving
 the
-European
-Union
+<[>European
+Union<]>
 ,
 has
 described
@@ -1973,8 +1973,8 @@ same
 terms
 ,
 the
-Democratic
-Party
+<[>Democratic
+Party<]>
 is
 likely
 to
@@ -2317,11 +2317,10 @@ for
 the
 online
 magazine
-“
-New
+
+<[>New
 Eastern
-Outlook
-”
+Outlook<]>
 .
 Popular
 Articles
