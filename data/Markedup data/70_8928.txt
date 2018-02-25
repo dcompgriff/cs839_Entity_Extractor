@@ -30,10 +30,10 @@ in
 two
 years
 ,
-US
+<[>US
 Department
 of
-State
+State<]>
 spokesperson
 John
 Kirby
@@ -56,8 +56,8 @@ in
 the
 day
 ,
-Amnesty
-International
+<[>Amnesty
+International<]>
 revealed
 in
 a
@@ -86,7 +86,7 @@ purported
 to
 target
 the
-Daesh
+<[>Daesh<]>
 .
 ©
 Sputnik/
@@ -112,8 +112,8 @@ and
 we
 support
 the
-Defense
-Department
+<[>Defense
+Department<]>
 as
 they
 do
@@ -183,8 +183,8 @@ civilian
 casualties
 .
 
-Amnesty
-International
+<[>Amnesty
+International<]>
 said
 US
 authorities

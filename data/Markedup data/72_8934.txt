@@ -13,9 +13,9 @@ five
 suspected
 members
 of
-al
+<[>al
 -
-Qaeda
+Qaeda<]>
 in
 the
 Arabian
@@ -30,9 +30,9 @@ central
 Yemen
 ,
 the
-US
+<[>US
 Central
-Command
+Command<]>
 said
 in
 a
@@ -49,9 +49,9 @@ Sputnik
 —
 Earlier
 ,
-US
+<[>US
 Central
-Command
+Command<]>
 stated
 the
 previous
@@ -61,9 +61,9 @@ eight
 suspected
 members
 of
-al
+<[>al
 -
-Qaeda
+Qaeda<]>
 .
 
 The
@@ -114,9 +114,9 @@ strike
 against
 members
 of
-al
+<[>al
 -
-Qaeda
+Qaeda<]>
 in
 the
 Arabian
@@ -141,7 +141,7 @@ release
 stated
 .
 “Five
-AQAP
+<[>AQAP<]>
 enemy
 fighters
 were

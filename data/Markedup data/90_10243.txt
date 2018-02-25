@@ -1,5 +1,5 @@
 
-Twitter:
+<[>Twitter<]>:
 @
 batchelorshow
 
@@ -83,12 +83,12 @@ research
 scientist
 at
 the
-Smithsonian
+<[>Smithsonian
 National
 Museum
 of
 Natural
-History
+History<]>
 .
 
 But
@@ -187,8 +187,8 @@ Nadel
 ,
 then
 at
-Hebrew
-University
+<[>Hebrew
+University<]>
 ,
 and
 his

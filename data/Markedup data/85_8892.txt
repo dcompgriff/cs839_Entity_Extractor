@@ -14,9 +14,9 @@ recently
 released
 report
 ,
-Virginia
+<[>Virginia
 Democratic
-Gov
+Gov<]>
 .
 Terry
 McAuliffe
@@ -42,7 +42,7 @@ the
 wife
 of
 an
-FBI
+<[>FBI<]>
 official
 who
 was
@@ -123,7 +123,7 @@ Dr
 Jill
 McCabe’s
 state
-Senate
+<[>Senate<]>
 campaign
 .
 She
@@ -139,10 +139,10 @@ deputy
 director
 of
 the
-Federal
+<[>Federal
 Bureau
 of
-Investigation
+Investigation<]>
 .
 
 Gov
@@ -157,9 +157,9 @@ of
 influence
 over
 the
-Virginia
+<[>Virginia
 Democratic
-Party
+Party<]>
 which
 also
 donated
@@ -216,8 +216,8 @@ for
 office
 .
 
-State
-party
+<[>State
+party<]>
 leaders
 hand
 -
@@ -243,7 +243,7 @@ statement
 released
 by
 the
-FBI
+<[>FBI<]>
 ,
 Mr
 .
@@ -311,9 +311,9 @@ Secretary
 Clinton’s
 emails
 .
-”
-FBI
-Official’s
+
+<[>FBI<]>
+Official's
 Wife
 Involved
 In

@@ -1739,15 +1739,15 @@ Financial
 Ties
 between
 the
-Diagnostic
+<[>Diagnostic
 and
 Statistical
 Manuel
 of
 Mental
-Disorders
+Disorders<]>
 (
-DSM
+<[>DSM<]>
 )
 panel
 members
@@ -1763,7 +1763,7 @@ that
 of
 the
 170
-DSM
+<[>DSM<]>
 panel
 members
 95
@@ -1850,7 +1850,7 @@ thing
 12
 )
 “The
-DSM
+<[>DSM<]>
 appears
 to
 be
@@ -1868,7 +1868,7 @@ diagnostic
 criteria
 in
 the
-DSM
+<[>DSM<]>
 is
 not
 based
@@ -1885,7 +1885,7 @@ the
 disorders
 in
 the
-DSM
+<[>DSM<]>
 .
 It
 relies

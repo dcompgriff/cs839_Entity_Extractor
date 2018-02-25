@@ -11,8 +11,8 @@ Journalism
 Fellow
 at
 the
-Freedom
-Center
+<[>Freedom
+Center<]>
 ,
 is
 a
@@ -279,7 +279,7 @@ opinion
 .
 
 Consider
-Politico’s
+<[>Politico's<]>
 often
 mocked
 “fact
@@ -290,7 +290,7 @@ Trump
 as
 to
 whether
-ISIS
+<[>ISIS<]>
 was
 indeed
 unbelievably
@@ -349,7 +349,7 @@ had
 said
 .
 
-Politico
+<[>Politico<]>
 swooped
 in
 to
@@ -389,7 +389,7 @@ killing
 of
 civilians
 as
-ISIS
+<[>ISIS<]>
 .
 ”
 
@@ -401,7 +401,7 @@ being
 checked
 here
 because
-Politico
+<[>Politico<]>
 doesn’t
 seem
 to
@@ -423,7 +423,7 @@ this
 check”
 is
 that
-Politico
+<[>Politico<]>
 ,
 like
 the
@@ -510,7 +510,7 @@ credibility
 .
 
 The
-ISIS
+<[>ISIS<]>
 evil
 “fact
 check”
@@ -544,7 +544,7 @@ state’s
 admission
 to
 the
-Union
+<[>Union<]>
 ,
 was
 “a
@@ -557,7 +557,7 @@ union
 Wisconsin
 1848”
 .
-Politico
+<[>Politico<]>
 ran
 an
 entire
@@ -656,14 +656,14 @@ with
 their
 peers
 on
-Twitter
+<[>Twitter<]>
 ,
 aspire
 to
 found
 their
 own
-Vox
+<[>Vox<]>
 sites
 and
 write
@@ -698,8 +698,8 @@ attacks
 That’s
 why
 the
-Washington
-Post
+<[>Washington
+Post<]>
 decided
 to
 “fact
@@ -736,7 +736,7 @@ need
 checking
 .
 The
-Post
+<[>Post<]>
 was
 just
 worried
@@ -780,7 +780,7 @@ blocked
 by
 Obama
 on
-Twitter
+<[>Twitter<]>
 .
 This
 isn’t
@@ -874,8 +874,8 @@ way
 .
 
 The
-New
-Yorker
+<[>New
+Yorker<]>
 once
 boasted
 a
@@ -914,8 +914,8 @@ thing
 at
 David
 Remnick’s
-New
-Yorker
+<[>New
+Yorker<]>
 whose
 big
 draw
@@ -928,8 +928,8 @@ near
 parodies
 ?
 The
-New
-Republic
+<[>New
+Republic<]>
 went
 from
 respected
@@ -944,8 +944,8 @@ social
 justice
 blog
 .
-CBS
-News
+<[>CBS
+News<]>
 cited
 a
 psychic
@@ -1183,8 +1183,8 @@ adults
 
 At
 the
-Washington
-Post
+<[>Washington
+Post<]>
 ,
 Michelle
 Yee
@@ -1252,7 +1252,7 @@ the
 future
 .
 
-CNN
+<[>CNN<]>
 featured
 Toronto
 Star

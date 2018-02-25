@@ -105,9 +105,9 @@ up
 .
 From
 the
-Wall
+<[>Wall
 Street
-Journal
+Journal<]>
 :
 
 The
@@ -139,8 +139,8 @@ to
 a
 report
 from
-Hamilton
-Lane
+<[>Hamilton
+Lane<]>
 ,
 one
 of
@@ -180,8 +180,8 @@ restrict
 economic
 growth
 ,
-Hamilton
-Lane’s
+<[>Hamilton
+Lane's<]>
 annual
 review
 said
@@ -248,7 +248,7 @@ CIO
 Chris
 Ailman
 of
-CalSTRS
+<[>CalSTRS<]>
 ,
 described
 PE
@@ -358,8 +358,8 @@ to
 decline
 .
 
-Hamilton
-Lane
+<[>Hamilton
+Lane<]>
 has
 more
 reason
@@ -391,7 +391,7 @@ deals
 and
 if
 the
-Fed
+<[>Fed<]>
 ever
 pulls
 it
@@ -437,8 +437,8 @@ to
 2014
 .
 
-Hamilton
-Lane
+<[>Hamilton
+Lane<]>
 is
 not
 just
@@ -598,16 +598,16 @@ the
 comments
 on
 the
-Wall
+<[>Wall
 Street
-Journal
+Journal<]>
 story
 were
 not
 buying
 what
-Hamilton
-Lane
+<[>Hamilton
+Lane<]>
 was
 selling
 .
@@ -642,8 +642,8 @@ of
 the
 strained
 claims
-Hamilton
-Lane
+<[>Hamilton
+Lane<]>
 made
 .
 Notice
@@ -995,8 +995,8 @@ informed
 
 But
 the
-Hamilton
-Lane
+<[>Hamilton
+Lane<]>
 whinge
 is
 a

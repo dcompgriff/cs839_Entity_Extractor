@@ -593,8 +593,8 @@ heavy
 scrutiny
 by
 the
-German
-government
+<[>German
+government<]>
 ,
 
 The
@@ -1106,8 +1106,8 @@ Black
 people
 .
 The
-Urban
-League
+<[>Urban
+League<]>
 got
 wind
 of

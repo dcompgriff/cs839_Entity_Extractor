@@ -1,9 +1,9 @@
 Email
 
 The
-Pew
+<[>Pew
 Research
-Center
+Center<]>
 released
 a
 report
@@ -14,11 +14,11 @@ on
 information
 from
 the
-National
+<[>National
 Center
 for
 Health
-Statistics
+Statistics<]>
 on
 birth
 rates
@@ -179,8 +179,8 @@ of
 census
 data
 ,
-National
-Review
+<[>National
+Review<]>
 reported
 that
 71
@@ -345,8 +345,8 @@ S
 -born
 counterparts
 .
-Pew
-Research
+<[>Pew
+Research<]>
 writes
 ,
 “While
@@ -487,7 +487,7 @@ crippling
 regulations
 .
 
-Pew
+<[>Pew<]>
 reports
 ,
 “While
@@ -664,9 +664,9 @@ in
 "
 
 The
-International
+<[>International
 Business
-Times
+Times<]>
 reports
 that
 by
@@ -738,8 +738,8 @@ a
 piece
 for
 The
-New
-American
+<[>New
+American<]>
 last
 week
 ,
@@ -897,10 +897,10 @@ Sowell’s
 observations
 .
 At
-Live
+<[>Live
 Oak
 High
-School
+School<]>
 in
 Morgan
 Hill
@@ -948,7 +948,7 @@ senior
 fellow
 at
 the
-Kathryn
+<[>Kathryn
 and
 Shelby
 Collom
@@ -959,7 +959,7 @@ National
 Security
 and
 Foreign
-Policy
+Policy<]>
 ,
 American
 has
@@ -1231,9 +1231,9 @@ birth
 .
 
 The
-Pew
+<[>Pew
 Research
-Center
+Center<]>
 reports
 ,
 The

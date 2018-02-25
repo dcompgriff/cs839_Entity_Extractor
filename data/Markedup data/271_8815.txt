@@ -6,7 +6,6 @@ Oct
 20:46
 UTC
 ©
-NASA/JPL
 -
 Caltech/SwRI/GSFC
 This
@@ -583,7 +582,6 @@ the
 Earth
 .
 ©
-NASA/JPL
 -
 Caltech/SwRI/MSSS/Alex
 Mai
@@ -1048,7 +1046,6 @@ he
 said
 .
 ©
-NASA/JPL
 -
 Caltech/SwRI/ASI/INAF/JIRAM
 An
@@ -1063,7 +1060,7 @@ Jupiter
 ,
 captured
 by
-NASA's
+<[>NASA's<]>
 Juno
 spacecraft
 on

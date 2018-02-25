@@ -37,7 +37,7 @@ Inside
 Clinton
 Inc<]>
 .
-'
+'<]>
 https://t
 .
 co/lbR21GVtoP
@@ -197,8 +197,8 @@ largest
 bailout
 from
 the
-federal
-government
+<[>federal
+government<]>
 during
 the
 financial
@@ -810,9 +810,9 @@ In
 a
 speech
 at
-<[>Goldman
+<[>Goldman<]>
 -
-Black
+<[>Black
 Rock<]>
 on
 Feb
@@ -1000,7 +1000,7 @@ out
 for
 then
 -
-GOP
+<[>GOP<]>
 candidate
 Dr
 .
@@ -1168,7 +1168,7 @@ The
 warning
 was
 regarding
-GOP
+<[>GOP<]>
 presidential
 candidate
 Ben
@@ -1794,7 +1794,7 @@ to
 the
 <[>Jewish
 United
-Fund
+Fund<]>
 of
 Metropolitan
 Chicago<]>

@@ -882,7 +882,7 @@ before
 the
 coup
 ,
-YouTube
+<[>YouTube<]>
 published
 a
 recording

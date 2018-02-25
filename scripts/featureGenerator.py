@@ -5,6 +5,7 @@ import glob
 import os
 import time
 import re
+from multiprocessing import Pool
 
 
 '''
@@ -14,7 +15,7 @@ GLOBAL VARIABLES
 '''
 MAX_ENTITY_LENGTH = 20
 MAX_ENTITY_WORD_LENGTH = 8
-NUM_FEATURES = 3
+NUM_FEATURES = 5
 globalVerbSet = set()
 with open('../data/verbs.txt', 'r') as f:
     for line in f:
@@ -77,7 +78,23 @@ def generateStringTuples(fileContents, fileName):
 
                 # Update the rest of the tuple information.
                 tuple[0] = ' '.join(entityList)#rawString
-                #groups of only continous alpha numeric characters. Not including '.' as a separate group.
+
+
+                #################################
+                # PRE-PROCESSING RULES
+                #################################
+                if ',' in tuple[0].strip().split()[0] or ',' in tuple[0].strip().split()[-1]:
+                    continue
+                if ('.' in tuple[0].strip().split()[0] or '.' in tuple[0].strip().split()[-1]) and len(entityList):
+                    continue
+                if ('-' in tuple[0].strip()):
+                    continue
+                if ('(' in tuple[0].strip() or ')' in tuple[0].strip()):
+                    continue
+                if 'as' in tuple[0].lower() or 'a' in tuple[0].lower() or 'an' in tuple[0].lower():
+                    continue
+
+                #groups of only continuous alpha numeric characters. Not including '.' as a separate group.
                 words = re.findall(reg, tuple[0])
                 tuple[4] = ' '.join(words)# string after stripping inner punctuations
                 tuple[5] = len(words)# wordCount
@@ -121,9 +138,96 @@ def F2(tuple, fileContents):
     except IndexError:
         return 0
 
+def F3(tuple, fileContents):
+    return len(tuple.string.strip())
 
+def F4(tuple, fileContents):
+    return len(tuple.string.strip().split())
 
+def F5(tuple, fileContents):
+    try:
+        return sum(1 for char in fileContents[tuple.start - 1] if char.isupper())
+    except:
+        return -1
 
+def F6(tuple, fileContents):
+    try:
+        if fileContents[tuple.start - 1].strip().lower() == 'on':
+            return 1
+        else:
+            return 0
+    except IndexError:
+        return 0
+
+def F7(tuple, fileContents):
+    try:
+        if fileContents[tuple.start - 1].strip().lower() == 'called':
+            return 1
+        else:
+            return 0
+    except IndexError:
+        return 0
+
+def F8(tuple, fileContents):
+    try:
+        if fileContents[tuple.end].strip().lower() == 'they':
+            return 1
+        else:
+            return 0
+    except IndexError:
+        return 0
+
+def F9(tuple, fileContents):
+    try:
+        if "." in tuple.rawString.split()[1:-1] or "!" in tuple.rawString.split()[1:-1] or "?" in tuple.rawString.split()[1:-1]:
+            return 1
+        else:
+            return 0
+    except IndexError:
+        return 0
+
+def F10(tuple, fileContents):
+    return tuple.rawString.count('.')
+
+def F11(tuple, fileContents):
+    if ',' in tuple.rawString:
+        return 1
+    else:
+        return 0
+
+def F12(tuple, fileContents):
+    if ',' in tuple.rawString.strip().split()[0] or ',' in tuple.rawString.strip().split()[-1]:
+        return 1
+    else:
+        return 0
+
+def F13(tuple, fileContents):
+    if '.' in tuple.rawString.strip().split()[0] or '.' in tuple.rawString.strip().split()[-1]:
+        return 1
+    else:
+        return 0
+
+def F14(tuple, fileContents):
+    if 'as' in tuple.rawString.lower() or 'a' in tuple.rawString.lower() or 'an' in tuple.rawString.lower():
+        return 1
+    else:
+        return 0
+
+def F15(tuple, fileContents):
+    count = 0
+    for word in tuple.rawString.strip().split():
+        if word[0].isupper() and word[1:] == word[1:].lower():
+            count += 1
+    return count / len(tuple.rawString.strip().split())
+
+def F16(tuple, fileContents):
+    try:
+        if fileContents[tuple.end][0].isupper() and fileContents[tuple.end][1:] == fileContents[tuple.end][1:].lower():
+            return 1
+        else:
+            return 0
+    except:
+        return 0
 
 
 '''
@@ -131,13 +235,23 @@ def F2(tuple, fileContents):
 
 Feature list:
     F0: "[The]" occurs 1 or two lines before string.
-    F1: Number of Capital Letters.
+    F1: Number of capitol Letters.
     F2: Verb occurs 1 or two lines after the string.
-    F3: The frequency of the string occurring in the file contents.
-    F4:
-    F5:
-    F6:
-    F7:
+    F3: Total character length
+    F4: Total number of words
+    F5: Number of capitol letters before the string.
+    F5: Number of capitol letters in line after this string.
+    F6: "on" comes before
+    F7: "called" comes before
+    F8: "they" comes after
+    F9: .?! comes in the middle of and entry
+    F10: Number of "."s
+    F11: "," is in the raw string "NOTE: This feature reliably improves precision!"
+    F12: "," is in the first or last raw string position "NOTE: This feature reliably improves precision!"
+    F13: "." is in the first or last raw string position.
+    F14: "as", "a", "an" is in the raw string.
+    F15: The faction of the number of words where only the first character is capitalized to all words.
+    F16: The rawString has a Single capitolized word after it.
 
 Each "tuple" object is a Pandas series with first entry tuple[0] the index, and
     all following entries the entries of each row from the string tuples dataframe.
@@ -157,7 +271,7 @@ def generateFeaturesFromFile(fileContents, fileName):
     allFeaturesList.append(tuplesDF['label'].tolist())
 	# TODO: write to a csv file the entire matrix of examples and features. Randomize. Remove some to ensure almost even split b/w + and -
 
-    return pd.DataFrame(np.array(allFeaturesList).T, columns=['F' + str(i) for i in range(NUM_FEATURES)] + ['label'])
+    return pd.DataFrame(np.array(allFeaturesList).T, columns=['F' + str(i) for i in range(NUM_FEATURES)] + ['label']), tuplesDF
 
 
 
@@ -180,14 +294,17 @@ def main(args):
     startTime = time.time()
 
     fullDF = pd.DataFrame(columns=['F' + str(i) for i in range(NUM_FEATURES)] + ['label'])
+    tuplesDF = pd.DataFrame(columns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'label'])
 
     # For each file, parse into tuples, then parse into features, and create a full pandas data frame object.
     print('Performing featurization...')
     for file in fileList[200:300]:
         if '.txt' in file:
             with open(args.FileFolder + file, "r", encoding="ISO-8859-1") as f:
-                fileDF = generateFeaturesFromFile(f.readlines(), file)
+                print(file)
+                fileDF, fileTuplesDF = generateFeaturesFromFile(f.readlines(), file)
                 fullDF = pd.concat([fullDF, fileDF])
+                tuplesDF = pd.concat([tuplesDF, fileTuplesDF])
     endTime = time.time()
     print('Done!')
     print("Total time to run: %s seconds." %str(endTime-startTime))
@@ -195,6 +312,7 @@ def main(args):
     # Save the entire pandas data frame object of features and classes.
     print('Saving the full dataframe...')
     fullDF.to_csv('../data/featurized_instances.csv')
+    tuplesDF.to_csv('../data/tuples_instances.csv')
     print('Done!')
 
 

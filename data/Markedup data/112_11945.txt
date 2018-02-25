@@ -72,10 +72,10 @@ The
 Shiite
 -
 led
-Hashd
+<[>Hashd
 al
 -
-Shaabi
+Shaabi<]>
 militia
 said
 Thursday
@@ -104,10 +104,10 @@ clear
 of
 .
 “The
-Hashd
+<[>Hashd
 al
 -
-Shaabi
+Shaabi<]>
 are
 continuously
 advancing
@@ -134,10 +134,10 @@ Nuri
 spokesperson
 of
 the
-Hashd
+<[>Hashd
 al
 -
-Shaabi
+Shaabi<]>
 ,
 told
 Rudaw
@@ -184,7 +184,7 @@ the
 Iranian
 -
 backed
-Hashd
+<[>Hashd<]>
 had
 not
 received
@@ -247,7 +247,7 @@ north
 Turkey
 has
 warned
-Hashd
+<[>Hashd<]>
 forces
 from
 entering
@@ -287,7 +287,7 @@ his
 country
 opposed
 any
-Hashd
+<[>Hashd<]>
 presence
 in
 Tal
@@ -310,7 +310,7 @@ not
 regard
 it
 [
-Hashd
+<[>Hashd<]>
 involvement
 ]
 positively
@@ -371,10 +371,10 @@ added
 ,
 “But
 if
-Hashd
+<[>Hashd
 al
 -
-Shaabi
+Shaabi<]>
 terrorizes
 the
 region

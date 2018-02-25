@@ -80,7 +80,7 @@ weeknights
 at
 7:30
 on
-HBO
+<[>HBO<]>
 .
 
 Subscribe
@@ -95,7 +95,6 @@ ly/Subscribe
 to
 -
 <[>VICE
--
 News<]>
 
 Check

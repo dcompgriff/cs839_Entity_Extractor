@@ -510,7 +510,7 @@ is
 exactly
 why
 the
-Left
+<[>Left<]>
 is
 so
 dangerous

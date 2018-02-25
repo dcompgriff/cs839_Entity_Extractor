@@ -27,7 +27,7 @@ invasion
 of
 Mosul
 ,
-Centcom
+<[>Centcom<]>
 chief
 Gen
 .
@@ -51,7 +51,7 @@ about
 800
 -
 900
-ISIS
+<[>ISIS<]>
 fighters
 ”
 in
@@ -116,7 +116,7 @@ get
 accurate
 information
 on
-ISIS
+<[>ISIS<]>
 casualties
 ,
 and
@@ -186,7 +186,7 @@ villages
 ,
 and
 while
-ISIS
+<[>ISIS<]>
 has
 sent
 out

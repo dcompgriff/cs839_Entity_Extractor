@@ -29,10 +29,10 @@ J
 .
 Share
 on
-Facebook
+<[>Facebook<]>
 Share
 on
-Twitter
+<[>Twitter<]>
 
 The
 first
@@ -136,11 +136,11 @@ twitter
 .
 com/YiXf9UuQzg
 
-—
-New
+
+<[>New
 York
 Daily
-News
+News<]>
 (
 @NYDailyNews
 )

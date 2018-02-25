@@ -1,9 +1,9 @@
 by
 Paul
 Fassa
-Health
+<[>Health
 Impact
-News
+News<]>
 
 An
 episode
@@ -521,7 +521,7 @@ basic
 areas
 discovered
 that
-can
+canG
 be
 remedied
 without

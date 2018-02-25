@@ -126,7 +126,7 @@ now
 notorious
 Morton
 County
-Sheriff’s
+Sheriff's
 Office
 ,
 this
@@ -289,9 +289,9 @@ kennel
 ,
 reports
 the
-Los
+<[>Los
 Angeles
-Times
+Times<]>
 .
 
 Although
@@ -397,11 +397,11 @@ be
 disturbed
 by
 the
-U
+<[>U
 .
 S
 .
-government
+government<]>
 .
 Prior
 to
@@ -421,8 +421,8 @@ stating
 as
 cited
 by
-Indigenous
-Rising
+<[>Indigenous
+Rising<]>
 :
 
 “Today
@@ -558,9 +558,9 @@ a
 press
 release
 from
-Indigenous
+<[>Indigenous
 Environment
-Network
+Network<]>
 .
 “A
 tipi
@@ -724,9 +724,9 @@ security
 firm
 hired
 by
-Energy
+<[>Energy
 Transfer
-Partners
+Partners<]>
 ,
 the
 company
@@ -821,7 +821,7 @@ out
 .
 
 Although
-ETP
+<[>ETP<]>
 and
 some
 law
@@ -838,7 +838,7 @@ security
 mercenaries
 ,
 the
-Guardian
+<[>Guardian<]>
 now
 reports
 that
@@ -896,12 +896,12 @@ of
 Ohio
 -
 based
-Frost
-Kennels
+<[>Frost
+Kennels<]>
 ,
 told
 the
-Guardian
+<[>Guardian<]>
 ,
 “All
 the
@@ -977,7 +977,7 @@ but
 according
 to
 the
-Guardian
+<[>Guardian<]>
 ,
 police
 have
@@ -1057,7 +1057,7 @@ statement
 cited
 by
 the
-Guardian
+<[>Guardian<]>
 ,
 Morton
 County
@@ -1139,9 +1139,9 @@ rights
 .
 
 As
-Lakota
+<[>Lakota
 Country
-Times
+Times<]>
 editor
 Brandon
 Ecoffey
@@ -1233,7 +1233,7 @@ Dakota
 .
 ”
 Share
-Google
+<[>Google<]>
 +
 Steve
 Wilkins

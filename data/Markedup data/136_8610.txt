@@ -134,7 +134,7 @@ campaign<]>
 officials
 .
 A
-Brietbart
+<[>Brietbart<]>
 report
 indicates
 that
@@ -187,7 +187,7 @@ developing
 story
 from
 the
-<[>Gatway
+<[>Gateway
 Pundit<]>
 ,
 it
@@ -681,8 +681,8 @@ to
 us
 by
 an
-American
-Government
+<[>American
+Government<]>
 official
 when
 he

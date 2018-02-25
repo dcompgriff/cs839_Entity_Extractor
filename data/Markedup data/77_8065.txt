@@ -140,9 +140,9 @@ the
 Texas
 -
 based
-Energy
+<[>Energy
 Transfer
-Partners
+Partners<]>
 .
 
 Since
@@ -278,9 +278,9 @@ enforced
 .
 ”
 
-Energy
+<[>Energy
 Transfer
-Partners
+Partners<]>
 also
 said
 in
@@ -415,8 +415,8 @@ South
 Dakota
 told
 The
-Bismarck
-Tribune
+<[>Bismarck
+Tribune<]>
 .
 “This
 is
@@ -463,11 +463,11 @@ unauthorized
 camp
 from
 the
-US
+<[>US
 Army
 Corps
 of
-Engineers
+Engineers<]>
 property
 for
 the
@@ -504,12 +504,12 @@ speeds
 According
 to
 the
-North
+<[>North
 Dakota
 Department
 of
 Emergency
-Services
+Services<]>
 ,
 authorities
 have
@@ -537,10 +537,10 @@ state
 borrowed
 from
 the
-Bank
+<[>Bank
 of
 North
-Dakota
+Dakota<]>
 in
 emergency
 funds
@@ -607,9 +607,9 @@ piece
 was
 reprinted
 by
-RINF
+<[>RINF
 Alternative
-News
+News<]>
 with
 permission
 or

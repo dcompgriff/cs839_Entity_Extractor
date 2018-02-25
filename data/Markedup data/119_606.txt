@@ -274,7 +274,7 @@ weapons
 expert
 at
 the
-U
+<[>U
 .
 S
 .

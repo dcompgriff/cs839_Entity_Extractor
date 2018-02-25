@@ -108,8 +108,8 @@ systems
 .
 
 A
-Supreme
-Court
+<[>Supreme
+Court<]>
 justice’s
 orientation
 toward
@@ -322,7 +322,7 @@ Islamic
 fundamentalism”
 and
 the
-“post
+post
 -
 Enlightenment
 West
@@ -678,7 +678,7 @@ to
 control
 .
 The
-Pentagon
+<[>Pentagon<]>
 is
 reported
 to
@@ -832,7 +832,7 @@ accident
 ,
 perhaps
 where
-NATO
+<[>NATO<]>
 and
 Russia
 push
@@ -1066,9 +1066,9 @@ private
 employer
 is
 the
-Bath
+<[>Bath
 Iron
-Works
+Works<]>
 .
 They
 are
@@ -1104,8 +1104,8 @@ a
 conversation
 with
 an
-Iron
-Works
+<[>Iron
+Works<]>
 employee
 .
 I
