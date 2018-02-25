@@ -10,8 +10,8 @@ supporter
 just
 took
 the
-Republican
-Party
+<[>Republican
+Party<]>
 platform
 and
 proudly
@@ -101,8 +101,8 @@ by
 the
 Trump
 and
-Republican
-Party
+<[>Republican
+Party<]>
 ,
 who
 have
@@ -143,9 +143,9 @@ violence
 ,
 but
 that’s
-today’s
-Republican
-Party
+today's
+<[>Republican
+Party<]>
 under
 Donald
 Trump
@@ -167,8 +167,8 @@ even
 winding
 up
 under
-Secret
-Service
+<[>Secret
+Service<]>
 investigation
 twice
 .
@@ -181,8 +181,8 @@ public
 scolding
 from
 the
-Secret
-Service
+<[>Secret
+Service<]>
 for
 saying
 that
@@ -249,8 +249,8 @@ policy
 proposal
 of
 the
-Republican
-Party
+<[>Republican
+Party<]>
 —
 beyond
 Trump’s
