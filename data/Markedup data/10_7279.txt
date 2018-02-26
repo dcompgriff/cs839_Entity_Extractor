@@ -29,8 +29,8 @@ pageant
 Clip:
 
 —
-CBS
-News
+<[>CBS
+News<]>
 (
 @CBSNews
 )

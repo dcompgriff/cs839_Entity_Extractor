@@ -24,8 +24,8 @@ in
 Politics
 Share
 This
-Fox
-News
+<[>Fox
+News<]>
 Host
 (
 left
@@ -44,7 +44,7 @@ From
 the
 moment
 the
-FBI
+<[>FBI<]>
 announced
 they’re
 investigating
@@ -125,8 +125,8 @@ Kellyanne
 Conway
 went
 on
-Fox
-News
+<[>Fox
+News<]>
 to
 discuss
 it
@@ -168,7 +168,7 @@ sentence
 
 When
 the
-FBI
+<[>FBI<]>
 cracks
 a
 case
@@ -204,7 +204,7 @@ in
 incarceration
 .
 Former
-FBI
+<[>FBI<]>
 Assistant
 Director
 James
@@ -249,10 +249,10 @@ what
 Conway
 said
 on
-Fox
-News:
+<[>Fox
+News<]>:
 
-“What
+What
 we
 are
 reminded
@@ -277,7 +277,7 @@ conversation
 about
 a
 renewed
-FBU
+<[>FBI<]>
 investigation
 because
 Hillary
@@ -319,7 +319,7 @@ the
 combined
 forces
 of
-WikiLeaks
+<[>WikiLeaks<]>
 ,
 James
 O’Keefe
@@ -327,7 +327,7 @@ O’Keefe
 and
 now
 the
-FBI
+<[>FBI<]>
 ,
 who
 are
@@ -359,7 +359,7 @@ coming
 Hopefully
 ,
 the
-FBI
+<[>FBI<]>
 who
 failed
 the

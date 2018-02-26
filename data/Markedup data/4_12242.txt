@@ -47,7 +47,7 @@ in
 sight
 .
 
-WWN
+<[>WWN<]>
 carried
 out
 some

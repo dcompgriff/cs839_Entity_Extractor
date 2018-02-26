@@ -25,10 +25,10 @@ tsunami
 alert
 .
 The
-United
+<[>United
 States
 Geological
-Survey
+Survey<]>
 has
 reported
 that
@@ -247,13 +247,13 @@ tidal
 wave
 .
 The
-National
+<[>National
 Weather
 Service
 Pacific
 Tsunami
 Warning
-Center
+Center<]>
 in
 Hawaii
 issued
@@ -312,10 +312,10 @@ by
 Cathy
 Milne
 Sources:
-United
+<[>United
 States
 Geological
-Survey:
+Survey<]>:
 M6
 .
 9
@@ -331,10 +331,10 @@ Japan
 (
 Updated
 )
-Pacific
+<[>Pacific
 Tsunami
 Warning
-Center
+Center<]>
 ,
 Ewa
 Beach
@@ -342,9 +342,9 @@ HI:
 Tsunami
 Threat
 Message
-Michigan
+<[>Michigan
 Tech
-University:
+University<]>:
 Earthquake
 Magnitude
 Scale/Classes
@@ -356,8 +356,8 @@ Jones’
 Flickr
 Page
 –
-Creative
-Commons
+<[>Creative
+Commons<]>
 License
 
 

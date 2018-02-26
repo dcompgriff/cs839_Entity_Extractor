@@ -20,11 +20,11 @@ re
 election
 to
 the
-United
+<[>United
 Nations
 Human
 Rights
-Council
+Council<]>
 .
 
 President
@@ -43,12 +43,12 @@ the
 193
 -
 member
-U
+<[>U
 .
 N
 .
 General
-Assembly
+Assembly<]>
 on
 Friday
 .
@@ -71,12 +71,12 @@ a
 member
 of
 the
-UN
+<[>UN
 Human
 Rights
-Council
+Council<]>
 (
-UNHRC
+<[>UNHRC<]>
 )
 after
 being
@@ -99,7 +99,7 @@ aid
 organizations
 had
 urged
-UN
+<[>UN<]>
 member
 -
 states
@@ -146,7 +146,7 @@ rights
 organizations
 .
 
-RT
+<[>RT<]>
 reports:
 
 Saudi
@@ -167,7 +167,7 @@ the
 region
 on
 the
-UNHRC
+<[>UNHRC<]>
 alongside
 China
 ,
@@ -250,7 +250,7 @@ tasked
 with
 formulating
 the
-UN’s
+<[>UN's<]>
 official
 position
 on
@@ -310,12 +310,12 @@ own
 agendas
 .
 
-Human
+<[>Human
 Rights
-Watch
+Watch<]>
 and
-Amnesty
-International
+<[>Amnesty
+International<]>
 produced
 a
 joint
@@ -373,7 +373,7 @@ a
 member
 of
 the
-UNHRC
+<[>UNHRC<]>
 since
 it
 was

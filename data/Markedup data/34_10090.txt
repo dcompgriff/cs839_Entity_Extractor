@@ -240,7 +240,7 @@ Anderson
 Cooper
 Informs
 Viewers
-CNN
+<[>CNN<]>
 Just
 Minutes
 Away
@@ -272,7 +272,7 @@ America”
 programming
 block
 ,
-CNN
+<[>CNN<]>
 anchor
 Anderson
 Cooper

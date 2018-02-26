@@ -35,7 +35,7 @@ of
 US
 -
 made
-MD
+<[>MD<]>
 -
 530
 Helicopters
@@ -45,7 +45,7 @@ Kabul
 (
 photo
 by
-AFP
+<[>AFP<]>
 )
 
 The
@@ -111,7 +111,7 @@ probed
 .
 
 Three
-Taliban
+<[>Taliban<]>
 leaders
 were
 supposed
@@ -169,12 +169,12 @@ November
 3
 to
 defend
-Afghan
+<[>Afghan
 National
 Defense
 and
 Security
-Forces
+Forces<]>
 likely
 resulted
 in
@@ -240,9 +240,9 @@ houses
 ,
 according
 to
-Afghan
+<[>Afghan
 Defense
-Ministry
+Ministry<]>
 spokesman
 Dawlat
 Waziri
@@ -278,7 +278,7 @@ Waziri
 said
 .
 
-Taliban
+<[>Taliban<]>
 militants
 were
 removed
@@ -321,7 +321,7 @@ in
 fierce
 clashes
 with
-Taliban
+<[>Taliban<]>
 to
 contain
 the

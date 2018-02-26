@@ -178,8 +178,8 @@ Lohan
 .
 After
 a
-Daily
-Mail
+<[>Daily
+Mail<]>
 article
 on
 the
@@ -296,8 +296,8 @@ identified
 her
 ,
 on
-Vigilant
-Citizen
+<[>Vigilant
+Citizen<]>
 ,
 to
 be
@@ -574,7 +574,7 @@ A
 shopping
 trip
 to
-Macy’s
+<[>Macy's<]>
 on
 Jan
 .
@@ -830,9 +830,9 @@ paparazzo
 
 –
 Source:
-People
+<[>People
 .
-com
+com<]>
 
 While
 media
