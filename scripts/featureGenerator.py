@@ -26,6 +26,9 @@ University|School|College|Department|Org|Organization)\b', re.I)
 #allow . - ' ` and " inside entity words. As these are there while marking up
 badpunc = re.compile(r'\~|\!|\@|\#|\$|\%|\^|\&|\*|\(|\)|\_|\+|\=|\{|\}|\;|\<|\>|\,|\?|\/|\\')
 
+
+globalCount = 0
+
 '''
 ****************************************************************
 PROGRAM FUNCTION SCRIPTS
@@ -43,6 +46,7 @@ line.
 
 '''
 def generateStringTuples(fileContents, fileName):
+    global globalCount
     # Create initial pandas dataframe for data objects.
     # rawString: as read form the file after removing entity markers
     # string: after stripping punctuations from inside rawString
@@ -65,17 +69,25 @@ def generateStringTuples(fileContents, fileName):
                 tuple = ['', fileName, i, i+entityLength, '', 0, '-']
                 entityList = list(map(lambda item: str(item).strip(), fileContents[i:i+entityLength]))
                 # Set class to positive if '<[>' in first list word, and '<]>' in last word in list.
-                if '<[>' == entityList[0].strip() and '<]>' == entityList[-1].strip():
+                if '<[>' in entityList[0].strip() and '<]>' in entityList[-1].strip():
                     # If '<[>' and '<]>' appear in any other places internally in the string, then the
                     # string isn't a single entity, and is actually two entities that have been grouped
                     # together. Ex '<[>Project Veritas<]> shows how the <[>Clinton campaign<]>'.
                     # Count the number of times left and right tags occur in the string.
-                    lCount = sum(map(lambda item: 1 if '<[>' in item else 0, entityList))
-                    rCount = sum(map(lambda item: 1 if '<]>' in item else 0, entityList))
-                    if lCount + rCount > 2:
-                        tuple[-1] = '-'
-                    else:
+                    lCount = 0#sum(map(lambda item: 1 if '<[>' in item else 0, entityList))
+                    rCount = 0#sum(map(lambda item: 1 if '<]>' in item else 0, entityList))
+                    for cStr in entityList:
+                        if '<[>' in cStr:
+                            lCount += 1
+                        if '<]>' in cStr:
+                            rCount += 1
+                    if lCount + rCount == 2:
                         tuple[-1] = '+'
+                        globalCount += 1
+                    else:
+                        tuple[-1] = '-'
+
+
 
                 # Remove any entity tags from the string.
                 entityList = list(map(lambda item: item.replace('<[>', ''), entityList))
@@ -89,34 +101,34 @@ def generateStringTuples(fileContents, fileName):
                 # PRE-PROCESSING RULES
                 #################################
                 if ',' in tuple[0].strip().split()[0] or ',' in tuple[0].strip().split()[-1]:
-                    continue
-                #if ('.' in tuple[0].strip().split()[0] or '.' in tuple[0].strip().split()[-1]) and len(entityList):
-                #    continue
-                if ('-' in tuple[0].strip()):
-                    continue
+                     continue
+                # #if ('.' in tuple[0].strip().split()[0] or '.' in tuple[0].strip().split()[-1]) and len(entityList):
+                # #    continue
+                # if ('-' in tuple[0].strip()):
+                #      continue
                 if ('(' in tuple[0].strip() or ')' in tuple[0].strip()):
+                     continue
+                # if 'as' in tuple[0].lower() or 'a' in tuple[0].lower() or 'an' in tuple[0].lower():
+                #      continue
+                if len(re.findall(badpunc, tuple[0]))>0:#full tuple contains any unwanted punctuations
                     continue
-                if 'as' in tuple[0].lower() or 'a' in tuple[0].lower() or 'an' in tuple[0].lower():
-                    continue
-                #if len(re.findall(badpunc, tuple[0]))>0:#full tuple contains any unwanted punctuations
-                #    continue
 
                 #groups of only continuous alpha numeric characters. Not including '.' as a separate group.
                 words = re.findall(reg, tuple[0])
                 tuple[4] = ' '.join(words)# string after stripping inner punctuations
                 tuple[5] = len(words)# wordCount
                 if(tuple[5]>0 and tuple[5]<=MAX_ENTITY_WORD_LENGTH):#not too large a phrase
-                    if(tuple[4] in uniques):#already seen same phrase before
-                        tmp = uniques[tuple[4]]#get the previous occurence
-                        #print(tmp)
-                        if(abs(tmp[2]-i)<4): #prev started not more than 4 characters ago
-                            if(tmp[3]-tmp[2]<entityLength):#earlier one was smaller
-                                #update all properties, hence keeping the bigger one in list
-                                tmp[:-1]=tuple[:-1]
-                            tmp[-1] = '+' if(tuple[-1]=='+') else tmp[-1]#modify if new label is +    
-                    else:#Haven't encoutered this phrase before
-                        tupleList.append(tuple)
-                        uniques[tuple[4]] = tuple
+                    # if(tuple[4] in uniques):#already seen same phrase before
+                    #     tmp = uniques[tuple[4]]#get the previous occurence
+                    #     #print(tmp)
+                    #     if(abs(tmp[2]-i)<4): #prev started not more than 4 characters ago
+                    #         if(tmp[3]-tmp[2]<entityLength):#earlier one was smaller
+                    #             #update all properties, hence keeping the bigger one in list
+                    #             tmp[:-1]=tuple[:-1]
+                    #         tmp[-1] = '+' if(tuple[-1]=='+') else tmp[-1]#modify if new label is +
+                    # else:#Haven't encoutered this phrase before
+                    tupleList.append(tuple)
+                    #uniques[tuple[4]] = tuple
                     #Check for unique ones too. 
             except IndexError:
                 continue
@@ -330,6 +342,7 @@ def main(args):
     fullDF.to_csv('../data/featurized_instances.csv')
     tuplesDF.to_csv('../data/tuples_instances.csv')
     print('Done!')
+    print(globalCount)
 
 
 
