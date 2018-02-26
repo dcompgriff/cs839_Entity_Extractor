@@ -21,6 +21,11 @@ with open('../data/verbs.txt', 'r') as f:
     for line in f:
         globalVerbSet.add(line.strip())
 
+keywords = re.compile(r'\b(Inc|Incorporation|Corp|Corporation|Institute|\
+University|School|College|Department|Org|Organization)\b', re.I)
+#allow . - ' ` and " inside entity words. As these are there while marking up
+badpunc = re.compile(r'\~|\!|\@|\#|\$|\%|\^|\&|\*|\(|\)|\_|\+|\=|\{|\}|\;|\<|\>|\,|\?|\/|\\')
+
 '''
 ****************************************************************
 PROGRAM FUNCTION SCRIPTS
@@ -93,6 +98,8 @@ def generateStringTuples(fileContents, fileName):
                     continue
                 if 'as' in tuple[0].lower() or 'a' in tuple[0].lower() or 'an' in tuple[0].lower():
                     continue
+                if len(re.findall(badpunc, tuple[0]))>0:#full tuple contains any unwanted punctuations
+                    continue
 
                 #groups of only continuous alpha numeric characters. Not including '.' as a separate group.
                 words = re.findall(reg, tuple[0])
@@ -142,7 +149,7 @@ def F3(tuple, fileContents):
     return len(tuple.string.strip())
 
 def F4(tuple, fileContents):
-    return len(tuple.string.strip().split())
+    return tuple.wordCount#len(tuple.string.strip().split())
 
 def F5(tuple, fileContents):
     try:
@@ -229,7 +236,17 @@ def F16(tuple, fileContents):
     except:
         return 0
 
+def F17(tuple, fileContents):
+    return 1 if len(re.findall(keywords, tuple.string))>0 else 0#case ignoring search criteria
 
+def F18(tuple, fileContents):
+    return 
+
+def F5(tuple, fileContents):
+    try:
+        return sum(1 for char in fileContents[tuple.start - 1] if char.isupper())*1.0/tuple.wordCount
+    except:
+        return -1
 '''
 
 
@@ -251,7 +268,9 @@ Feature list:
     F13: "." is in the first or last raw string position.
     F14: "as", "a", "an" is in the raw string.
     F15: The faction of the number of words where only the first character is capitalized to all words.
-    F16: The rawString has a Single capitolized word after it.
+    F16: The rawString has a Single capitalized word after it.
+	F17: Contains a keyword
+	F18: fraction of capital letters to wordCount
 
 Each "tuple" object is a Pandas series with first entry tuple[0] the index, and
     all following entries the entries of each row from the string tuples dataframe.
