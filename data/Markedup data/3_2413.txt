@@ -1,7 +1,7 @@
 Little
 Known
-Treasury
-Committee
+<[>Treasury
+Committee<]>
 Gives
 Us
 a
@@ -23,8 +23,8 @@ ever
 considered
 how
 the
-US
-Treasury
+<[>US
+Treasury<]>
 decides
 how
 much

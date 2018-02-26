@@ -77,10 +77,10 @@ we
 know
 today
 as
-America
+<[>America
 Al
-Qaeda
-–
+Qaeda<]>
+
 The
 Database
 By
@@ -101,8 +101,8 @@ a
 former
 agent
 for
-French
-military
+<[>French
+military<]>
 intelligence
 ,
 tells
@@ -110,8 +110,8 @@ of
 the
 origins
 of
-Al
-Qaeda
+<[>Al
+Qaeda<]>
 and
 its
 ultimate
@@ -227,7 +227,7 @@ July
 ,
 2008
 
-Google
+<[>Google<]>
 removed
 this
 video

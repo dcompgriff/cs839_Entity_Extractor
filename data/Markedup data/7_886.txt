@@ -95,8 +95,8 @@ assistance
 from
 either
 the
-Iraqi
-government
+<[>Iraqi
+government<]>
 or
 from
 the
@@ -114,7 +114,7 @@ air
 .
 
 The
-UN
+<[>UN<]>
 has
 reported
 six
@@ -147,7 +147,7 @@ same
 time
 ,
 the
-UN
+<[>UN<]>
 has
 warned
 that
@@ -209,7 +209,7 @@ air
 strikes
 against
 fleeing
-ISIS
+<[>ISIS<]>
 fighters
 .
 It’s

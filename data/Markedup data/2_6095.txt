@@ -37,14 +37,14 @@ co
 -
 chairman
 of
-Republicans
-Overseas
+<[>Republicans
+Overseas<]>
 Israel
 speaks
 as
 the
-Republican
-Party
+<[>Republican
+Party<]>
 launches
 its
 first
@@ -109,7 +109,7 @@ world
 
 Speaking
 to
-AFP
+<[>AFP<]>
 at
 a
 rooftop
@@ -418,11 +418,11 @@ state
 
 At
 an
-American
+<[>American
 Israel
 Public
 Affairs
-Committee
+Committee<]>
 conference
 in
 March
@@ -573,7 +573,7 @@ at
 odds
 with
 most
-UN
+<[>UN<]>
 member
 states
 .

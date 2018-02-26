@@ -3,8 +3,8 @@ John
 Whitehead
 ,
 the
-Rutherford
-Institute
+<[>Rutherford
+Institute<]>
 .
 
 “The
@@ -244,12 +244,12 @@ the
 land
 ,
 the
-U
+<[>U
 .
 S
 .
 Supreme
-Court
+Court<]>
 ,
 which
 is
@@ -295,10 +295,10 @@ land
 grab
 by
 the
-Bureau
+<[>Bureau
 of
 Land
-Management
+Management<]>
 ,
 a
 Native
@@ -393,9 +393,9 @@ peaceniks
 Native
 Americans
 ,
-Black
+<[>Black
 Lives
-Matter
+Matter<]>
 ,
 Occupy
 ,
@@ -738,8 +738,8 @@ duties
 (
 as
 the
-Washington
-Post
+<[>Washington
+Post<]>
 points
 out
 ,
@@ -756,8 +756,8 @@ left
 -
 wingers
 and
-Earth
-First
+<[>Earth
+First<]>
 protesters
 )
 .
@@ -2082,7 +2082,7 @@ pipeline
 protesters
 or
 opposed
-BLM
+<[>BLM<]>
 ,
 or
 whether
