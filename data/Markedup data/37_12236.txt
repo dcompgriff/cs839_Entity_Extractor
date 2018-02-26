@@ -4,7 +4,7 @@ Comment
 
 TECH
 giant
-Apple
+<[>Apple<]>
 has
 today
 kindly
@@ -100,7 +100,7 @@ before
 taking
 to
 the
-Apple
+<[>Apple<]>
 floor
 to
 make
@@ -116,7 +116,7 @@ computers
 have
 always
 loved
-Apple’s
+<[>Apple's<]>
 sleek
 product
 design
@@ -173,7 +173,7 @@ they
 are”
 .
 
-Apple
+<[>Apple<]>
 CEO
 Tim
 Cook
@@ -246,11 +246,11 @@ employees
 ”
 Cook
 told
-WWN
+<[>WWN<]>
 .
 
 The
-Apple
+<[>Apple<]>
 offer
 could
 not
