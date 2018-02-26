@@ -15,7 +15,7 @@ GLOBAL VARIABLES
 '''
 MAX_ENTITY_LENGTH = 20
 MAX_ENTITY_WORD_LENGTH = 8
-NUM_FEATURES = 5
+NUM_FEATURES = 19
 globalVerbSet = set()
 with open('../data/verbs.txt', 'r') as f:
     for line in f:
@@ -53,7 +53,7 @@ def generateStringTuples(fileContents, fileName):
     # Create native python list for appending to, which is faster than pandas DF append or concat.
     tupleList = []
     reg = re.compile(r'[a-zA-Z0-9_\’\']+')# use to strip inner punctuations, except _ and \’
-    tupleColumns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'class']
+    tupleColumns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'label']
     uniques = {}#unique string to tuple
     
     for entityLength in range(1, MAX_ENTITY_LENGTH):
@@ -65,7 +65,7 @@ def generateStringTuples(fileContents, fileName):
                 tuple = ['', fileName, i, i+entityLength, '', 0, '-']
                 entityList = list(map(lambda item: str(item).strip(), fileContents[i:i+entityLength]))
                 # Set class to positive if '<[>' in first list word, and '<]>' in last word in list.
-                if '<[>' in entityList[0] and '<]>' in entityList[-1]:
+                if '<[>' == entityList[0].strip() and '<]>' == entityList[-1].strip():
                     # If '<[>' and '<]>' appear in any other places internally in the string, then the
                     # string isn't a single entity, and is actually two entities that have been grouped
                     # together. Ex '<[>Project Veritas<]> shows how the <[>Clinton campaign<]>'.
@@ -90,16 +90,16 @@ def generateStringTuples(fileContents, fileName):
                 #################################
                 if ',' in tuple[0].strip().split()[0] or ',' in tuple[0].strip().split()[-1]:
                     continue
-                if ('.' in tuple[0].strip().split()[0] or '.' in tuple[0].strip().split()[-1]) and len(entityList):
-                    continue
+                #if ('.' in tuple[0].strip().split()[0] or '.' in tuple[0].strip().split()[-1]) and len(entityList):
+                #    continue
                 if ('-' in tuple[0].strip()):
                     continue
                 if ('(' in tuple[0].strip() or ')' in tuple[0].strip()):
                     continue
                 if 'as' in tuple[0].lower() or 'a' in tuple[0].lower() or 'an' in tuple[0].lower():
                     continue
-                if len(re.findall(badpunc, tuple[0]))>0:#full tuple contains any unwanted punctuations
-                    continue
+                #if len(re.findall(badpunc, tuple[0]))>0:#full tuple contains any unwanted punctuations
+                #    continue
 
                 #groups of only continuous alpha numeric characters. Not including '.' as a separate group.
                 words = re.findall(reg, tuple[0])
@@ -314,7 +314,7 @@ def main(args):
 
     # For each file, parse into tuples, then parse into features, and create a full pandas data frame object.
     print('Performing featurization...')
-    for file in fileList[200:300]:
+    for file in fileList:
         if '.txt' in file:
             with open(args.FileFolder + file, "r", encoding="ISO-8859-1") as f:
                 print(file)
