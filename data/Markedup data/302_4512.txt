@@ -23,8 +23,8 @@ Slanders
 Angela
 Rye
 On
-Live
-TV
+<[>Live
+TV<]>
 –
 Gets
 Epic
@@ -48,7 +48,7 @@ on
 air
 battles
 at
-CNN
+<[>CNN<]>
 between
 Trump’s
 dumb
@@ -382,9 +382,9 @@ former
 director
 of
 the
-Congressional
+<[>Congressional
 Black
-Caucus
+Caucus<]>
 ,
 as
 she
@@ -406,7 +406,7 @@ ran
 it
 [
 the
-CBC
+<[>CBC<]>
 ]
 into
 the
@@ -484,7 +484,7 @@ charge
 she
 “ran
 the
-CBC
+<[>CBC<]>
 into
 the
 ground

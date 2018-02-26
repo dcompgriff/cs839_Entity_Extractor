@@ -1,4 +1,4 @@
-FBI
+<[>FBI<]>
 Found
 "
 Tens
@@ -32,7 +32,7 @@ now
 openly
 blasting
 the
-FBI's
+<[>FBI's<]>
 reopened
 investigation
 (
@@ -75,7 +75,7 @@ contents
 are
 for
 the
-FBI
+<[>FBI<]>
 to
 take
 the
@@ -134,8 +134,8 @@ at
 courtesy
 of
 a
-Judicial
-Watch
+<[>Judicial
+Watch<]>
 FOIA
 release
 .
@@ -148,8 +148,8 @@ emails
 in
 the
 latest
-Judicial
-Watch
+<[>Judicial
+Watch<]>
 release
 ,
 some
@@ -175,16 +175,16 @@ she
 controlled
 .
 The
-Washington
-Times
+<[>Washington
+Times<]>
 reported
 in
 August
 2015
 that
 the
-State
-Department
+<[>State
+Department<]>
 had
 admitted
 to
@@ -213,8 +213,8 @@ clintonemail
 com
 to
 transact
-State
-Department
+<[>State
+Department<]>
 business
 .
 
@@ -232,8 +232,8 @@ by
 Abedin
 from
 her
-State
-Department
+<[>State
+Department<]>
 email
 to
 her
@@ -427,7 +427,7 @@ Clinton
 supporters
 such
 as
-Newsweek's
+<[>Newsweek's<]>
 Kurt
 Eichenwald
 ,
@@ -449,7 +449,7 @@ sources
 even
 though
 the
-FBI
+<[>FBI<]>
 said
 that
 nobody
@@ -470,7 +470,7 @@ emails
 being
 examined
 by
-FBI
+<[>FBI<]>
 were
 to
 or
@@ -483,7 +483,7 @@ emails
 being
 examined
 by
-FBI
+<[>FBI<]>
 were
 to
 or
@@ -616,7 +616,7 @@ thing:
 according
 to
 the
-NYT
+<[>NYT<]>
 ,
 the
 number
@@ -634,12 +634,12 @@ was
 staggering:
 
 The
-F
+<[>F
 .
 B
 .
 I
-.
+.<]>
 is
 investigating
 illicit
@@ -674,7 +674,7 @@ Carolina
 The
 bureau
 told
-Congress
+<[>Congress<]>
 on
 Friday
 that
@@ -716,7 +716,7 @@ was
 questioned
 by
 the
-FBI
+<[>FBI<]>
 over
 the
 summer
@@ -748,7 +748,7 @@ ii
 )
 will
 the
-FBI
+<[>FBI<]>
 be
 able
 to
@@ -788,7 +788,7 @@ one
 candidate
 currently
 under
-FBI
+<[>FBI<]>
 investigation
 ,
 one

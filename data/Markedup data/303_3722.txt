@@ -78,9 +78,9 @@ conference
 room
 at
 the
-Thornton
+<[>Thornton
 Law
-Firm
+Firm<]>
 that
 June
 morning
@@ -255,7 +255,7 @@ Bradley
 until
 recently
 the
-House
+<[>House<]>
 assistant
 majority
 leader
@@ -314,8 +314,8 @@ $
 6
 million
 to
-Democratic
-Party
+<[>Democratic
+Party<]>
 fund
 -
 raising
@@ -364,9 +364,9 @@ listed
 as
 “bonuses”
 in
-Thornton
+<[>Thornton
 Law
-Firm
+Firm<]>
 records
 ;
 more
@@ -457,9 +457,9 @@ fund
 raiser
 for
 the
-Obama
+<[>Obama
 Victory
-Fund
+Fund<]>
 at
 his
 house
