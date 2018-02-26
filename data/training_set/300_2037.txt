@@ -278,8 +278,8 @@ latter
 going
 to
 the
-Clinton
-Foundation
+<[>Clinton
+Foundation<]>
 .
 
 What

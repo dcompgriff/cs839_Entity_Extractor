@@ -269,7 +269,7 @@ attention
 away
 from
 recent
-WikiLeaks
+<[>WikiLeaks<]>
 revelations
 of
 impropriety

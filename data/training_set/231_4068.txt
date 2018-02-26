@@ -546,8 +546,8 @@ Clinton’s
 use
 of
 the
-Clinton
-Foundation
+<[>Clinton
+Foundation<]>
 to
 obtain
 lucrative
@@ -593,7 +593,6 @@ and
 help
 Trump
 .
-
 <[>NBC
 News<]>
 reported

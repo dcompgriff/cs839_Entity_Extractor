@@ -697,8 +697,8 @@ comment
 Trump
 won
 the
-Electoral
-College
+<[>Electoral
+College<]>
 vote
 290
 to
