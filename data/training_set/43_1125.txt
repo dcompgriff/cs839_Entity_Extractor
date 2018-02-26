@@ -146,7 +146,7 @@ with
 <[>Press
 TV<]>
 .
-“If
+If
 we
 were
 not
