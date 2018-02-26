@@ -240,11 +240,8 @@ def F17(tuple, fileContents):
     return 1 if len(re.findall(keywords, tuple.string))>0 else 0#case ignoring search criteria
 
 def F18(tuple, fileContents):
-    return 
-
-def F5(tuple, fileContents):
     try:
-        return sum(1 for char in fileContents[tuple.start - 1] if char.isupper())*1.0/tuple.wordCount
+        return sum(1 for char in tuple.string if char.isupper())*1.0/tuple.wordCount
     except:
         return -1
 '''
