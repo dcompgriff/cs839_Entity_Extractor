@@ -183,13 +183,13 @@ def runDTAnalysis(args, plot=True):
     X = dataDF.as_matrix(dataDF.columns[1:-1])
     Y = np.array(list(map(lambda item: 1 if item == '+' else -1, dataDF[dataDF.columns[-1]])))
     Y = Y.reshape((Y.shape[0], 1))
-    skf = StratifiedKFold(n_splits=5, shuffle=True, random_state=np.random)
-    fold = 0
+    #skf = StratifiedKFold(n_splits=5, shuffle=True, random_state=np.random)
+    #fold = 0
     startTime = time.time()
-    train_index, test_index = list(skf.split(X, Y))[0]
-    X_train, X_test = X[train_index], X[test_index]
-    y_train, y_test = Y[train_index], Y[test_index]
-    dtModel.fit(X_train, y_train.ravel())
+    #train_index, test_index = list(skf.split(X, Y))[0]
+    #X_train, X_test = X[train_index], X[test_index]
+    #y_train, y_test = Y[train_index], Y[test_index]
+    dtModel.fit(X, Y.ravel())
     predictions = dtModel.predict(X)
     for i in range(len(predictions)):
         if Y[i] == -1 and predictions[i] == 1:

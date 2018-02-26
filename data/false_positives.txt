@@ -1,0 +1,1395 @@
+Unnamed: 0            432
+rawString             WWN
+file          4_12242.txt
+start                  48
+end                    50
+string                WWN
+wordCount               1
+label                   -
+Name: 5460, dtype: object
+Unnamed: 0                1196
+rawString     State Department
+file               12_6840.txt
+start                      574
+end                        576
+string        State Department
+wordCount                    2
+label                        -
+Name: 9146, dtype: object
+Unnamed: 0           2160
+rawString       .  An ABC
+file          12_6840.txt
+start                 156
+end                   160
+string             An ABC
+wordCount               2
+label                   -
+Name: 10110, dtype: object
+Unnamed: 0            118
+rawString         EpiPens
+file          28_4410.txt
+start                 140
+end                   141
+string            EpiPens
+wordCount               1
+label                   -
+Name: 28951, dtype: object
+Unnamed: 0            889
+rawString            DTaP
+file          28_4410.txt
+start                1037
+end                  1038
+string               DTaP
+wordCount               1
+label                   -
+Name: 29722, dtype: object
+Unnamed: 0            34
+rawString        RoundUp
+file          30_788.txt
+start                 41
+end                   42
+string           RoundUp
+wordCount              1
+label                  -
+Name: 36023, dtype: object
+Unnamed: 0              75
+rawString        McDouough
+file          33_10543.txt
+start                   91
+end                     92
+string           McDouough
+wordCount                1
+label                    -
+Name: 38960, dtype: object
+Unnamed: 0             263
+rawString        McDonough
+file          33_10543.txt
+start                  298
+end                    299
+string           McDonough
+wordCount                1
+label                    -
+Name: 39148, dtype: object
+Unnamed: 0             804
+rawString      " McDonough
+file          33_10543.txt
+start                  297
+end                    299
+string           McDonough
+wordCount                1
+label                    -
+Name: 39689, dtype: object
+Unnamed: 0            483
+rawString             FAL
+file          40_7992.txt
+start                 534
+end                   535
+string                FAL
+wordCount               1
+label                   -
+Name: 50226, dtype: object
+Unnamed: 0            505
+rawString             USC
+file          40_7992.txt
+start                 558
+end                   559
+string                USC
+wordCount               1
+label                   -
+Name: 50248, dtype: object
+Unnamed: 0            802
+rawString             ACP
+file          40_7992.txt
+start                 914
+end                   915
+string                ACP
+wordCount               1
+label                   -
+Name: 50545, dtype: object
+Unnamed: 0            833
+rawString             GAP
+file          40_7992.txt
+start                 956
+end                   957
+string                GAP
+wordCount               1
+label                   -
+Name: 50576, dtype: object
+Unnamed: 0              76
+rawString        BleachBit
+file          41_11350.txt
+start                   83
+end                     84
+string           BleachBit
+wordCount                1
+label                    -
+Name: 59966, dtype: object
+Unnamed: 0           1877
+rawString        TV . If
+file          43_1125.txt
+start                 146
+end                   149
+string              TV If
+wordCount               2
+label                   -
+Name: 63496, dtype: object
+Unnamed: 0             503
+rawString              UBS
+file          44_11214.txt
+start                  584
+end                    585
+string                 UBS
+wordCount                1
+label                    -
+Name: 68177, dtype: object
+Unnamed: 0            321
+rawString             FIB
+file          51_6238.txt
+start                 361
+end                   362
+string                FIB
+wordCount               1
+label                   -
+Name: 84122, dtype: object
+Unnamed: 0            139
+rawString             UTI
+file          52_6511.txt
+start                 161
+end                   162
+string                UTI
+wordCount               1
+label                   -
+Name: 86518, dtype: object
+Unnamed: 0           1187
+rawString           ] UTI
+file          52_6511.txt
+start                 160
+end                   162
+string                UTI
+wordCount               1
+label                   -
+Name: 87566, dtype: object
+Unnamed: 0                             2210
+rawString     An Unrealistic Recommendation
+file                            52_6511.txt
+start                                    95
+end                                      98
+string        An Unrealistic Recommendation
+wordCount                                 3
+label                                     -
+Name: 88589, dtype: object
+Unnamed: 0           1819
+rawString        The ISIS
+file          53_3764.txt
+start                 511
+end                   513
+string           The ISIS
+wordCount               2
+label                   -
+Name: 96750, dtype: object
+Unnamed: 0           2511
+rawString             CNN
+file          53_3764.txt
+start                1253
+end                  1255
+string                CNN
+wordCount               1
+label                   -
+Name: 97442, dtype: object
+Unnamed: 0           3211
+rawString        The ISIS
+file          53_3764.txt
+start                 510
+end                   513
+string           The ISIS
+wordCount               2
+label                   -
+Name: 98142, dtype: object
+Unnamed: 0                  1276
+rawString     Nicaraguan Contras
+file                63_11513.txt
+start                        461
+end                          463
+string        Nicaraguan Contras
+wordCount                      2
+label                          -
+Name: 119435, dtype: object
+Unnamed: 0                 387
+rawString     British Bake Off
+file               64_6543.txt
+start                       47
+end                         50
+string        British Bake Off
+wordCount                    3
+label                        -
+Name: 125198, dtype: object
+Unnamed: 0                       588
+rawString      Amnesty International
+file                     70_8928.txt
+start                            184
+end                              187
+string         Amnesty International
+wordCount                          2
+label                              -
+Name: 144955, dtype: object
+Unnamed: 0             507
+rawString              JFK
+file          73_12188.txt
+start                  585
+end                    586
+string                 JFK
+wordCount                1
+label                    -
+Name: 146530, dtype: object
+Unnamed: 0             528
+rawString            JFKs
+file          73_12188.txt
+start                  614
+end                    615
+string               JFK s
+wordCount                2
+label                    -
+Name: 146551, dtype: object
+Unnamed: 0                    4968
+rawString     People:  Again: The
+file                  73_12188.txt
+start                         1245
+end                           1249
+string            People Again The
+wordCount                        3
+label                            -
+Name: 150991, dtype: object
+Unnamed: 0           1245
+rawString             CIA
+file          82_8367.txt
+start                1425
+end                  1426
+string                CIA
+wordCount               1
+label                   -
+Name: 165846, dtype: object
+Unnamed: 0                  5848
+rawString     State Departments
+file                 82_8367.txt
+start                       2833
+end                         2835
+string        State Department s
+wordCount                      3
+label                          -
+Name: 170449, dtype: object
+Unnamed: 0                6076
+rawString     Atlantic Council
+file               82_8367.txt
+start                     3119
+end                       3121
+string        Atlantic Council
+wordCount                    2
+label                        -
+Name: 170677, dtype: object
+Unnamed: 0                6149
+rawString     Atlantic Council
+file               82_8367.txt
+start                     3214
+end                       3216
+string        Atlantic Council
+wordCount                    2
+label                        -
+Name: 170750, dtype: object
+Unnamed: 0            126
+rawString       McAuliffe
+file          85_8892.txt
+start                 149
+end                   150
+string          McAuliffe
+wordCount               1
+label                   -
+Name: 197917, dtype: object
+Unnamed: 0            165
+rawString       McAuliffe
+file          85_8892.txt
+start                 195
+end                   196
+string          McAuliffe
+wordCount               1
+label                   -
+Name: 197956, dtype: object
+Unnamed: 0             450
+rawString              THC
+file          87_12858.txt
+start                  524
+end                    525
+string                 THC
+wordCount                1
+label                    -
+Name: 206142, dtype: object
+Unnamed: 0             528
+rawString              CBD
+file          87_12858.txt
+start                  612
+end                    613
+string                 CBD
+wordCount                1
+label                    -
+Name: 206220, dtype: object
+Unnamed: 0             706
+rawString              MSM
+file          87_12858.txt
+start                  818
+end                    819
+string                 MSM
+wordCount                1
+label                    -
+Name: 206398, dtype: object
+Unnamed: 0                  1059
+rawString     Athenian Democracy
+file                 89_3509.txt
+start                        243
+end                          245
+string        Athenian Democracy
+wordCount                      2
+label                          -
+Name: 212048, dtype: object
+Unnamed: 0            109
+rawString           GLP "
+file          92_3921.txt
+start                  55
+end                    57
+string                GLP
+wordCount               1
+label                   -
+Name: 218561, dtype: object
+Unnamed: 0            184
+rawString         " GLP "
+file          92_3921.txt
+start                  54
+end                    57
+string                GLP
+wordCount               1
+label                   -
+Name: 218636, dtype: object
+Unnamed: 0                     619
+rawString     Human Rights Council
+file                  96_12815.txt
+start                           48
+end                             51
+string        Human Rights Council
+wordCount                        3
+label                            -
+Name: 222518, dtype: object
+Unnamed: 0                            2861
+rawString     Puerto Rico Debt Relief Bill
+file                           98_9642.txt
+start                                   76
+end                                     81
+string        Puerto Rico Debt Relief Bill
+wordCount                                5
+label                                    -
+Name: 226989, dtype: object
+Unnamed: 0                2906
+rawString     Republican Party
+file               99_5395.txt
+start                      839
+end                        841
+string        Republican Party
+wordCount                    2
+label                        -
+Name: 232253, dtype: object
+Unnamed: 0               0
+rawString              RED
+file          100_3114.txt
+start                    1
+end                      2
+string                 RED
+wordCount                1
+label                    -
+Name: 245310, dtype: object
+Unnamed: 0             229
+rawString              RED
+file          100_3114.txt
+start                    0
+end                      2
+string                 RED
+wordCount                1
+label                    -
+Name: 245539, dtype: object
+Unnamed: 0            2601
+rawString         . CNBCs
+file          105_5257.txt
+start                  987
+end                    989
+string              CNBC s
+wordCount                2
+label                    -
+Name: 249323, dtype: object
+Unnamed: 0            2615
+rawString            - GOP
+file          105_5257.txt
+start                 1001
+end                   1003
+string                 GOP
+wordCount                1
+label                    -
+Name: 249337, dtype: object
+Unnamed: 0              357
+rawString              GPD
+file          112_11945.txt
+start                    10
+end                      12
+string                  GPD
+wordCount                 1
+label                     -
+Name: 277903, dtype: object
+Unnamed: 0              700
+rawString               GPD
+file          112_11945.txt
+start                   395
+end                     397
+string                  GPD
+wordCount                 1
+label                     -
+Name: 278246, dtype: object
+Unnamed: 0              713
+rawString             GPD
+file          112_11945.txt
+start                     9
+end                      12
+string                  GPD
+wordCount                 1
+label                     -
+Name: 278259, dtype: object
+Unnamed: 0             1039
+rawString              GPD 
+file          112_11945.txt
+start                   395
+end                     398
+string                  GPD
+wordCount                 1
+label                     -
+Name: 278585, dtype: object
+Unnamed: 0             1358
+rawString             GPD  
+file          112_11945.txt
+start                   395
+end                     399
+string                  GPD
+wordCount                 1
+label                     -
+Name: 278904, dtype: object
+Unnamed: 0                  3215
+rawString     World Outlawed War
+file                113_6918.txt
+start                       1223
+end                         1226
+string        World Outlawed War
+wordCount                      3
+label                          -
+Name: 283424, dtype: object
+Unnamed: 0                 1650
+rawString     Daily Sheeple  We
+file               114_9390.txt
+start                       464
+end                         468
+string         Daily Sheeple We
+wordCount                     3
+label                         -
+Name: 290426, dtype: object
+Unnamed: 0                 899
+rawString     Republican Party
+file              115_1217.txt
+start                      212
+end                        214
+string        Republican Party
+wordCount                    2
+label                        -
+Name: 292824, dtype: object
+Unnamed: 0             2102
+rawString          AG Lynch
+file          117_10470.txt
+start                   686
+end                     688
+string             AG Lynch
+wordCount                 2
+label                     -
+Name: 304616, dtype: object
+Unnamed: 0             753
+rawString              ETI
+file          128_5711.txt
+start                  880
+end                    881
+string                 ETI
+wordCount                1
+label                    -
+Name: 325196, dtype: object
+Unnamed: 0          2830
+rawString            GOP
+file          137_37.txt
+start               3285
+end                 3286
+string               GOP
+wordCount              1
+label                  -
+Name: 338933, dtype: object
+Unnamed: 0          4141
+rawString            III
+file          137_37.txt
+start               4802
+end                 4803
+string               III
+wordCount              1
+label                  -
+Name: 340244, dtype: object
+Unnamed: 0          6406
+rawString          DNI -
+file          137_37.txt
+start               1781
+end                 1783
+string               DNI
+wordCount              1
+label                  -
+Name: 342509, dtype: object
+Unnamed: 0          7737
+rawString          " GOP
+file          137_37.txt
+start               3284
+end                 3286
+string               GOP
+wordCount              1
+label                  -
+Name: 343840, dtype: object
+Unnamed: 0          8080
+rawString       CBS News
+file          137_37.txt
+start               3674
+end                 3676
+string          CBS News
+wordCount              2
+label                  -
+Name: 344183, dtype: object
+Unnamed: 0                          11716
+rawString     Democratic Party Convention
+file                           137_37.txt
+start                                2316
+end                                  2319
+string        Democratic Party Convention
+wordCount                               3
+label                                   -
+Name: 347819, dtype: object
+Unnamed: 0                       13101
+rawString     Obama Justice Department
+file                        137_37.txt
+start                             3930
+end                               3933
+string        Obama Justice Department
+wordCount                            3
+label                                -
+Name: 349204, dtype: object
+Unnamed: 0                           14541
+rawString     Comments  Patrick Henningsen
+file                            137_37.txt
+start                                    7
+end                                     11
+string         Comments Patrick Henningsen
+wordCount                                3
+label                                    -
+Name: 350644, dtype: object
+Unnamed: 0                                18467
+rawString     Middle East Broadcasting Networks
+file                                 137_37.txt
+start                                      4950
+end                                        4954
+string        Middle East Broadcasting Networks
+wordCount                                     4
+label                                         -
+Name: 354570, dtype: object
+Unnamed: 0            1680
+rawString         NoDAPL [
+file          139_1280.txt
+start                  236
+end                    238
+string              NoDAPL
+wordCount                1
+label                    -
+Name: 376950, dtype: object
+Unnamed: 0             224
+rawString              USS
+file          147_8971.txt
+start                  258
+end                    259
+string                 USS
+wordCount                1
+label                    -
+Name: 403350, dtype: object
+Unnamed: 0             467
+rawString            URL 0
+file          147_8971.txt
+start                    2
+end                      4
+string               URL 0
+wordCount                2
+label                    -
+Name: 403593, dtype: object
+Unnamed: 0               1107
+rawString     South China Sea
+file             147_8971.txt
+start                     189
+end                       192
+string        South China Sea
+wordCount                   3
+label                       -
+Name: 404233, dtype: object
+Unnamed: 0                               5382
+rawString     Environmental Protection Agency
+file                             153_6086.txt
+start                                     765
+end                                       768
+string        Environmental Protection Agency
+wordCount                                   3
+label                                       -
+Name: 416225, dtype: object
+Unnamed: 0                               7035
+rawString     Standing Rock Sioux Reservation
+file                             153_6086.txt
+start                                      16
+end                                        20
+string        Standing Rock Sioux Reservation
+wordCount                                   4
+label                                       -
+Name: 417878, dtype: object
+Unnamed: 0                               7180
+rawString     Standing Rock Sioux Reservation
+file                             153_6086.txt
+start                                     207
+end                                       211
+string        Standing Rock Sioux Reservation
+wordCount                                   4
+label                                       -
+Name: 418023, dtype: object
+Unnamed: 0                               7830
+rawString     Standing Rock Sioux Reservation
+file                             153_6086.txt
+start                                    1086
+end                                      1090
+string        Standing Rock Sioux Reservation
+wordCount                                   4
+label                                       -
+Name: 418673, dtype: object
+Unnamed: 0             953
+rawString           CLICK
+file          155_5511.txt
+start                  252
+end                    254
+string               CLICK
+wordCount                1
+label                    -
+Name: 429117, dtype: object
+Unnamed: 0             30
+rawString             ASK
+file          159_152.txt
+start                  34
+end                    35
+string                ASK
+wordCount               1
+label                   -
+Name: 440143, dtype: object
+Unnamed: 0            1010
+rawString            DFW: 
+file          164_6531.txt
+start                  544
+end                    546
+string                 DFW
+wordCount                1
+label                    -
+Name: 448075, dtype: object
+Unnamed: 0             116
+rawString            URL 0
+file          170_8951.txt
+start                    2
+end                      4
+string               URL 0
+wordCount                2
+label                    -
+Name: 454288, dtype: object
+Unnamed: 0                 152
+rawString     Security Council
+file              170_8951.txt
+start                       40
+end                         42
+string        Security Council
+wordCount                    2
+label                        -
+Name: 454324, dtype: object
+Unnamed: 0              40
+rawString              GOP
+file          173_4525.txt
+start                   48
+end                     49
+string                 GOP
+wordCount                1
+label                    -
+Name: 462023, dtype: object
+Unnamed: 0             228
+rawString              CEO
+file          178_6245.txt
+start                  251
+end                    252
+string                 CEO
+wordCount                1
+label                    -
+Name: 466702, dtype: object
+Unnamed: 0             689
+rawString              CEO
+file          178_6245.txt
+start                  758
+end                    759
+string                 CEO
+wordCount                1
+label                    -
+Name: 467163, dtype: object
+Unnamed: 0             708
+rawString              CEO
+file          178_6245.txt
+start                  779
+end                    780
+string                 CEO
+wordCount                1
+label                    -
+Name: 467182, dtype: object
+Unnamed: 0            1446
+rawString              FCA
+file          178_6245.txt
+start                 1620
+end                   1621
+string                 FCA
+wordCount                1
+label                    -
+Name: 467920, dtype: object
+Unnamed: 0            1448
+rawString              ACA
+file          178_6245.txt
+start                 1622
+end                   1623
+string                 ACA
+wordCount                1
+label                    -
+Name: 467922, dtype: object
+Unnamed: 0            2712
+rawString           ACTO [
+file          178_6245.txt
+start                  902
+end                    904
+string                ACTO
+wordCount                1
+label                    -
+Name: 469186, dtype: object
+Unnamed: 0                2830
+rawString     State Department
+file              178_6245.txt
+start                     1033
+end                       1035
+string        State Department
+wordCount                    2
+label                        -
+Name: 469304, dtype: object
+Unnamed: 0            3336
+rawString            ACA 
+file          178_6245.txt
+start                 1622
+end                   1624
+string                 ACA
+wordCount                1
+label                    -
+Name: 469810, dtype: object
+Unnamed: 0                     3436
+rawString     California Department
+file                   178_6245.txt
+start                          1733
+end                            1735
+string        California Department
+wordCount                         2
+label                             -
+Name: 469910, dtype: object
+Unnamed: 0                             7102
+rawString     Sacramento Bees State Worker
+file                           178_6245.txt
+start                                  1892
+end                                    1896
+string        Sacramento Bee s State Worker
+wordCount                                 5
+label                                     -
+Name: 473576, dtype: object
+Unnamed: 0          613
+rawString           SAP
+file          179_6.txt
+start               720
+end                 721
+string              SAP
+wordCount             1
+label                 -
+Name: 480920, dtype: object
+Unnamed: 0             214
+rawString         NYU Prof
+file          184_8402.txt
+start                    2
+end                      4
+string            NYU Prof
+wordCount                2
+label                    -
+Name: 490513, dtype: object
+Unnamed: 0               20
+rawString              DAPL
+file          185_12885.txt
+start                    22
+end                      23
+string                 DAPL
+wordCount                 1
+label                     -
+Name: 491803, dtype: object
+Unnamed: 0             931
+rawString          NATOs
+file          194_3624.txt
+start                  444
+end                    446
+string              NATO s
+wordCount                2
+label                    -
+Name: 502507, dtype: object
+Unnamed: 0             404
+rawString              WHY
+file          200_7884.txt
+start                  469
+end                    470
+string                 WHY
+wordCount                1
+label                    -
+Name: 506680, dtype: object
+Unnamed: 0             572
+rawString              USA
+file          200_7884.txt
+start                  661
+end                    662
+string                 USA
+wordCount                1
+label                    -
+Name: 506848, dtype: object
+Unnamed: 0             866
+rawString              OSF
+file          200_7884.txt
+start                 1012
+end                   1013
+string                 OSF
+wordCount                1
+label                    -
+Name: 507142, dtype: object
+Unnamed: 0                  1065
+rawString     Muslim Brotherhood
+file                203_3512.txt
+start                        107
+end                          109
+string        Muslim Brotherhood
+wordCount                      2
+label                          -
+Name: 518387, dtype: object
+Unnamed: 0                  1283
+rawString     Muslim Brotherhood
+file                203_3512.txt
+start                        344
+end                          346
+string        Muslim Brotherhood
+wordCount                      2
+label                          -
+Name: 518605, dtype: object
+Unnamed: 0                  1565
+rawString     Muslim Brotherhood
+file                203_3512.txt
+start                        661
+end                          663
+string        Muslim Brotherhood
+wordCount                      2
+label                          -
+Name: 518887, dtype: object
+Unnamed: 0                1678
+rawString     State Department
+file              203_3512.txt
+start                      794
+end                        796
+string        State Department
+wordCount                    2
+label                        -
+Name: 519000, dtype: object
+Unnamed: 0                  1710
+rawString     Muslim Brotherhood
+file                203_3512.txt
+start                        828
+end                          830
+string        Muslim Brotherhood
+wordCount                      2
+label                          -
+Name: 519032, dtype: object
+Unnamed: 0                  1914
+rawString     Muslim Brotherhood
+file                203_3512.txt
+start                       1057
+end                         1059
+string        Muslim Brotherhood
+wordCount                      2
+label                          -
+Name: 519236, dtype: object
+Unnamed: 0                       1334
+rawString     Philadelphia Department
+file                    205_12311.txt
+start                             505
+end                               507
+string        Philadelphia Department
+wordCount                           2
+label                               -
+Name: 525994, dtype: object
+Unnamed: 0                            2012
+rawString     Supporting Yuengling Brewery
+file                         205_12311.txt
+start                                  256
+end                                    259
+string        Supporting Yuengling Brewery
+wordCount                                3
+label                                    -
+Name: 526672, dtype: object
+Unnamed: 0             712
+rawString              ALL
+file          206_8830.txt
+start                  802
+end                    803
+string                 ALL
+wordCount                1
+label                    -
+Name: 531626, dtype: object
+Unnamed: 0              80
+rawString             NATO
+file          208_9560.txt
+start                   87
+end                     88
+string                NATO
+wordCount                1
+label                    -
+Name: 537930, dtype: object
+Unnamed: 0                     2234
+rawString     Learning Disabilities
+file                   211_1642.txt
+start                           485
+end                             487
+string        Learning Disabilities
+wordCount                         2
+label                             -
+Name: 547485, dtype: object
+Unnamed: 0                 3472
+rawString     School Psychology
+file               211_1642.txt
+start                      1915
+end                        1917
+string        School Psychology
+wordCount                     2
+label                         -
+Name: 548723, dtype: object
+Unnamed: 0               0
+rawString              BNI
+file          214_1043.txt
+start                    0
+end                      1
+string                 BNI
+wordCount                1
+label                    -
+Name: 558522, dtype: object
+Unnamed: 0                                1471
+rawString     Republican Governor Scott Walker
+file                              218_6637.txt
+start                                      197
+end                                        201
+string        Republican Governor Scott Walker
+wordCount                                    4
+label                                        -
+Name: 581068, dtype: object
+Unnamed: 0             206
+rawString              NGO
+file          219_7438.txt
+start                  231
+end                    232
+string                 NGO
+wordCount                1
+label                    -
+Name: 583168, dtype: object
+Unnamed: 0               281
+rawString     The Department
+file            219_7438.txt
+start                     13
+end                       15
+string        The Department
+wordCount                  2
+label                      -
+Name: 583243, dtype: object
+Unnamed: 0              63
+rawString            GLP "
+file          221_3956.txt
+start                   28
+end                     30
+string                 GLP
+wordCount                1
+label                    -
+Name: 585226, dtype: object
+Unnamed: 0             108
+rawString          " GLP "
+file          221_3956.txt
+start                   27
+end                     30
+string                 GLP
+wordCount                1
+label                    -
+Name: 585271, dtype: object
+Unnamed: 0                  1502
+rawString     Clinton Foundation
+file                231_4068.txt
+start                        548
+end                          550
+string        Clinton Foundation
+wordCount                      2
+label                          -
+Name: 599716, dtype: object
+Unnamed: 0            2536
+rawString         NBC News
+file          231_4068.txt
+start                  595
+end                    598
+string            NBC News
+wordCount                2
+label                    -
+Name: 600750, dtype: object
+Unnamed: 0              11
+rawString              HBS
+file          232_6492.txt
+start                   12
+end                     13
+string                 HBS
+wordCount                1
+label                    -
+Name: 605774, dtype: object
+Unnamed: 0             823
+rawString             HBS
+file          232_6492.txt
+start                   11
+end                     13
+string                 HBS
+wordCount                1
+label                    -
+Name: 606586, dtype: object
+Unnamed: 0             332
+rawString            DOS "
+file          235_2883.txt
+start                   11
+end                     13
+string                 DOS
+wordCount                1
+label                    -
+Name: 612081, dtype: object
+Unnamed: 0              52
+rawString              CEO
+file          237_8666.txt
+start                   59
+end                     60
+string                 CEO
+wordCount                1
+label                    -
+Name: 614145, dtype: object
+Unnamed: 0             174
+rawString              CEO
+file          237_8666.txt
+start                  200
+end                    201
+string                 CEO
+wordCount                1
+label                    -
+Name: 614267, dtype: object
+Unnamed: 0             191
+rawString              CEO
+file          237_8666.txt
+start                  219
+end                    220
+string                 CEO
+wordCount                1
+label                    -
+Name: 614284, dtype: object
+Unnamed: 0             724
+rawString         Ford CEO
+file          237_8666.txt
+start                  218
+end                    220
+string            Ford CEO
+wordCount                2
+label                    -
+Name: 614817, dtype: object
+Unnamed: 0              252
+rawString              PAZ
+file          238_10317.txt
+start                   338
+end                     339
+string                  PAZ
+wordCount                 1
+label                     -
+Name: 618372, dtype: object
+Unnamed: 0              858
+rawString            PAZ -
+file          238_10317.txt
+start                   338
+end                     340
+string                  PAZ
+wordCount                 1
+label                     -
+Name: 618978, dtype: object
+Unnamed: 0               8
+rawString             III:
+file          256_2331.txt
+start                    8
+end                      9
+string                 III
+wordCount                1
+label                    -
+Name: 631672, dtype: object
+Unnamed: 0              20
+rawString             III:
+file          256_2331.txt
+start                   21
+end                     22
+string                 III
+wordCount                1
+label                    -
+Name: 631684, dtype: object
+Unnamed: 0              52
+rawString              AFP
+file          256_2331.txt
+start                   58
+end                     59
+string                 AFP
+wordCount                1
+label                    -
+Name: 631716, dtype: object
+Unnamed: 0                900
+rawString     Broward College
+file             256_2331.txt
+start                     277
+end                       279
+string        Broward College
+wordCount                   2
+label                       -
+Name: 632564, dtype: object
+Unnamed: 0              21
+rawString              NEW
+file          260_6167.txt
+start                   27
+end                     28
+string                 NEW
+wordCount                1
+label                    -
+Name: 637738, dtype: object
+Unnamed: 0                           3480
+rawString     International Action Center
+file                         260_6167.txt
+start                                1289
+end                                  1292
+string        International Action Center
+wordCount                               3
+label                                   -
+Name: 641197, dtype: object
+Unnamed: 0                 526
+rawString     State Department
+file              266_4055.txt
+start                      138
+end                        140
+string        State Department
+wordCount                    2
+label                        -
+Name: 663585, dtype: object
+Unnamed: 0                 655
+rawString     State Department
+file              266_4055.txt
+start                      281
+end                        283
+string        State Department
+wordCount                    2
+label                        -
+Name: 663714, dtype: object
+Unnamed: 0                 722
+rawString     State Department
+file              266_4055.txt
+start                      353
+end                        355
+string        State Department
+wordCount                    2
+label                        -
+Name: 663781, dtype: object
+Unnamed: 0                 753
+rawString     State Department
+file              266_4055.txt
+start                      388
+end                        390
+string        State Department
+wordCount                    2
+label                        -
+Name: 663812, dtype: object
+Unnamed: 0                 776
+rawString     State Department
+file              266_4055.txt
+start                      414
+end                        416
+string        State Department
+wordCount                    2
+label                        -
+Name: 663835, dtype: object
+Unnamed: 0                      1901
+rawString     Professional Integrity
+file                    270_1176.txt
+start                            915
+end                              917
+string        Professional Integrity
+wordCount                          2
+label                              -
+Name: 674127, dtype: object
+Unnamed: 0                       1981
+rawString     Professional Integrity
+file                     270_1176.txt
+start                            1006
+end                              1008
+string         Professional Integrity
+wordCount                           2
+label                               -
+Name: 674207, dtype: object
+Unnamed: 0            2207
+rawString            US ON
+file          270_1176.txt
+start                 1272
+end                   1274
+string               US ON
+wordCount                2
+label                    -
+Name: 674433, dtype: object
+Unnamed: 0             522
+rawString        JunoCam's
+file          271_8815.txt
+start                  609
+end                    610
+string           JunoCam's
+wordCount                1
+label                    -
+Name: 680221, dtype: object
+Unnamed: 0             916
+rawString              DNI
+file          276_1930.txt
+start                 1034
+end                   1035
+string                 DNI
+wordCount                1
+label                    -
+Name: 689432, dtype: object
+Unnamed: 0                 1643
+rawString     Electoral College
+file               276_1930.txt
+start                       699
+end                         701
+string        Electoral College
+wordCount                     2
+label                         -
+Name: 690159, dtype: object
+Unnamed: 0                 819
+rawString     Defense Minister
+file              282_9467.txt
+start                      288
+end                        290
+string        Defense Minister
+wordCount                    2
+label                        -
+Name: 704218, dtype: object
+Unnamed: 0             679
+rawString              JFK
+file          287_1713.txt
+start                  802
+end                    803
+string                 JFK
+wordCount                1
+label                    -
+Name: 710441, dtype: object
+Unnamed: 0            1647
+rawString        McClatchy
+file          287_1713.txt
+start                 1923
+end                   1924
+string           McClatchy
+wordCount                1
+label                    -
+Name: 711409, dtype: object
+Unnamed: 0             308
+rawString             WGSS
+file          289_7136.txt
+start                  372
+end                    373
+string                WGSS
+wordCount                1
+label                    -
+Name: 724064, dtype: object
+Unnamed: 0            1077
+rawString           WGSS [
+file          289_7136.txt
+start                  372
+end                    374
+string                WGSS
+wordCount                1
+label                    -
+Name: 724833, dtype: object
+Unnamed: 0             239
+rawString        WikiLeaks
+file          293_1834.txt
+start                  271
+end                    272
+string           WikiLeaks
+wordCount                1
+label                    -
+Name: 739337, dtype: object
+Unnamed: 0                   2564
+rawString     Kenyan Barack Obama
+file                 295_3777.txt
+start                         648
+end                           651
+string        Kenyan Barack Obama
+wordCount                       3
+label                           -
+Name: 747080, dtype: object
+Unnamed: 0                   2804
+rawString     Kenyan Barack Obama
+file                 295_3777.txt
+start                         953
+end                           956
+string        Kenyan Barack Obama
+wordCount                       3
+label                           -
+Name: 747320, dtype: object
+Unnamed: 0             534
+rawString              ICE
+file          297_9965.txt
+start                  606
+end                    607
+string                 ICE
+wordCount                1
+label                    -
+Name: 752439, dtype: object
+Unnamed: 0                1379
+rawString     George Zimmerman
+file               299_542.txt
+start                      632
+end                        634
+string        George Zimmerman
+wordCount                    2
+label                        -
+Name: 763188, dtype: object
+Unnamed: 0                  2197
+rawString     Clinton Foundation
+file                300_2037.txt
+start                        280
+end                          282
+string        Clinton Foundation
+wordCount                      2
+label                          -
+Name: 770123, dtype: object

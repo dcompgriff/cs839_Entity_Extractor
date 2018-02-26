@@ -932,8 +932,7 @@ records
 reviewed
 by
 The
-<[>
-Washington
+<[>Washington
 Times<]>
 .
 
