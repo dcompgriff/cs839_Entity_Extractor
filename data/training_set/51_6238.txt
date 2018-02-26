@@ -359,7 +359,7 @@ already
 all
 over
 the
-FIB
+<[>FIB<]>
 (
 a
 Freudian
