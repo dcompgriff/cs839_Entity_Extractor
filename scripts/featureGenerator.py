@@ -21,7 +21,7 @@ with open('../data/verbs.txt', 'r') as f:
     for line in f:
         globalVerbSet.add(line.strip())
 
-keywords = re.compile(r'\b(Inc|Incorporation|Corp|Corporation|Institute|\
+instituteKeywords = re.compile(r'\b(Inc|Incorporation|Corp|Corporation|Institute|\
 University|School|College|Department|Org|Organization)\b', re.I)
 #allow . - ' ` and " inside entity words. As these are there while marking up
 badpunc = re.compile(r'\~|\!|\@|\#|\$|\%|\^|\&|\*|\(|\)|\_|\+|\=|\{|\}|\;|\<|\>|\,|\?|\/|\\')
@@ -237,7 +237,7 @@ def F16(tuple, fileContents):
         return 0
 
 def F17(tuple, fileContents):
-    return 1 if len(re.findall(keywords, tuple.string))>0 else 0#case ignoring search criteria
+    return 1 if len(re.findall(instituteKeywords, tuple.string))>0 else 0#case ignoring search criteria
 
 def F18(tuple, fileContents):
     try:
