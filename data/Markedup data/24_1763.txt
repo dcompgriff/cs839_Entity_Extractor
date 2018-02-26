@@ -61,7 +61,7 @@ this
 move
 by
 the
-Pentagon
+<[>Pentagon<]>
 even
 more
 unsettling
@@ -92,7 +92,7 @@ funded
 we
 have
 a
-Pentagon
+<[>Pentagon<]>
 stating
 it
 will
@@ -125,9 +125,9 @@ much
 money
 did
 the
-Department
+<[>Department
 of
-Defense
+Defense<]>
 pay
 for
 those

@@ -7,8 +7,8 @@ Polling
 Station
 11/08/2016
 
-DAILY
-CALLER
+<[>DAILY
+CALLER<]>
 
 The
 polling
@@ -84,14 +84,14 @@ from
 The
 protesters
 had
-“Femen
-USA”
+<[>Femen<]>
+USA
 painted
 on
 their
 backs
 .
-Femen
+<[>Femen<]>
 is
 a
 mostly
@@ -127,7 +127,7 @@ ready
 to
 act
 as
-Femen
+<[>Femen<]>
 ,
 every
 place
@@ -146,7 +146,7 @@ be
 a
 target
 of
-Femen
+<[>Femen<]>
 USA
 ,
 ”
@@ -154,6 +154,6 @@ one
 activist
 told
 The
-Daily
-Beast
+<[>Daily
+Beast<]>
 .
