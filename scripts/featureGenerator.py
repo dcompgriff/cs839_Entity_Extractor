@@ -22,9 +22,9 @@ with open('../data/verbs.txt', 'r') as f:
         globalVerbSet.add(line.strip())
 
 instituteKeywords = re.compile(r'\b(Inc|Incorporation|Corp|Corporation|Institute|\
-University|School|College|Department|Org|Organization|Times|Committee|Foundation)\b', re.I)
-#allow . - ' ` and " inside entity words. As these are there while marking up
-badpunc = re.compile(r'\~|\!|\@|\#|\$|\%|\^|\&|\*|\(|\)|\_|\+|\=|\{|\}|\[|\]|\;|\<|\>|\,|\?|\/|\\')
+University|School|College|Department|Org|Organization|Times|Committee|Foundation|Party|Agency|Council|News)\b', re.I)
+#allow . ' ` and " inside entity words. As these are there while marking up
+badpunc = re.compile(r'\~|\!|\@|\#|\$|\%|\^|\&|\*|\(|\)|\_|\+|\=|\{|\}|\[|\]|\;|\:|\-|\<|\>|\,|\?|\/|\\')
 
 
 globalCount = 0
