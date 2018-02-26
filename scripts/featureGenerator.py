@@ -22,7 +22,7 @@ with open('../data/verbs.txt', 'r') as f:
         globalVerbSet.add(line.strip())
 
 instituteKeywords = re.compile(r'\b(Inc|Incorporation|Corp|Corporation|Institute|\
-University|School|College|Department|Org|Organization)\b', re.I)
+University|School|College|Department|Org|Organization|Times|Committee|Foundation)\b', re.I)
 #allow . - ' ` and " inside entity words. As these are there while marking up
 badpunc = re.compile(r'\~|\!|\@|\#|\$|\%|\^|\&|\*|\(|\)|\_|\+|\=|\{|\}|\;|\<|\>|\,|\?|\/|\\')
 
@@ -58,7 +58,7 @@ def generateStringTuples(fileContents, fileName):
     tupleList = []
     reg = re.compile(r'[a-zA-Z0-9_\’\']+')# use to strip inner punctuations, except _ and \’
     tupleColumns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'label']
-    uniques = {}#unique string to tuple
+    #uniques = {}#unique string to tuple
     
     for entityLength in range(1, MAX_ENTITY_LENGTH):
         for i in range(len(fileContents)-entityLength):#reversed order here to prevent i+entityLength overflow
@@ -117,19 +117,8 @@ def generateStringTuples(fileContents, fileName):
                 words = re.findall(reg, tuple[0])
                 tuple[4] = ' '.join(words)# string after stripping inner punctuations
                 tuple[5] = len(words)# wordCount
-                if(tuple[5]>0 and tuple[5]<=MAX_ENTITY_WORD_LENGTH):#not too large a phrase
-                    # if(tuple[4] in uniques):#already seen same phrase before
-                    #     tmp = uniques[tuple[4]]#get the previous occurence
-                    #     #print(tmp)
-                    #     if(abs(tmp[2]-i)<4): #prev started not more than 4 characters ago
-                    #         if(tmp[3]-tmp[2]<entityLength):#earlier one was smaller
-                    #             #update all properties, hence keeping the bigger one in list
-                    #             tmp[:-1]=tuple[:-1]
-                    #         tmp[-1] = '+' if(tuple[-1]=='+') else tmp[-1]#modify if new label is +
-                    # else:#Haven't encoutered this phrase before
+                if(tuple[5]>0 and tuple[5]<=MAX_ENTITY_WORD_LENGTH):#not empty or too large a phrase
                     tupleList.append(tuple)
-                    #uniques[tuple[4]] = tuple
-                    #Check for unique ones too. 
             except IndexError:
                 continue
 

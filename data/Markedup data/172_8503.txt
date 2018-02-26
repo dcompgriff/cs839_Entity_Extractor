@@ -939,7 +939,7 @@ the
 Twelfth
 Amendment
 requiring
-Congress
+<[>Congress<]>
 to
 convene
 in
