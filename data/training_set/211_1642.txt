@@ -784,9 +784,9 @@ Psychology
 Center
 at
 the
-University
+<[>University
 of
-Pennsylvania
+Pennsylvania<]>
 says
 that
 :
@@ -1917,9 +1917,9 @@ School
 Psychology
 at
 the
-University
+<[>University
 of
-Massachusetts
+Massachusetts<]>
 ,
 Boston
 .
@@ -1953,9 +1953,9 @@ of
 psychiatry
 at
 the
-University
+<[>University
 of
-California
+California<]>
 at
 Los
 Angeles

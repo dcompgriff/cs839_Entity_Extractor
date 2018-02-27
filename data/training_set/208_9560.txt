@@ -85,9 +85,9 @@ expected
 to
 join
 the
-<[>NATO
+<[>NATO<]>
 military
-divisions<]>
+divisions
 that
 will
 be

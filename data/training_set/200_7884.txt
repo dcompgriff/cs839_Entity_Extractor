@@ -1009,7 +1009,7 @@ as
 usual
 for
 the
-<[>OSF<[>
+<[>OSF<]>
 (
 <[>Open
 Society

@@ -17,8 +17,8 @@ UP
 THE
 DEVICES’
 WITH
-STATE
-DEPT
+<[>STATE
+DEPT<]>
 .
 EMAILS
 HUMA
@@ -33,8 +33,8 @@ UP
 THE
 DEVICES’
 WITH
-STATE
-DEPT
+<[>STATE
+DEPT<]>
 .
 EMAILS
 0
@@ -136,8 +136,8 @@ Abedin’s
 time
 at
 the
-State
-Department
+<[>State
+Department<]>
 reportedly
 found
 on
@@ -279,8 +279,8 @@ that
 the
 <[>FBI<]>
 found
-State
-Department
+<[>State
+Department<]>
 -
 related
 email
@@ -351,8 +351,8 @@ be
 given
 to
 the
-State
-Department
+<[>State
+Department<]>
 .
 (
 These
@@ -386,8 +386,8 @@ be
 returned
 to
 the
-State
-Department
+<[>State
+Department<]>
 ?
 ”
 Attorney
@@ -412,8 +412,8 @@ have
 any
 of
 my
-State
-Department
+<[>State
+Department<]>
 work
 on
 it

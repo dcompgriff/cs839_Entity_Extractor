@@ -155,7 +155,6 @@ the
 whole
 time
 .
-
 An
 <[>ABC
 News<]>
