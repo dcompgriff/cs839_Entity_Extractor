@@ -77,8 +77,8 @@ after
 they
 hatch
 .
-Cleveland
-Indians
+<[>Cleveland
+Indians<]>
 Worried
 Team
 Cursed
@@ -110,8 +110,8 @@ lead
 members
 of
 the
-Cleveland
-Indians
+<[>Cleveland
+Indians<]>
 expressed
 concern
 Thursday
@@ -159,9 +159,9 @@ released
 Thursday
 by
 the
-Pew
+<[>Pew
 Research
-Center
+Center<]>
 ,
 Election
 Day
@@ -235,10 +235,10 @@ elderly
 resident
 at
 the
-Briarwood
+<[>Briarwood
 Assisted
 Living
-Community
+Community<]>
 that
 she
 was
