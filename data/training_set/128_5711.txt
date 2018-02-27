@@ -1157,7 +1157,8 @@ Image
 By
 Beckie
 Via
-<[>Flickr/<]>
+<[>Flickr<]>
+/
 CC
 -
 2

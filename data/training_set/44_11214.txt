@@ -1,8 +1,8 @@
 Inside
 <[>Bill
 Clinton
-Inc
-.<]>
+Inc<]>
+.
 :
 Hacked
 Memo
@@ -213,8 +213,8 @@ he
 called
 <[>Bill
 Clinton
-Inc
-.<]>
+Inc<]>
+.
 ,
 obtaining
 “in

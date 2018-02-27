@@ -562,10 +562,10 @@ for
 Disease
 Control
 &
-Prevention
+Prevention<]>
 (
-CDC
-)<]>
+<[>CDC<]>
+)
 .
 Sixty
 -

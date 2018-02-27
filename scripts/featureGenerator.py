@@ -15,18 +15,24 @@ GLOBAL VARIABLES
 '''
 MAX_ENTITY_LENGTH = 20
 MAX_ENTITY_WORD_LENGTH = 8
-NUM_FEATURES = 20
+NUM_FEATURES = 19
 globalVerbSet = set()
 with open('../data/verbs.txt', 'r') as f:
     for line in f:
         globalVerbSet.add(line.strip())
 
 instituteKeywords = re.compile(r'\b(Inc|Incorporation|Corp|Corporation|Institute|\
-University|School|College|Department|Org|Organization|Times|Committee|Foundation|Party|Agency|Council|News)\b', re.I)
-badKeywords = re.compile(r'\b(the|in|as|an|III|was|has|have|had|am|is|are)\b', re.I)
-#allow . ' ` and " inside entity words. As these are there while marking up
-badpunc = re.compile(r'\~|\!|\@|\#|\$|\%|\^|\&|\*|\(|\)|\_|\+|\=|\{|\}|\[|\]|\;|\:|\-|\<|\>|\,|\?|\/|\\')
-
+University|School|College|Department|Org|Organization|Times|Committee|Foundation|\
+Party|Agency|Council|News)\b', re.I)
+badKeywords = re.compile(r'\b(the|an|as|be|am|is|are|was|were|has|have|had|\
+at|from|to|in|under|before|after|near|far|away|\
+that|them|there|their|they|his|her|hers|him|it|you|your|yours|\
+ceo|chairman|founder|head|director|\
+email)\b', re.I)
+#allow . - _ & : ' ` and " inside entity words. As these are there while marking up
+badpunc = re.compile(r'\~|\!|\@|\#|\$|\%|\^|\*|\(|\)|\+|\=|\{|\}|\[|\]|\;|\<|\>|\,|\?|\/|\\')
+endSentence = re.compile(r'(\d\s*\.\s*\D)|([a-z]\s*\.)')
+domain = re.compile(r'\.\s*(com|org)\b')
 
 globalCount = 0
 missedTuples = []
@@ -60,7 +66,7 @@ def generateStringTuples(fileContents, fileName):
     reg = re.compile(r'[a-zA-Z0-9_\’\']+')# use to strip inner punctuations, except _ and \’
     tupleColumns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'label']
     global missedTuples
-    #uniques = {}#unique string to tuple
+    
 
     for entityLength in range(1, MAX_ENTITY_LENGTH):
         for i in range(len(fileContents)-entityLength):#reversed order here to prevent i+entityLength overflow
@@ -96,8 +102,12 @@ def generateStringTuples(fileContents, fileName):
                 entityList = list(map(lambda item: item.replace('<]>', ''), entityList))
 
                 # Update the rest of the tuple information.
-                tuple[0] = ' '.join(entityList)#rawString
-
+                tuple[0] = ' '.join(entityList).strip()#rawString
+                #groups of only continuous alpha numeric characters. Not including '.' as a separate group.
+                words = re.findall(reg, tuple[0])
+                tuple[4] = ' '.join(words).strip()# string after stripping inner punctuations
+                tuple[5] = len(words)# wordCount
+                
 
                 #################################
                 # PRE-PROCESSING RULES
@@ -112,19 +122,24 @@ def generateStringTuples(fileContents, fileName):
                 #     continue
                 # if 'as' in tuple[0].lower() or 'a' in tuple[0].lower() or 'an' in tuple[0].lower():
                 #      continue
-                if len(re.findall(badpunc, tuple[0]))>0:#full tuple contains any unwanted punctuations
+                
+                failed = False# use this to remove negative entries
+                #empty or too long remaining string 
+                failed = failed or tuple[5]==0 or tuple[5]>MAX_ENTITY_WORD_LENGTH
+                #begins with a .
+                failed = failed or tuple[0][0]=='.'
+                #full tuple contains any unwanted punctuations
+                failed = failed or len(re.findall(badpunc, tuple[0]))>0 
+                #Want atleast 2 english chars. Removes number only cases
+                failed = failed or len(re.findall(r'[a-zA-Z]', tuple[4]))<2
+                #Looks like end of a sentence, except when a domain name
+                failed = failed or len(re.findall(endSentence, tuple[0])) - len(re.findall(domain, tuple[0]))>0
+                #contains a bad keyword
+                failed = failed or len(re.findall(badKeywords, tuple[4]))
+                if failed:
                     if tuple[-1] == '+': missedTuples.append(tuple)
                     continue
-
-                #groups of only continuous alpha numeric characters. Not including '.' as a separate group.
-                words = re.findall(reg, tuple[0])
-                tuple[4] = ' '.join(words)# string after stripping inner punctuations
-                tuple[5] = len(words)# wordCount
-                if len(re.findall(badKeywords, tuple[4])):
-                    if tuple[-1] == '+': missedTuples.append(tuple)
-                    continue
-                if(tuple[5]>0 and tuple[5]<=MAX_ENTITY_WORD_LENGTH):#not empty or too large a phrase
-                    tupleList.append(tuple)
+                tupleList.append(tuple)
             except IndexError:
                 continue
 
@@ -252,12 +267,6 @@ def F18(tuple, fileContents):
     except:
         return -1
 
-def F19(tuple, fileContents):
-    for cStr in tuple.string.strip().split():
-        if cStr.lower() == "ceo":
-            return 1
-    return 0
-
 
 '''
 
@@ -271,14 +280,14 @@ Feature list:
     F5: Number of capitol letters before the string.
     F5: Number of capitol letters in line after this string.
     F6: "on" comes before
-    F7: "called" comes before
+    F7: "called" comes before # shouldn't the verb have taken care of it?
     F8: "they" comes after
-    F9: .?! comes in the middle of and entry
+    F9: .?! comes in the middle of and entry# should no longer be true ever
     F10: Number of "."s
-    F11: "," is in the raw string "NOTE: This feature reliably improves precision!"
-    F12: "," is in the first or last raw string position "NOTE: This feature reliably improves precision!"
+    F11: "," is in the raw string "NOTE: This feature reliably improves precision!", #should no longer be True ever
+    F12: "," is in the first or last raw string position "NOTE: This feature reliably improves precision!", #should no lenger be True ever
     F13: "." is in the first or last raw string position.
-    F14: "as", "a", "an" is in the raw string.
+    F14: "as", "a", "an" is in the raw string., # Invalid as discussed, to be removed
     F15: The faction of the number of words where only the first character is capitalized to all words.
     F16: The rawString has a Single capitalized word after it.
     F17: Contains a keyword
@@ -334,6 +343,9 @@ def main(args):
         startTime = time.time()
         
         global missedTuples 
+        missedTuples = []
+        global globalCount
+        globalCount = 0
         fullDF = pd.DataFrame(columns=['F' + str(i) for i in range(NUM_FEATURES)] + ['label'])
         tuplesDF = pd.DataFrame(columns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'label'])
 

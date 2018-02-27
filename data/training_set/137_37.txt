@@ -1437,10 +1437,10 @@ the
 Office
 of
 the
-<[>Director
+Director
 of
 National
-Intelligence<]>
+Intelligence
 .
 
 “We
@@ -1588,13 +1588,13 @@ Agency<]>
 Intelligence<]>
 and
 the
-<[>Office
+Office
 of
 the
 Director
 of
 National
-Intelligence<]>
+Intelligence
 .
 
 What
@@ -5387,7 +5387,8 @@ SUBSCRIBE
 BECOME
 A
 MEMBER
-<[>@21WIRE<]>
+@
+<[>21WIRE<]>
 .
 TV
 

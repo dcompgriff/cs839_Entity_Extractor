@@ -390,7 +390,8 @@ Kelly
 Megyn
 Kelly
 .
-<[>@FoxNews<]>
+@
+<[>FoxNews<]>
 ,
 What
 r

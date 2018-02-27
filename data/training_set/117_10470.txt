@@ -625,14 +625,14 @@ the
 .
 S
 .
-<[>Department
+Department
 of
-Justice
+Justice<]>
 Office
 of
 the
 Inspector
-General<]>
+General
 investigate
 that
 meeting

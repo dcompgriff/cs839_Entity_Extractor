@@ -390,7 +390,8 @@ Russia
 .
 "
 ©
-<[>Flickr/<]>
+<[>Flickr<]>
+/
 <[>Naval
 Surface
 Warriors<]>
