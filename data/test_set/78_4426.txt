@@ -6,7 +6,7 @@ com/2016/11/americas
 -
 secret
 -
-<[>government<]>
+government
 -
 unaffected
 .
@@ -255,8 +255,8 @@ also
 referred
 to
 as
-<[>The
-7th
+The
+<[>7th
 Floor
 Group<]>
 may

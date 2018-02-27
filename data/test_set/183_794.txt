@@ -334,8 +334,8 @@ as
 ,
 <[>Twitter<]>
 ,
-<[>Yahoo
-!<]>
+<[>Yahoo<]>
+!
 ,
 <[>Snapchat<]>
 and

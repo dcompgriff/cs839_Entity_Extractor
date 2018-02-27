@@ -622,7 +622,8 @@ pain
 
 *
 *
-<[>*KWN<]>
+*
+<[>KWN<]>
 has
 now
 released
