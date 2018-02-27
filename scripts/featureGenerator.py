@@ -15,7 +15,7 @@ GLOBAL VARIABLES
 '''
 MAX_ENTITY_LENGTH = 20
 MAX_ENTITY_WORD_LENGTH = 8
-NUM_FEATURES = 19
+NUM_FEATURES = 20
 globalVerbSet = set()
 with open('../data/verbs.txt', 'r') as f:
     for line in f:
@@ -51,7 +51,7 @@ def generateStringTuples(fileContents, fileName):
     # rawString: as read form the file after removing entity markers
     # string: after stripping punctuations from inside rawString
     # wordCount: number of words in 'string' field
-    # start, end: index in file 
+    # start, end: index in file
     # class: class label if marked entity
     #tupleDF = pd.DataFrame(columns=['rawString', 'file', 'start', 'end', 'string', 'wordCount' 'class'])
     # Create native python list for appending to, which is faster than pandas DF append or concat.
@@ -59,7 +59,7 @@ def generateStringTuples(fileContents, fileName):
     reg = re.compile(r'[a-zA-Z0-9_\’\']+')# use to strip inner punctuations, except _ and \’
     tupleColumns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'label']
     #uniques = {}#unique string to tuple
-    
+
     for entityLength in range(1, MAX_ENTITY_LENGTH):
         for i in range(len(fileContents)-entityLength):#reversed order here to prevent i+entityLength overflow
             # For each possible entityLength, generate string from each index.
@@ -123,7 +123,7 @@ def generateStringTuples(fileContents, fileName):
                 continue
 
     return pd.DataFrame(tupleList, columns=tupleColumns)
-	
+
 
 def F0(tuple, fileContents):
     try:
@@ -245,6 +245,14 @@ def F18(tuple, fileContents):
         return sum(1 for char in tuple.string if char.isupper())*1.0/tuple.wordCount
     except:
         return -1
+
+def F19(tuple, fileContents):
+    for cStr in tuple.string.strip().split():
+        if cStr.lower() == "ceo":
+            return 1
+    return 0
+
+
 '''
 
 
@@ -267,8 +275,9 @@ Feature list:
     F14: "as", "a", "an" is in the raw string.
     F15: The faction of the number of words where only the first character is capitalized to all words.
     F16: The rawString has a Single capitalized word after it.
-	F17: Contains a keyword
-	F18: fraction of capital letters to wordCount
+    F17: Contains a keyword
+    F18: fraction of capital letters to wordCount
+    F19: CEO or ceo is in the string.
 
 Each "tuple" object is a Pandas series with first entry tuple[0] the index, and
     all following entries the entries of each row from the string tuples dataframe.
@@ -286,10 +295,17 @@ def generateFeaturesFromFile(fileContents, fileName):
         allFeaturesList.append(featureList)
 
     allFeaturesList.append(tuplesDF['label'].tolist())
-	# TODO: write to a csv file the entire matrix of examples and features. Randomize. Remove some to ensure almost even split b/w + and -
+    # TODO: write to a csv file the entire matrix of examples and features. Randomize. Remove some to ensure almost even split b/w + and -
 
     return pd.DataFrame(np.array(allFeaturesList).T, columns=['F' + str(i) for i in range(NUM_FEATURES)] + ['label']), tuplesDF
 
+
+def updateFeaturesFromFile(fileContents, fileName, functionName):
+    tuplesDF = generateStringTuples(fileContents, fileName)
+    featureList = []
+    for tuple in tuplesDF.itertuples():
+        featureList.append(eval(functionName +  '(tuple, fileContents)'))
+    return featureList
 
 
 
@@ -306,42 +322,79 @@ possible feature sets.
 
 '''
 def main(args):
-    # Get sorted file list names from the given directory.
-    fileList = sorted(filter(lambda item: '.txt' in str(item), os.listdir(args.FileFolder)), key=lambda item: int(item.split('_')[0]))
-    startTime = time.time()
 
-    fullDF = pd.DataFrame(columns=['F' + str(i) for i in range(NUM_FEATURES)] + ['label'])
-    tuplesDF = pd.DataFrame(columns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'label'])
+    if args.Mode == "C":
+        # Get sorted file list names from the given directory.
+        fileList = sorted(filter(lambda item: '.txt' in str(item), os.listdir(args.FileFolder)), key=lambda item: int(item.split('_')[0]))
+        startTime = time.time()
 
-    # For each file, parse into tuples, then parse into features, and create a full pandas data frame object.
-    print('Performing featurization...')
-    for file in fileList:
-        if '.txt' in file:
-            with open(args.FileFolder + file, "r", encoding="ISO-8859-1") as f:
-                print(file)
-                fileDF, fileTuplesDF = generateFeaturesFromFile(f.readlines(), file)
-                fullDF = pd.concat([fullDF, fileDF])
-                tuplesDF = pd.concat([tuplesDF, fileTuplesDF])
-    endTime = time.time()
-    print('Done!')
-    print("Total time to run: %s seconds." %str(endTime-startTime))
+        fullDF = pd.DataFrame(columns=['F' + str(i) for i in range(NUM_FEATURES)] + ['label'])
+        tuplesDF = pd.DataFrame(columns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'label'])
 
-    # Save the entire pandas data frame object of features and classes.
-    print('Saving the full dataframe...')
-    fullDF.to_csv('../data/featurized_instances.csv')
-    tuplesDF.to_csv('../data/tuples_instances.csv')
-    print('Done!')
-    print(globalCount)
+        # For each file, parse into tuples, then parse into features, and create a full pandas data frame object.
+        print('Performing featurization...')
+        for file in fileList:
+            if '.txt' in file[:10]:
+                with open(args.FileFolder + file, "r", encoding="ISO-8859-1") as f:
+                    print(file)
+                    fileDF, fileTuplesDF = generateFeaturesFromFile(f.readlines(), file)
+                    fullDF = pd.concat([fullDF, fileDF])
+                    tuplesDF = pd.concat([tuplesDF, fileTuplesDF])
+        endTime = time.time()
+        print(fullDF.shape)
+        print('Done!')
+        print("Total time to run: %s seconds." %str(endTime-startTime))
+
+        # Save the entire pandas data frame object of features and classes.
+        print('Saving the full dataframe...')
+        #fullDF.to_csv('../data/featurized_instances.csv')
+        #tuplesDF.to_csv('../data/tuples_instances.csv')
+        print('Done!')
+        print(globalCount)
+    elif args.Mode == "U":
+        fullDF = pd.read_csv('../data/featurized_instances.csv', index_col=0)
+        tuplesDF = pd.read_csv('../data/tuples_instances.csv', index_col=0)
+
+        fileList = sorted(filter(lambda item: '.txt' in str(item), os.listdir(args.FileFolder)), key=lambda item: int(item.split('_')[0]))
+
+        # For each file, parse into tuples, then parse into features, and create a full pandas data frame object.
+        print('Performing featurization...')
+        startTime = time.time()
+        for functionName in args.UpdateListString.strip().split():
+            print(functionName)
+            featureList = []
+            for file in fileList:
+                if '.txt' in file:
+                    print(file)
+                    with open(args.FileFolder + file, "r", encoding="ISO-8859-1") as f:
+                        newList = updateFeaturesFromFile(f.readlines(), file, functionName)
+                        featureList.extend(newList)
+            # All features for current function have been generated, so update the full data frame.
+            fullDF.loc[:, functionName] = pd.Series(featureList, index=fullDF.index)
+
+        endTime = time.time()
+        print('Done!')
+        print("Total time to run: %s seconds." % str(endTime - startTime))
+        columnsList = list(fullDF.columns)
+        columnsList.remove('label')
+        fullDF = fullDF[columnsList + ['label']]
+
+        # Save the entire pandas data frame object of features and classes.
+        print('Saving the full dataframe...')
+        fullDF.to_csv('../data/featurized_instances.csv')
+        tuplesDF.to_csv('../data/tuples_instances.csv')
 
 
 
 
 
 if __name__ == '__main__':
-	#Parse command line arguments
-	parser = argparse.ArgumentParser(description="""Fake news feature generator. Generates features from files
-	whos' words have been split to multiple lines. It also handles files where entities have been pre-marked.""")
-	parser.add_argument('FileFolder', metavar='f', type=str)
-	args = parser.parse_args()
-	main(args)
+    #Parse command line arguments
+    parser = argparse.ArgumentParser(description="""Fake news feature generator. Generates features from files
+    whos' words have been split to multiple lines. It also handles files where entities have been pre-marked.""")
+    parser.add_argument('FileFolder', metavar='f', type=str)
+    parser.add_argument('Mode', metavar='m', type=str, help="""U is for update, and C is for create""")
+    parser.add_argument('UpdateListString', metavar='--l', type=str, default="")
+    args = parser.parse_args()
+    main(args)
 
