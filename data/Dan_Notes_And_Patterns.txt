@@ -210,8 +210,9 @@ Press, News, Agency, University
 
 
 Post-Processing Rules:
-Raw string has -,:, ", &, in raw string then mark as negative
-String has CEO, then mark as negative
+*Raw string has -,:, ", &, in raw string then mark as negative
+*String has CEO, then mark as negative
+*All Caps entity is actually just a word, and thus likely not an acronym
 
 
 

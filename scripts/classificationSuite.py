@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 
 '''
 ##########################################################
-GLOBAL ML MODELS
+GLOBALS
 ##########################################################
 '''
 linearModel = LinearRegression()
@@ -26,6 +26,12 @@ rfModel = RandomForestClassifier(min_samples_leaf=7, n_estimators=10, max_depth=
 abModel = AdaBoostClassifier()  # base_estimator=SVC(C=0.1, tol=0.1, verbose=1, kernel='linear', probability=True), n_estimators=10)
 # 50 for data.
 svmModel = SVC(C=0.1, tol=1, verbose=1, kernel='linear')  # ( , class_weight='balanced')
+
+dictionary = []
+with open('../data/dictionary.txt', 'r') as f:
+    for line in f:
+        dictionary.append(line.strip())
+dictionary = set(dictionary)
 
 
 '''
@@ -123,17 +129,31 @@ def runBattery(args):
         # Print results.
         print(scores)
 
+def postProcessingRules(predictions, tuples):
+    for i in range(tuples.shape[0]):
+        if "-" in str(tuples[i][0]) or ":" in str(tuples[i][0])  or '"' in str(tuples[i][0])  or "&" in str(tuples[i][0]):
+            predictions[i] = -1
+        #if "ceo" == str(tuples[i][0]).lower() or "url" == str(tuples[i][0]).lower():
+        #    predictions[i] = -1
+        if str(tuples[i][0]).lower() in dictionary:
+            predictions[i] = -1
+
+
+    return predictions
+
 def runDT(args):
-    dataDF = pd.read_csv(args.PandasDataFrame)
+    dataDF = pd.read_csv(args.PandasDataFrame, index_col=0)
+    tuplesDF = pd.read_csv(args.TuplesPandasDataFrame, index_col=0)
+    tuples = tuplesDF.as_matrix(tuplesDF.columns)
 
     # Generate X, Y data sets.
-    X = dataDF.as_matrix(dataDF.columns[1:-1])
+    X = dataDF.as_matrix(dataDF.columns[:-1])
     Y = np.array(list(map(lambda item: 1 if item == '+' else -1, dataDF[dataDF.columns[-1]])))
     Y = Y.reshape((Y.shape[0], 1))
 
     dtScores = []
     rfScores = []
-    skf = StratifiedKFold(n_splits=3, shuffle=True, random_state=np.random)
+    skf = StratifiedKFold(n_splits=5, shuffle=True, random_state=np.random)
     fold = 0
     startTime = time.time()
     for train_index, test_index in skf.split(X, Y):
@@ -161,6 +181,10 @@ def runDT(args):
             else:
                 dtPredicted.append(-1)
 
+        # Run post processing rules.
+        dtPredicted = postProcessingRules(dtPredicted, tuples[test_index])
+
+
         dtScores.append([precision_score(y_test, dtPredicted, average='macro'), recall_score(y_test, dtPredicted, average='macro')])
         #print('Done!')
         #print('Testing random forrest...')
@@ -171,6 +195,10 @@ def runDT(args):
                 rfPredicted.append(1)
             else:
                 rfPredicted.append(-1)
+
+        # Run post processing rules.
+        rfPredicted = postProcessingRules(rfPredicted, tuples[test_index])
+
         rfScores.append([precision_score(y_test, rfPredicted, average='macro'), recall_score(y_test, rfPredicted, average='macro')])
         #print('Done!')
     endTime = time.time()
@@ -211,8 +239,9 @@ def runDTAnalysis(args, plot=True):
         plt.show()
 
     # Analyze false positives.
-    dataDF = pd.read_csv(args.PandasDataFrame)
-    tuplesDF = pd.read_csv(args.TuplesPandasDataFrame)
+    dataDF = pd.read_csv(args.PandasDataFrame, index_col=0)
+    tuplesDF = pd.read_csv(args.TuplesPandasDataFrame, index_col=0)
+    tuples = tuplesDF.as_matrix(tuplesDF.columns)
     # Generate X, Y data sets.
     X = dataDF.as_matrix(dataDF.columns[1:-1])
     Y = np.array(list(map(lambda item: 1 if item == '+' else -1, dataDF[dataDF.columns[-1]])))
@@ -225,10 +254,15 @@ def runDTAnalysis(args, plot=True):
     #y_train, y_test = Y[train_index], Y[test_index]
     dtModel.fit(X, Y.ravel())
     predictions = dtModel.predict(X)
+    # Run post processing rules.
+    predictions = postProcessingRules(predictions, tuples)
+
+    scores = (precision_score(Y.ravel(), predictions, average='macro'), recall_score(Y.ravel(), predictions, average='macro'))
     for i in range(len(predictions)):
         if Y[i] == -1 and predictions[i] == 1:
             # False Positive Found, so print it out.
             print(tuplesDF.iloc[i])
+    print(scores)
 
 
 

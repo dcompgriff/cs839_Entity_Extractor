@@ -15,7 +15,7 @@ GLOBAL VARIABLES
 '''
 MAX_ENTITY_LENGTH = 20
 MAX_ENTITY_WORD_LENGTH = 8
-NUM_FEATURES = 19
+NUM_FEATURES = 20
 globalVerbSet = set()
 with open('../data/verbs.txt', 'r') as f:
     for line in f:
@@ -245,8 +245,8 @@ def F14(tuple, fileContents):
 def F15(tuple, fileContents):
     count = 0
     for word in tuple.rawString.strip().split():
-        if word[0].isupper() and word[1:] == word[1:].lower():
-            count += 1
+       if word[0].isupper() and word[1:] == word[1:].lower():
+           count += 1
     return count / len(tuple.rawString.strip().split())
 
 def F16(tuple, fileContents):
@@ -266,6 +266,12 @@ def F18(tuple, fileContents):
         return sum(1 for char in tuple.string if char.isupper())*1.0/tuple.wordCount
     except:
         return -1
+
+def F19(tuple, fileContents):
+    if ":" in tuple.rawString or "-" in tuple.rawString or '"' in tuple.rawString or "&" in tuple.rawString:
+        return 1
+    else:
+        return 0
 
 
 '''
@@ -292,6 +298,7 @@ Feature list:
     F16: The rawString has a Single capitalized word after it.
     F17: Contains a keyword
     F18: fraction of capital letters to wordCount
+    F19: Contains bad punctuation in raw string.
 
 Each "tuple" object is a Pandas series with first entry tuple[0] the index, and
     all following entries the entries of each row from the string tuples dataframe.
@@ -366,6 +373,8 @@ def main(args):
         # Save the entire pandas data frame object of features and classes.
         print('Saving the full dataframe...')
         fullDF.to_csv('../data/featurized_instances.csv')
+        # Update tuples index to full data set.
+        tuplesDF.index = pd.Series(list(range(0, fullDF.shape[0])))
         tuplesDF.to_csv('../data/tuples_instances.csv')
         print('Done!')
         print(globalCount)
