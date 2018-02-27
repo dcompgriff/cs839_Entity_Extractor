@@ -9,15 +9,9 @@ cada
 mexicano
 SE
 CONSTRUIRÁN
-DOS
 "
-O
-QUIZÁ
-TRES
 "
 MILLONES
-DE
-MUROS
 racismo
 
 Asegurando
@@ -118,9 +112,7 @@ una
 entrevista
 a
 la
-<[>CNN
-.
-El<]>
+<[>CNN<]>
 muro
 será
 circular

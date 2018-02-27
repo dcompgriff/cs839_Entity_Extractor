@@ -911,8 +911,8 @@ what
 everyone
 in
 the
-Obama
-Administration
+<[>Obama
+Administration<]>
 was
 saying
 while

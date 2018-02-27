@@ -131,7 +131,7 @@ election
 race
 that
 had
-GOP
+<[>GOP<]>
 nominee
 Donald
 Trump

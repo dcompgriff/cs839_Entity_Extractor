@@ -377,9 +377,9 @@ Women
 Gender
 ,
 and
-Sexuality
+<[>Sexuality
 Studies
-Department
+Department<]>
 ]
 who
 is

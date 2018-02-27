@@ -280,7 +280,6 @@ Feature list:
     F16: The rawString has a Single capitalized word after it.
     F17: Contains a keyword
     F18: fraction of capital letters to wordCount
-    F19: CEO or ceo is in the string.
 
 Each "tuple" object is a Pandas series with first entry tuple[0] the index, and
     all following entries the entries of each row from the string tuples dataframe.

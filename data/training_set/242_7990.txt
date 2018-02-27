@@ -128,7 +128,7 @@ hadn’t
 voted
 for
 a
-GOP
+<[>GOP<]>
 presidential
 candidate
 since
