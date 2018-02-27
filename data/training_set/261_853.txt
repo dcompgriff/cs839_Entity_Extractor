@@ -663,8 +663,8 @@ soldiers
 from
 the
 2nd
-Cavalry
-Regiment
+<[>Cavalry
+Regiment<]>
 ,
 which
 is

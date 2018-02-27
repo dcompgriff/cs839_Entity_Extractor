@@ -48,7 +48,6 @@ allies
 voiced
 concern
 .
-
 <[>NATO<]>
 is
 concerned

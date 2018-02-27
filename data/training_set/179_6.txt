@@ -718,7 +718,7 @@ information
 ,
 up
 to
-SAP
+<[>SAP<]>
 level
 Special
 Access

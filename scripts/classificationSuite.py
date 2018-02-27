@@ -133,7 +133,7 @@ def runDT(args):
 
     dtScores = []
     rfScores = []
-    skf = StratifiedKFold(n_splits=5, shuffle=True, random_state=np.random)
+    skf = StratifiedKFold(n_splits=3, shuffle=True, random_state=np.random)
     fold = 0
     startTime = time.time()
     for train_index, test_index in skf.split(X, Y):
@@ -153,10 +153,25 @@ def runDT(args):
         # Evaluate each model.
         scoring = ['precision_macro', 'recall_macro']
         #print('Testing decision tree...')
-        dtScores.append([precision_score(y_test, dtModel.predict(X_test), average='macro'), recall_score(y_test, dtModel.predict(X_test), average='macro')])
+        dtProbabilities = dtModel.predict_proba(X_test)
+        dtPredicted = []
+        for i in range(dtProbabilities.shape[0]):
+            if dtProbabilities[i][1] > .73:
+                dtPredicted.append(1)
+            else:
+                dtPredicted.append(-1)
+
+        dtScores.append([precision_score(y_test, dtPredicted, average='macro'), recall_score(y_test, dtPredicted, average='macro')])
         #print('Done!')
         #print('Testing random forrest...')
-        rfScores.append([precision_score(y_test, rfModel.predict(X_test), average='macro'), recall_score(y_test, rfModel.predict(X_test), average='macro')])
+        rfProbabilities = rfModel.predict_proba(X_test)
+        rfPredicted = []
+        for i in range(rfProbabilities.shape[0]):
+            if rfProbabilities[i][1] > .53:
+                rfPredicted.append(1)
+            else:
+                rfPredicted.append(-1)
+        rfScores.append([precision_score(y_test, rfPredicted, average='macro'), recall_score(y_test, rfPredicted, average='macro')])
         #print('Done!')
     endTime = time.time()
     print("Time to run: %s seconds."%(str(endTime-startTime)))
