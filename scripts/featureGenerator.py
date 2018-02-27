@@ -111,7 +111,7 @@ def generateStringTuples(fileContents, fileName):
                      continue
                 # if 'as' in tuple[0].lower() or 'a' in tuple[0].lower() or 'an' in tuple[0].lower():
                 #      continue
-				if len(re.findall(badpunc, tuple[0]))>0:#full tuple contains any unwanted punctuations
+                if len(re.findall(badpunc, tuple[0]))>0:#full tuple contains any unwanted punctuations
                     continue
 
                 #groups of only continuous alpha numeric characters. Not including '.' as a separate group.
@@ -337,7 +337,7 @@ def main(args):
         # For each file, parse into tuples, then parse into features, and create a full pandas data frame object.
         print('Performing featurization...')
         for file in fileList:
-            if '.txt' in file[:10]:
+            if '.txt' in file:
                 with open(args.FileFolder + file, "r", encoding="ISO-8859-1") as f:
                     print(file)
                     fileDF, fileTuplesDF = generateFeaturesFromFile(f.readlines(), file)
@@ -350,8 +350,8 @@ def main(args):
 
         # Save the entire pandas data frame object of features and classes.
         print('Saving the full dataframe...')
-        #fullDF.to_csv('../data/featurized_instances.csv')
-        #tuplesDF.to_csv('../data/tuples_instances.csv')
+        fullDF.to_csv('../data/featurized_instances.csv')
+        tuplesDF.to_csv('../data/tuples_instances.csv')
         print('Done!')
         print(globalCount)
     elif args.Mode == "U":
@@ -397,7 +397,7 @@ if __name__ == '__main__':
     whos' words have been split to multiple lines. It also handles files where entities have been pre-marked.""")
     parser.add_argument('FileFolder', metavar='f', type=str)
     parser.add_argument('Mode', metavar='m', type=str, help="""U is for update, and C is for create""")
-    parser.add_argument('UpdateListString', metavar='--l', type=str, default="")
+    parser.add_argument('UpdateListString', metavar='--l', type=str, default="", help="""Use a string 'F0 F12 F13' of features, or '' empty string if no features. """)
     args = parser.parse_args()
     main(args)
 
