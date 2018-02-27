@@ -23,6 +23,7 @@ with open('../data/verbs.txt', 'r') as f:
 
 instituteKeywords = re.compile(r'\b(Inc|Incorporation|Corp|Corporation|Institute|\
 University|School|College|Department|Org|Organization|Times|Committee|Foundation|Party|Agency|Council|News)\b', re.I)
+badKeywords = re.compile(r'\b(The|in|as|an|III)\b', re.I)
 #allow . ' ` and " inside entity words. As these are there while marking up
 badpunc = re.compile(r'\~|\!|\@|\#|\$|\%|\^|\&|\*|\(|\)|\_|\+|\=|\{|\}|\[|\]|\;|\:|\-|\<|\>|\,|\?|\/|\\')
 
@@ -110,13 +111,15 @@ def generateStringTuples(fileContents, fileName):
                      continue
                 # if 'as' in tuple[0].lower() or 'a' in tuple[0].lower() or 'an' in tuple[0].lower():
                 #      continue
-                if len(re.findall(badpunc, tuple[0]))>0:#full tuple contains any unwanted punctuations
+				if len(re.findall(badpunc, tuple[0]))>0:#full tuple contains any unwanted punctuations
                     continue
 
                 #groups of only continuous alpha numeric characters. Not including '.' as a separate group.
                 words = re.findall(reg, tuple[0])
                 tuple[4] = ' '.join(words)# string after stripping inner punctuations
                 tuple[5] = len(words)# wordCount
+                if len(re.findall(badKeywords, tuple[4])):
+                    continue
                 if(tuple[5]>0 and tuple[5]<=MAX_ENTITY_WORD_LENGTH):#not empty or too large a phrase
                     tupleList.append(tuple)
             except IndexError:

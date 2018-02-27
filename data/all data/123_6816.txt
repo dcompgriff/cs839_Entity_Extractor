@@ -99,7 +99,7 @@ the
 author
 admits
 that
-“<[>Congress<]>
+<[>“Congress<]>
 writes
 the
 laws
@@ -298,7 +298,7 @@ publicly
 admitted
 it:
 
-“<[>Congress<]>
+<[>“Congress<]>
 writes
 the
 laws
