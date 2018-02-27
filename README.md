@@ -21,45 +21,76 @@ This extractor parses a set of fake news articles, and extracts institutions or 
 
 Explain how to run the automated tests for this system
 
-### Generating the Feature and Tuple .csv DataFrame files.
+### Generating the featurized_instances.csv and tuples_instances.csv DataFrame files.
 
-Explain what these tests test and why
+#### Creating new featurized_instances.csv and tuples_instances.csv files.
 
-```
-Give an example
-```
-
-### Performing the Training CrossValidation task and generating outputs.
-
-Explain what these tests test and why
+The featurized_instances.csv contains a dataframe with the "featurized" entity instances and tuples_instances.csv contains the original information about the enity such as the file it occured in, the actual string of the entity, and the start and end lines. The "C" below signifies to the script that the entire data frame must be created. Note that an empty string quotations "" is passed after the C argument.
 
 ```
-Give an example
+cd scripts/
+python featureGenerator.py "../data/training_set/" C ""
+```
+#### Creating updated featurized_instances.csv and tuples_instances.csv from the training set.
+
+The featurization process can be very time consuming, so the script was modified to allow for updates to the existing featurized_instances.csv file. In the below script, U is passed to the script to indicate that this is an update to the existing featurized_instances.csv file. The string after "U" represents a string list
+of feature functions to update, or add to the existing featurized_instances.csv file. If the feature column exists, the values are updated. If the feature column doesn't exist, the feature column is generated and added to the existing featurized_instances.csv file. Note that the featurized_instances.csv file's columns are not garunteed to remain in sorted order. The only garuntee is that the 'label' column will be the last column.
+
+```
+cd scripts/
+python featureGenerator.py "../data/training_set/" U "F10 F5 F3"
 ```
 
-### Analysis of the previous step's output, full training evaluation, and false positive identification.
+### Performing the Training CrossValidation tasks.
 
-Explain what these tests test and why
+#### Perform the "Battery" suite of multiple models.
+
+The "B" option passed to the classificationSuite.py script below indicates that the battery of model fitting and testing for linear, logistic regression, decision tree, random forrest, ada-boost, and support vector machine models should be run. Tuples of the form (precision, recall) are output for each of the 5 folds to the command line, and the order of output corresponds to the order of models previously listed in this paragraph.
 
 ```
-Give an example
+cd scripts/
+python classificationSuite.py B ../data/featurized_instances.csv ../data/tuples_instances.csv
+```
+#### Perform the decision tree CrossValidation with 5 folds for the decision tree and random forrests model.
+
+The "D" option passed to the script indicates that stratified 5-fold cross-validation should be performed with the decision tree and random forrest models, and that the results should be saved in dtscores.txt and rfscores.txt files that can be used with the analysis option. The script also outputs the average precision and recall, as well as their standard deviations. Note that these can be somewhat miss-leading, as the distributions (which can be viewed with the analysis option) tend to be skewed towards the high end of these metrics and aren't symetric (meaning most of the time our models do better than the average).
+
+```
+cd scripts/
+python classificationSuite.py D ../data/featurized_instances.csv ../data/tuples_instances.csv
+```
+
+#### Perform analysis of the previous step's (Option "D") output, full training evaluation, and false positive identification.
+
+The "A" option passed to the script indicates that analysis of the output from the "D" option should be performed. The script reads the dtscores.txt and rfscores.txt files, and then generates a histogram of precision scores for the decision tree (left plot) and random forrest model (right plot). The script then outputs all false positive examples from the random forrest, and outputs a final (precision, recall) tuple for a random forrest fit to the full training set, and tested on the full training set.
+
+```
+cd scripts/
+python classificationSuite.py A ../data/featurized_instances.csv ../data/tuples_instances.csv
 ```
 
 ## Running the Testing Pipeline
 
-Explain how to run the automated tests for this system
+#### Creating updated featurized_instances.csv and tuples_instances.csv from the test set.
 
-### Generating the Feature and Tuple .csv DataFrame files from the Training set.
-
-Explain what these tests test and why
+The featurization process can be very time consuming, so the script was modified to allow for updates to the existing featurized_instances.csv file. In the below script, U is passed to the script to indicate that this is an update to the existing featurized_instances.csv file. The string after "U" represents a string list
+of feature functions to update, or add to the existing featurized_instances.csv file. If the feature column exists, the values are updated. If the feature column doesn't exist, the feature column is generated and added to the existing featurized_instances.csv file. Note that the featurized_instances.csv file's columns are not garunteed to remain in sorted order. The only garuntee is that the 'label' column will be the last column.
 
 ```
 Give an example
 ```
 
-### Performing extraction on the Test set.
+#### Generating the trained model.
 
-Explain what these tests test and why
+Explain
+
+```
+Give an example
+```
+
+#### Evaluating the trained model on the test set.
+
+Explain
 
 ```
 Give an example
