@@ -23,13 +23,13 @@ with open('../data/verbs.txt', 'r') as f:
 
 instituteKeywords = re.compile(r'\b(Inc|Incorporation|Corp|Corporation|Institute|\
 University|School|College|Department|Org|Organization|Times|Committee|Foundation|Party|Agency|Council|News)\b', re.I)
-badKeywords = re.compile(r'\b(The|in|as|an|III)\b', re.I)
+badKeywords = re.compile(r'\b(the|in|as|an|III|was|has|have|had|am|is|are)\b', re.I)
 #allow . ' ` and " inside entity words. As these are there while marking up
 badpunc = re.compile(r'\~|\!|\@|\#|\$|\%|\^|\&|\*|\(|\)|\_|\+|\=|\{|\}|\[|\]|\;|\:|\-|\<|\>|\,|\?|\/|\\')
 
 
 globalCount = 0
-
+missedTuples = []
 '''
 ****************************************************************
 PROGRAM FUNCTION SCRIPTS
@@ -59,6 +59,7 @@ def generateStringTuples(fileContents, fileName):
     tupleList = []
     reg = re.compile(r'[a-zA-Z0-9_\’\']+')# use to strip inner punctuations, except _ and \’
     tupleColumns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'label']
+    global missedTuples
     #uniques = {}#unique string to tuple
 
     for entityLength in range(1, MAX_ENTITY_LENGTH):
@@ -101,17 +102,18 @@ def generateStringTuples(fileContents, fileName):
                 #################################
                 # PRE-PROCESSING RULES
                 #################################
-                if ',' in tuple[0].strip().split()[0] or ',' in tuple[0].strip().split()[-1]:
-                     continue
+                #if ',' in tuple[0].strip().split()[0] or ',' in tuple[0].strip().split()[-1]:
+                #     continue
                 # #if ('.' in tuple[0].strip().split()[0] or '.' in tuple[0].strip().split()[-1]) and len(entityList):
                 # #    continue
                 # if ('-' in tuple[0].strip()):
                 #      continue
-                if ('(' in tuple[0].strip() or ')' in tuple[0].strip()):
-                     continue
+                #if ('(' in tuple[0].strip() or ')' in tuple[0].strip()):
+                #     continue
                 # if 'as' in tuple[0].lower() or 'a' in tuple[0].lower() or 'an' in tuple[0].lower():
                 #      continue
                 if len(re.findall(badpunc, tuple[0]))>0:#full tuple contains any unwanted punctuations
+                    if tuple[-1] == '+': missedTuples.append(tuple)
                     continue
 
                 #groups of only continuous alpha numeric characters. Not including '.' as a separate group.
@@ -119,6 +121,7 @@ def generateStringTuples(fileContents, fileName):
                 tuple[4] = ' '.join(words)# string after stripping inner punctuations
                 tuple[5] = len(words)# wordCount
                 if len(re.findall(badKeywords, tuple[4])):
+                    if tuple[-1] == '+': missedTuples.append(tuple)
                     continue
                 if(tuple[5]>0 and tuple[5]<=MAX_ENTITY_WORD_LENGTH):#not empty or too large a phrase
                     tupleList.append(tuple)
@@ -329,7 +332,8 @@ def main(args):
         # Get sorted file list names from the given directory.
         fileList = sorted(filter(lambda item: '.txt' in str(item), os.listdir(args.FileFolder)), key=lambda item: int(item.split('_')[0]))
         startTime = time.time()
-
+        
+        global missedTuples 
         fullDF = pd.DataFrame(columns=['F' + str(i) for i in range(NUM_FEATURES)] + ['label'])
         tuplesDF = pd.DataFrame(columns=['rawString', 'file', 'start', 'end', 'string', 'wordCount', 'label'])
 
@@ -353,6 +357,8 @@ def main(args):
         tuplesDF.to_csv('../data/tuples_instances.csv')
         print('Done!')
         print(globalCount)
+        if len(missedTuples)>0:
+            print("Missed", len(missedTuples), "items overall")		
     elif args.Mode == "U":
         fullDF = pd.read_csv('../data/featurized_instances.csv', index_col=0)
         tuplesDF = pd.read_csv('../data/tuples_instances.csv', index_col=0)
