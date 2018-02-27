@@ -33,6 +33,25 @@ svmModel = SVC(C=0.1, tol=1, verbose=1, kernel='linear')  # ( , class_weight='ba
 SUITE FUNCTIONS
 ##########################################################
 '''
+def partialMatch(a, b):
+    '''
+    Given 2 tuples, this function tells if those two match partially.
+    If we have marked one of them actual +, and predicted other as +, its still counted as partial match and should be seen as true +ve
+    If we have marked one of them actual +, and predicted other as - even though it was marked +ve, its should continue to be treated as false negative
+    '''
+    limit = 5
+    if a.file != b.file:
+        return False
+    if abs(a.start-b.start)>5 or abs(a.end-b.end)>5:
+        return False
+    #entirely contained
+    if (a.start <= b.start and a.end >= b.end) or (a.start >= b.start and a.end <= b.end):
+        return True
+    #overlapping 
+    if a.start <= b.start and a.end <= b.end:
+        return True
+    return False
+
 def runBattery(args):
     dataDF = pd.read_csv(args.PandasDataFrame)
 

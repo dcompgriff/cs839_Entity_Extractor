@@ -229,7 +229,7 @@ other
 Democratic
 members
 of
-Congress
+<[>Congress<]>
 was
 so
 disgusting

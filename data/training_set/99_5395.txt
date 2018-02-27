@@ -837,8 +837,8 @@ on
 power
 .
 The
-Republican
-Party
+<[>Republican
+Party<]>
 will
 remain
 largely
