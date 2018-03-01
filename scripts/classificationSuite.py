@@ -143,7 +143,7 @@ def postProcessingRules(predictions, tuples):
 
 def runDT(args):
     dataDF = pd.read_csv(args.PandasDataFrame, index_col=0)
-    tuplesDF = pd.read_csv(args.TuplesPandasDataFrame, index_col=0)
+    tuplesDF = pd.read_csv(args.TuplesPandasDataFrame, index_col=0, encoding = "ISO-8859-1")
     tuples = tuplesDF.as_matrix(tuplesDF.columns)
 
     # Generate X, Y data sets.
@@ -240,7 +240,7 @@ def runDTAnalysis(args, plot=True):
 
     # Analyze false positives.
     dataDF = pd.read_csv(args.PandasDataFrame, index_col=0)
-    tuplesDF = pd.read_csv(args.TuplesPandasDataFrame, index_col=0)
+    tuplesDF = pd.read_csv(args.TuplesPandasDataFrame, index_col=0, encoding="ISO-8859-1")#ISO-8859-1
     tuples = tuplesDF.as_matrix(tuplesDF.columns)
     # Generate X, Y data sets.
     X = dataDF.as_matrix(dataDF.columns[1:-1])
@@ -252,8 +252,8 @@ def runDTAnalysis(args, plot=True):
     #train_index, test_index = list(skf.split(X, Y))[0]
     #X_train, X_test = X[train_index], X[test_index]
     #y_train, y_test = Y[train_index], Y[test_index]
-    dtModel.fit(X, Y.ravel())
-    predictions = dtModel.predict(X)
+    rfModel.fit(X, Y.ravel())
+    predictions = rfModel.predict(X)
     # Run post processing rules.
     predictions = postProcessingRules(predictions, tuples)
 
@@ -261,7 +261,10 @@ def runDTAnalysis(args, plot=True):
     for i in range(len(predictions)):
         if Y[i] == -1 and predictions[i] == 1:
             # False Positive Found, so print it out.
-            print(tuplesDF.iloc[i])
+            try:
+                print(tuplesDF.iloc[i])
+            except:
+                print(tuplesDF[2:].iloc[i])
     print(scores)
 
 

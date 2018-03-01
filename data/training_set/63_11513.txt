@@ -262,7 +262,8 @@ boring
 .
 Trump
 is
-right:
+right
+:
 Hillary
 Clinton
 is
@@ -377,7 +378,8 @@ hell
 .
 
 The
-reason:
+reason
+:
 her
 credibility
 ,
@@ -582,7 +584,8 @@ a
 grand
 jury
 ,
-“I
+“
+I
 can’t
 recall
 .
@@ -759,7 +762,8 @@ official
 favors
 ?
 
-“There’s
+“
+There’s
 a
 lot
 of
@@ -1048,9 +1052,11 @@ of
 the
 new
 book
-“The
+“
+The
 Greatest
-Comeback:
+Comeback
+:
 How
 Richard
 Nixon

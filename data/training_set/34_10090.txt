@@ -1,6 +1,7 @@
 Man
 Wearing
-‘Jewmerica’
+‘
+Jewmerica’
 T
 -
 Shirt
@@ -53,7 +54,8 @@ adorned
 with
 the
 word
-“Jewmerica
+“
+Jewmerica
 ,
 ”
 told
@@ -265,10 +267,12 @@ nine
 hour
 -
 long
-“Election
+“
+Election
 Night
 In
-America”
+America
+”
 programming
 block
 ,

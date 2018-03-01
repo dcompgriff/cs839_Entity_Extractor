@@ -47,7 +47,8 @@ have
 one
 theme
 in
-common:
+common
+:
 the
 partitioning
 of
@@ -364,7 +365,8 @@ it
 was
 more
 than
-that:
+that
+:
 It
 allowed
 a
@@ -402,7 +404,8 @@ demographic
 presence
 there
 .
-'The
+'
+The
 logic
 of
 the
@@ -567,7 +570,8 @@ legacy
 of
 the
 Balfour
-project:
+project
+:
 not
 its
 hallowed
@@ -1139,7 +1143,8 @@ areas
 remained
 outside
 Israel's
-reach:
+reach
+:
 the
 Gaza
 Strip
@@ -1249,7 +1254,8 @@ was
 not
 a
 welcome
-development:
+development
+:
 Occupying
 the
 lands

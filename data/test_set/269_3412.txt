@@ -51,7 +51,8 @@ Russia
 From
 the
 "
-Square:
+Square
+:
 "
 a
 mass
@@ -492,7 +493,8 @@ this
 as
 a
 seasonal
-phenomenon:
+phenomenon
+:
 it
 is
 said
@@ -1026,7 +1028,8 @@ format
 of
 the
 chosen
-policy:
+policy
+:
 Team
 Poroshenko
 clearly
@@ -1042,7 +1045,8 @@ Bandera
 *
 Vakula
 the
-Smith:
+Smith
+:
 
 character
 from
@@ -1071,7 +1075,8 @@ are
 placed
 by
 the
-translator:
+translator
+:
 The
 quoted
 passage

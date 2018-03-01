@@ -1,4 +1,5 @@
-‘Monster
+‘
+Monster
 Vote’
 Is
 Happening
@@ -111,7 +112,8 @@ In
 what’s
 been
 dubbed
-“the
+“
+the
 monster
 vote
 ,
@@ -210,7 +212,8 @@ vote
 .
 <[>Gateway
 Pundit<]>
-reported:
+reported
+:
 
 DONALD
 TRUMP
@@ -268,12 +271,14 @@ rally
 left
 )
 ,
-“We’re
+“
+We’re
 gonna
 need
 a
 bigger
-basket”
+basket
+”
 meme
 (
 right

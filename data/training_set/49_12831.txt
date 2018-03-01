@@ -147,7 +147,8 @@ organizations
 .
 
 <[>RT<]>
-reports:
+reports
+:
 
 Saudi
 Arabia
@@ -326,11 +327,13 @@ year
 condemning
 Riyadh
 for
-“an
+“
+an
 appalling
 record
 of
-violations”
+violations
+”
 in
 Yemen
 ,

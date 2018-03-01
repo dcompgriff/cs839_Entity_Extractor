@@ -75,7 +75,8 @@ The
 <[>Free
 Thought
 Project
-'s<]>
+'
+s<]>
 spotlight
 has
 been
@@ -398,7 +399,8 @@ Fame<]>
 According
 to
 the
-<[>AP:<]>
+<[>AP<]>
+:
 "
 It
 is

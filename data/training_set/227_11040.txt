@@ -1,5 +1,6 @@
 Gun
-Control:
+Control
+:
 4
 States
 Vote

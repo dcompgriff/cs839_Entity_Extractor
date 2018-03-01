@@ -16,7 +16,8 @@ Opioid
 Crisis
 
 
-Source:
+Source
+:
 Claire
 Bernish
 <[>Congress<]>
@@ -79,7 +80,9 @@ its
 lobbyists
 have
 a
-“stranglehold”
+“
+stranglehold
+”
 on
 legislators
 in
@@ -142,7 +145,8 @@ to
 the
 outlet
 .
-“As
+“
+As
 long
 as
 the
@@ -243,7 +247,8 @@ industry’s
 profits
 .
 
-“These
+“
+These
 congressmen
 and
 senators
@@ -270,7 +275,8 @@ told
 the
 <[>Guardian<]>
 .
-“The
+“
+The
 congressmen
 and
 senators
@@ -367,7 +373,8 @@ had
 been
 tasked
 with
-“oversight
+“
+oversight
 and
 control
 of
@@ -473,7 +480,8 @@ in
 response
 ,
 which
-“likened
+“
+likened
 the
 Republican
 response
@@ -482,7 +490,8 @@ the
 opioid
 crisis
 to
-‘using
+‘
+using
 a
 piece
 of
@@ -508,7 +517,8 @@ equating
 its
 policies
 to
-‘empty
+‘
+empty
 promises’
 for
 the
@@ -549,7 +559,8 @@ pharmaceutical
 manufacturers
 to
 illegal
-‘pill
+‘
+pill
 mills’
 and
 corrupt
@@ -654,7 +665,8 @@ drug
 companies
 .
 
-“That
+“
+That
 meeting
 was
 to
@@ -707,7 +719,8 @@ of
 Justice<]>
 and
 congressional
-legislators:
+legislators
+:
 the
 Ensuring
 Patient
@@ -799,7 +812,8 @@ recalled
 telling
 them
 ,
-“This
+“
+This
 bill
 passes
 the
@@ -885,15 +899,18 @@ the
 legislation
 to
 a
-“free
-pass”
+“
+free
+pass
+”
 for
 legal
 drug
 pushers
 .
 
-“This
+“
+This
 doesn’t
 ensure
 patient
@@ -913,7 +930,8 @@ told
 the
 <[>Guardian<]>
 .
-“What
+“
+What
 this
 bill
 does
@@ -950,7 +968,8 @@ distributor
 .
 ”
 
-“This
+“
+This
 was
 a
 gift
@@ -1004,11 +1023,13 @@ to
 protect
 .
 
-“The
+“
+The
 bill
 passed
 because
-‘Big
+‘
+Big
 Pharma’
 wanted
 it
@@ -1025,7 +1046,8 @@ no
 uncertain
 terms
 .
-“The
+“
+The
 <[>DEA<]>
 is
 both
@@ -1190,7 +1212,9 @@ being
 a
 tool
 to
-“weaken”
+“
+weaken
+”
 CDC
 guidelines
 for
@@ -1220,7 +1244,8 @@ had
 been
 staffed
 with
-‘experts’
+‘
+experts’
 with
 conflicts
 of
@@ -1252,7 +1277,8 @@ the
 <[>Guardian<]>
 .
 
-“You’ve
+“
+You’ve
 got
 a
 panel
@@ -1287,7 +1313,8 @@ out
 Wyden
 asserted
 .
-“The
+“
+The
 role
 of
 the
@@ -1384,7 +1411,8 @@ tainted
 profits
 .
 
-“Corporations
+“
+Corporations
 have
 no
 conscience
@@ -1396,7 +1424,8 @@ told
 the
 <[>Guardian<]>
 .
-“Unfortunately
+“
+Unfortunately
 ,
 with
 my
@@ -1462,7 +1491,8 @@ their
 mind
 .
 
-“When
+“
+When
 you
 sit
 with

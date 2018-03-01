@@ -177,7 +177,8 @@ step
 
 Build
 Your
-Own:
+Own
+:
 Four
 Essential
 Medical
@@ -201,7 +202,8 @@ your
 medical
 kit
 preparations
-are:
+are
+:
 ointment
 ,
 bandages
@@ -277,7 +279,8 @@ you
 may
 also
 find
-valuable:
+valuable
+:
 Hand
 -
 sanitizing
@@ -420,7 +423,8 @@ bandages
 in
 your
 medical
-kit:
+kit
+:
 Blood
 -
 stopping
@@ -531,7 +535,8 @@ that
 will
 likely
 be
-useful:
+useful
+:
 Multi
 -
 tool
@@ -644,7 +649,8 @@ treatments
 that
 one
 may
-require:
+require
+:
 Antihistamines
 for
 allergic
@@ -759,12 +765,14 @@ Natural
 QuikClot
 A
 Prepper’s
-Story:
+Story
+:
 Life
 Threatening
 Emergencies
 Happen
-At…
+At
+…
 10
 Household
 Items
@@ -780,7 +788,8 @@ Supply
 Considerations
 From
 a
-Green…
+Green
+…
 Building
 Your
 SHTF

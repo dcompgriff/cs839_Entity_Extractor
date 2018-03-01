@@ -15,7 +15,8 @@ retailers
 who
 carry
 them
-Published:
+Published
+:
 1
 hour
 ago

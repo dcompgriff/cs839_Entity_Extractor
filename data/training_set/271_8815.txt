@@ -235,7 +235,8 @@ data
 reveals
 a
 striking
-feature:
+feature
+:
 Some
 of
 the

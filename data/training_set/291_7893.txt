@@ -149,7 +149,8 @@ health
 disaster
 .
 
-“The
+“
+The
 thousands
 of
 enzyme
@@ -188,7 +189,8 @@ vibrant
 liver
 function
 .
-“The
+“
+The
 proper
 functioning
 of
@@ -221,7 +223,8 @@ activity
 .
 ”
 
-“If
+“
+If
 the
 liver
 is
@@ -718,7 +721,8 @@ To
 learn
 more
 ,
-visit:
+visit
+:
 http://www
 .
 globalhealingcenter

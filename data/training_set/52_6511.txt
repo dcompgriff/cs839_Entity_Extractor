@@ -1,4 +1,5 @@
-Keywords:
+Keywords
+:
 cranberries
 ,
 cranberry
@@ -266,9 +267,11 @@ of
 Manitoba<]>
 advises
 the
-following:
+following
+:
 
-“The
+“
+The
 continuing
 promotion
 of
@@ -506,7 +509,8 @@ one
 problem
 .
 
-“Cranberry
+“
+Cranberry
 juice
 ,
 especially
@@ -569,7 +573,8 @@ Dr
 Boone
 adds
 ,
-“It
+“
+It
 takes
 an
 extremely
@@ -1179,7 +1184,8 @@ trial
 study
 titled
 ,
-“Effect
+“
+Effect
 of
 Cranberry
 Capsules
@@ -1209,4 +1215,5 @@ Association<]>
 You
 might
 also
-like…
+like
+…

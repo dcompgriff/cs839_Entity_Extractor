@@ -26,7 +26,8 @@ they
 may
 have
 been
-off…
+off
+…
 by
 a
 lot
@@ -134,7 +135,8 @@ headlining
 their
 page
 with
-“This
+“
+This
 Is
 Getting
 Scary
@@ -181,10 +183,12 @@ Election
 Coverage
 with
 Alex
-Jones:
+Jones
+:
 
 Live
 Election
 Coverage
 with
-<[>NBC:<]>
+<[>NBC<]>
+:

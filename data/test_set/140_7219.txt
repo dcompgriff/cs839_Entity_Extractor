@@ -3,7 +3,8 @@ A
 poll
 of
 Florida
-found:
+found
+:
 
 Candidates
 who

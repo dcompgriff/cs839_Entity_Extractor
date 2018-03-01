@@ -132,7 +132,8 @@ on
 <[>Facebook<]>
 :
 
-“I
+“
+I
 went
 there
 to
@@ -364,7 +365,8 @@ should
 have
 said
 was
-‘Sir
+‘
+Sir
 I
 am
 sorry
@@ -419,7 +421,8 @@ happened
 Watch
 the
 altercation
-here:
+here
+:
 
 <[>Chili’s<]>
 did
@@ -428,7 +431,8 @@ by
 saying
 :
 
-“We
+“
+We
 are
 aware
 of
@@ -542,7 +546,8 @@ story
 here
 via
 <[>CBS<]>
-DFW:
+DFW
+:
 
 Featured
 image

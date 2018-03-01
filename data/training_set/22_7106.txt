@@ -3,7 +3,8 @@ Us
 Lindsay
 Lohan’s
 Strange
-Accent:
+Accent
+:
 Another
 Telling
 Sign
@@ -186,7 +187,9 @@ the
 subject
 ,
 Lohan
-“joked”
+“
+joked
+”
 and
 gave
 her
@@ -198,7 +201,8 @@ alter
 persona
 )
 a
-name:
+name
+:
 Lilohan
 .
 
@@ -391,7 +395,8 @@ Richardson
 Bonus
 industry
 slave
-sign:
+sign
+:
 One
 Eye
 sign
@@ -432,9 +437,11 @@ increasingly
 appearing
 to
 be
-“out
+“
+out
 of
-it”
+it
+”
 .
 
 Another
@@ -496,7 +503,8 @@ go
 with
 her
 pink
-wig:
+wig
+:
 a
 British
 accent
@@ -529,7 +537,8 @@ K
 inflections
 .
 
-“She
+“
+She
 had
 the
 English
@@ -538,7 +547,8 @@ thing
 going
 the
 whole
-time”
+time
+”
 while
 shopping
 at
@@ -551,7 +561,8 @@ to
 a
 source
 .
-“It
+“
+It
 didn’t
 stop
 .
@@ -586,7 +597,8 @@ at
 the
 paparazzi
 ,
-“Get
+“
+Get
 out
 of
 my
@@ -616,12 +628,14 @@ pink
 wig
 ?
 
-“When
+“
+When
 someone
 has
 dissociative
 identity
-disorder”
+disorder
+”
 –
 formerly
 known
@@ -630,7 +644,8 @@ multiple
 personality
 disorder
 –
-“each
+“
+each
 identity
 is
 split
@@ -657,7 +672,8 @@ not
 treating
 Spears
 .
-“Each
+“
+Each
 identity
 would
 have
@@ -680,8 +696,10 @@ says
 the
 critical
 question
-is:
-“When
+is
+:
+“
+When
 Britney
 uses
 the
@@ -705,7 +723,8 @@ Spears
 ?
 ”
 
-“Otherwise
+“
+Otherwise
 ,
 she
 could
@@ -729,7 +748,8 @@ reason
 adds
 Cohen
 .
-“It’s
+“
+It’s
 foolish
 to
 attempt
@@ -795,7 +815,8 @@ one
 thing
 is
 for
-sure:
+sure
+:
 the
 pink
 wig
@@ -804,7 +825,8 @@ something’s
 changing
 .
 
-“When
+“
+When
 she
 puts
 on
@@ -829,7 +851,8 @@ paparazzo
 .
 
 –
-Source:
+Source
+:
 <[>People
 .
 com<]>
@@ -856,7 +879,8 @@ me
 we
 should
 rather
-wonder:
+wonder
+:
 Why
 would
 a

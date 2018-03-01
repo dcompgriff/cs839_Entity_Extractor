@@ -158,8 +158,10 @@ He
 then
 obtained
 a
-“conditional
-purchase”
+“
+conditional
+purchase
+”
 block
 of
 virgin
@@ -366,7 +368,8 @@ scienceof911
 .
 com
 .
-au/
+au
+/
 
 This
 site
@@ -452,7 +455,8 @@ contributions
 to
 the
 9/11
-debate:
+debate
+:
 He
 was
 a
@@ -1005,7 +1009,8 @@ Pentagon
 Legge
 advocated
 a
-“precautionary
+“
+precautionary
 principle
 ,
 ”
@@ -1029,7 +1034,9 @@ in
 support
 of
 the
-“flyover”
+“
+flyover
+”
 case
 ,
 Legge

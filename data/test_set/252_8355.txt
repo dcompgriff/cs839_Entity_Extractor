@@ -255,7 +255,8 @@ Insider<]>
 depends
 on
 your
-donations:
+donations
+:
 the
 more
 you

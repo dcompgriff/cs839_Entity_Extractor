@@ -1,6 +1,7 @@
 <[>LA
 TIMES<]>
-TUESDAY:
+TUESDAY
+:
 <[>FBI<]>
 Investigators
 had
@@ -19,7 +20,8 @@ now
 hopes
 to
 complete
-'preliminary
+'
+preliminary
 assessment'
 in
 coming

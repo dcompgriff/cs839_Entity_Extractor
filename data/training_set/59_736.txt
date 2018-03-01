@@ -8,7 +8,8 @@ and
 children
 in
 developing
-world…
+world
+…
 .
 combined
 .

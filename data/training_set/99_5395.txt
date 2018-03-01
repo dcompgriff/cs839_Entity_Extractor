@@ -1,4 +1,5 @@
-Region:
+Region
+:
 USA
 in
 the
@@ -356,7 +357,8 @@ methods
 ,
 with
 no
-returns:
+returns
+:
 Establishment
 oppression
 on
@@ -753,7 +755,8 @@ do
 .
 He
 was
-“the
+“
+the
 -
 none
 -
@@ -761,7 +764,8 @@ of
 -
 the
 -
-above”
+above
+”
 candidate
 from
 early
@@ -888,7 +892,8 @@ until
 election
 day
 ,
-“Donald
+“
+Donald
 Trump
 regularly
 incites
@@ -1036,8 +1041,10 @@ him
 .
 Throughout
 his
-“business
-career”
+“
+business
+career
+”
 ,
 if
 repeated
@@ -1509,7 +1516,8 @@ supporters
 behave
 the
 same
-way:
+way
+:
 everyone
 they
 don’t
@@ -1612,7 +1620,9 @@ another
 job
 .
 The
-“people”
+“
+people
+”
 Trump
 would
 be
@@ -1820,7 +1830,8 @@ This
 played
 into
 Trump’s
-hands:
+hands
+:
 it
 brought
 those
@@ -1856,7 +1867,8 @@ this
 will
 be
 followed
-through:
+through
+:
 if
 you
 start
@@ -2038,7 +2050,9 @@ Those
 who
 think
 themselves
-“real”
+“
+real
+”
 Republicans
 will
 be
@@ -2114,7 +2128,9 @@ they
 are
 the
 new
-“Establishment”
+“
+Establishment
+”
 because
 they
 have
@@ -2186,7 +2202,8 @@ intolerant
 ,
 more
 exclusive
-…more
+…
+more
 arbitrary
 .
 If

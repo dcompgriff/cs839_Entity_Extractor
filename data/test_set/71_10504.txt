@@ -1,4 +1,5 @@
-Topics:
+Topics
+:
 Scotland
 ,
 Beer
@@ -129,7 +130,8 @@ friends
 waving
 her
 sixth
-Calvados:
+Calvados
+:
 "
 Sadly
 ,
@@ -163,7 +165,8 @@ personnel
 who
 call
 me
-'the
+'
+the
 cat
 litter
 reporter'
@@ -254,7 +257,8 @@ says
 "
 It
 is
-'Seasonal
+'
+Seasonal
 Affective
 Disorder'
 .
@@ -397,7 +401,8 @@ going
 ?
 Tom
 looks
-defiant:
+defiant
+:
 "
 Not
 very
@@ -500,7 +505,8 @@ finally
 make
 a
 successful
-'duck
+'
+duck
 face'
 ,
 which

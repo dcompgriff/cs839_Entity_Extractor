@@ -13,7 +13,8 @@ oil
 and
 government
 share
-in:
+in
+:
 Central
 banks
 ,
@@ -533,4 +534,5 @@ of
 resources
 .
 
-Sources:
+Sources
+:

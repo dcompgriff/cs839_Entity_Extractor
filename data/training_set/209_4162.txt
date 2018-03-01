@@ -57,7 +57,8 @@ all
 .
 ”
 
-“I
+“
+I
 discovered
 what
 the
@@ -78,7 +79,8 @@ Washington
 he
 explained
 .
-“The
+“
+The
 source
 of
 these
@@ -99,7 +101,8 @@ to
 Washington
 not
 to
-Moscow…
+Moscow
+…
 <[>WikiLeaks<]>
 has
 never
@@ -300,7 +303,8 @@ pretty
 dicey
 ahead
 .
-NOTE:
+NOTE
+:
 ALL
 IMAGE
 CAPTIONS
@@ -343,9 +347,11 @@ and
 contributor
 is
 titled
-“Flashpoint
+“
+Flashpoint
 in
-Ukraine:
+Ukraine
+:
 US
 Drive
 for
@@ -375,7 +381,8 @@ blogspot
 .
 com
 .
-=SUBSCRIBE
+=
+SUBSCRIBE
 TODAY
 !
 NOTHING
@@ -417,7 +424,8 @@ implies
 no
 obligation
 to
-you—
+you
+—
 ever
 .
 We

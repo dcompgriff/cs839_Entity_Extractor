@@ -177,7 +177,8 @@ how
 she
 describes
 her
-situation:
+situation
+:
 
 I
 committed
@@ -476,7 +477,9 @@ signs
 The
 idea
 of
-“cleansing”
+“
+cleansing
+”
 our
 streets
 seemed
@@ -503,7 +506,8 @@ did
 .
 
 “
-Assaulted”
+Assaulted
+”
 ?
 This
 is
@@ -517,7 +521,9 @@ dangerous
 .
 They
 are
-“assaulted”
+“
+assaulted
+”
 by
 ideas
 –
@@ -670,9 +676,12 @@ and
 shame
 –
 she’ll
-“explain”
+“
+explain
+”
 and
-“apologize
+“
+apologize
 .
 ”
 
@@ -758,7 +767,8 @@ She
 writes
 that
 the
-“agitation
+“
+agitation
 and
 fear
 is

@@ -193,7 +193,8 @@ Hispanic
 students
 increasing
 ,
-“the
+“
+the
 challenges
 they
 bring
@@ -277,7 +278,8 @@ citizen
 can
 register
 to
-vote:
+vote
+:
 Social
 services
 agencies
@@ -778,8 +780,10 @@ Nevada
 By
 Cathy
 Mine
-Sources:
-Interview:
+Sources
+:
+Interview
+:
 October
 13
 ,
@@ -790,7 +794,8 @@ Norm
 Ross
 Elect
 Norm
-Ross:
+Ross
+:
 Website
 –
 Issues
@@ -798,7 +803,8 @@ Issues
 Vegas
 Review
 -
-Journal<]>:
+Journal<]>
+:
 Clark
 County
 School
@@ -811,7 +817,8 @@ Hispanics
 leading
 the
 trend
-<[>Ballotpedia:<]>
+<[>Ballotpedia<]>
+:
 Public
 Policy
 in

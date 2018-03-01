@@ -93,7 +93,8 @@ Clinton
 Now
 that
 she
-lost…
+lost
+…
 
 He
 is
@@ -268,7 +269,8 @@ Democratic
 strategist
 said
 the
-following:
+following
+:
 
 The
 <[>DA<]>
@@ -285,7 +287,8 @@ one
 Democratic
 strategist
 .
-“You
+“
+You
 can
 make
 a

@@ -439,7 +439,8 @@ Karl
 Olson
 wrote
 of
-Klausner:
+Klausner
+:
 
 This
 isn’t
@@ -826,7 +827,8 @@ the
 end
 of
 the
-post:
+post
+:
 
 The
 Chief
@@ -953,7 +955,8 @@ page
 of
 the
 document
-below:
+below
+:
 
 First
 ,
@@ -1216,9 +1219,11 @@ Notice
 the
 use
 of
-“exclusive
+“
+exclusive
 and
-“sole
+“
+sole
 and
 exclusive
 .
@@ -1347,15 +1352,19 @@ job
 series
 ,
 from
-“Associate
+“
+Associate
 Pension
-Actuary”
+Actuary
+”
 through
 and
 including
-“Supervising
+“
+Supervising
 Pension
-Actuary”
+Actuary
+”
 require
 that
 the
@@ -1421,13 +1430,15 @@ instead
 be
 satisfied
 by
-“Membership
+“
+Membership
 in
 the
 <[>American
 Academy
 of
-Actuaries”<]>
+Actuaries<]>
+”
 .
 What
 ,
@@ -1436,10 +1447,12 @@ tell
 ,
 is
 the
-<[>“American
+“
+<[>American
 Academy
 of
-Actuaries”<]>
+Actuaries<]>
+”
 ?
 
 It
@@ -1474,20 +1487,24 @@ a
 member
 of
 the
-<[>“Conference
+“
+<[>Conference
 of
 Consulting
-Actuaries”<]>
+Actuaries<]>
+”
 which
 in
 turn
 allows
 for
-“Membership
+“
+Membership
 for
 NonSOA/CAS
 Credentialed
-Actuaries”
+Actuaries
+”
 
 All
 actuaries
@@ -1630,7 +1647,9 @@ Associate
 not
 a
 mere
-“Member”
+“
+Member
+”
 .
 
 Needless
@@ -1968,7 +1987,9 @@ of
 cost
 of
 allowing
-“badges”
+“
+badges
+”
 as
 in
 mainly

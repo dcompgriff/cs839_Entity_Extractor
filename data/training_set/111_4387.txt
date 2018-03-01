@@ -470,7 +470,8 @@ Bredsen
 considers
 it
 a
-“perfect
+“
+perfect
 fit
 .
 ”
@@ -526,9 +527,11 @@ be
 remedied
 without
 pharmaceutical
-drugs:
+drugs
+:
 
-Inflammation:
+Inflammation
+:
 This
 can
 be
@@ -543,7 +546,8 @@ by
 environmental
 toxins
 such
-as:
+as
+:
 Mercury
 –
 dental
@@ -593,8 +597,10 @@ up
 the
 potential
 for
-“nasal
-probiotics”
+“
+nasal
+probiotics
+”
 Excess
 simple
 carbohydrate
@@ -657,7 +663,8 @@ Source
 
 Insufficient
 Brain
-Nutrients:
+Nutrients
+:
 Lacking
 these
 nutrients
@@ -671,7 +678,8 @@ function
 ,
 among
 them
-are:
+are
+:
 Vitamin
 D
 –
@@ -768,7 +776,8 @@ statins
 Source
 )
 
-Toxins:
+Toxins
+:
 Some
 are
 already
@@ -898,7 +907,8 @@ It
 has
 been
 medical
-“common
+“
+common
 knowledge
 .
 ”
@@ -1249,7 +1259,8 @@ was
 part
 of
 the
-“Fat
+“
+Fat
 Summit
 ,
 ”
@@ -1295,7 +1306,8 @@ health
 Source
 )
 
-Note:
+Note
+:
 The
 Fat
 Summit
@@ -1319,4 +1331,5 @@ Source
 links
 for
 more
-information:
+information
+:

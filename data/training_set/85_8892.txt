@@ -247,7 +247,8 @@ the
 Mr
 .
 McCabe
-“played
+“
+played
 no
 role
 ,
@@ -325,4 +326,5 @@ From
 Hillary’s
 People
 Share
-this:
+this
+:

@@ -27,7 +27,8 @@ Oct
 ,
 2016
 .
-Source:
+Source
+:
 <[>Reuters<]>
 
 Madrid
@@ -120,7 +121,8 @@ a
 sealed
 envelope
 marked
-'Top
+'
+Top
 Secret'
 .
 "
@@ -386,7 +388,8 @@ accepting
 the
 visits
 was
-'the
+'
+the
 safety
 of
 the
@@ -598,7 +601,8 @@ different
 accent
 on
 the
-incident:
+incident
+:
 According
 to
 him
@@ -720,7 +724,8 @@ such
 statements
 .
 Russian
-experts:
+experts
+:
 Cruiser
 is
 on
@@ -753,7 +758,8 @@ of
 the
 Admiral
 Kuznetsov
-'s
+'
+s
 route
 as
 a
@@ -878,12 +884,14 @@ one
 he
 said
 .
-“The
+“
+The
 purpose
 of
 the
 Kuznetsov
-'s
+'
+s
 mission
 is
 likely
@@ -922,7 +930,8 @@ that
 the
 Admiral
 Kuznetsov
-'s
+'
+s
 mission
 has
 "

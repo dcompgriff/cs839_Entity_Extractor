@@ -1,4 +1,5 @@
-UNREAL:
+UNREAL
+:
 Calif
 .
 Soldiers
@@ -88,7 +89,8 @@ be
 funded
 .
 
-“Here
+“
+Here
 we
 have
 a
@@ -114,7 +116,8 @@ dysphoria
 he
 wrote
 .
-“I
+“
+I
 just
 want
 to
@@ -171,7 +174,8 @@ cities
 and
 on
 importing
-“tens
+“
+tens
 of
 thousands
 of
@@ -186,7 +190,8 @@ benefits
 .
 ”
 
-“Why
+“
+Why
 not
 cut
 that
@@ -207,7 +212,8 @@ served
 West
 wrote
 .
-“This
+“
+This
 has
 been
 10
@@ -227,7 +233,8 @@ lives
 ?
 ”
 
-“They
+“
+They
 did
 nothing
 wrong
@@ -265,7 +272,8 @@ bureaucrats
 he
 continued
 .
-“Is
+“
+Is
 this
 truly
 how

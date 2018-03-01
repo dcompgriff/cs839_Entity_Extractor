@@ -58,7 +58,8 @@ safe
 Just
 a
 little
-background:
+background
+:
 this
 has
 been
@@ -119,7 +120,8 @@ Hills
 Arizona
 .
 
-“As
+“
+As
 for
 who
 these
@@ -143,7 +145,8 @@ campaign<]>
 Horner
 said
 .
-“The
+“
+The
 actual
 check
 I
@@ -160,7 +163,8 @@ from
 a
 group
 called
-<[>‘Women
+‘
+<[>Women
 Are
 The
 Future’<]>
@@ -206,7 +210,8 @@ is
 Horner
 continued
 ,
-“It
+“
+It
 was
 mostly
 women
@@ -230,7 +235,8 @@ report
 goes
 on
 to
-say:
+say
+:
 
 When
 asked
@@ -259,7 +265,8 @@ the
 rally
 .
 
-“Almost
+“
+Almost
 all
 of
 the
@@ -362,7 +369,8 @@ boxing
 a
 few
 years
-back”
+back
+”
 
 You
 can
@@ -389,7 +397,8 @@ campaign<]>
 caused
 disruptions
 via
-“bird
+“
+bird
 -
 dogging
 .
@@ -565,7 +574,8 @@ Leaks<]>
 referred
 to
 as
-“the
+“
+the
 architect
 and
 sponsor
@@ -582,7 +592,8 @@ for
 the
 last
 25
-years”
+years
+”
 is
 a
 pro
@@ -614,7 +625,8 @@ findings
 in
 the
 Soros
-leak:
+leak
+:
 
 The
 documents
@@ -677,9 +689,11 @@ Africa
 the
 <[>World
 Bank<]>
-“the
+“
+the
 President’s
-Office”
+Office
+”
 ,
 as
 well
@@ -719,7 +733,8 @@ such
 as
 “
 EUROPEAN
-CRISIS:
+CRISIS
+:
 Key
 Developments
 of
@@ -851,9 +866,11 @@ siege
 The
 <[>Washington
 Times<]>
-reported:
+reported
+:
 
-…liberal
+…
+liberal
 billionaire
 George
 Soros
@@ -985,7 +1002,8 @@ his
 nonprofit
 <[>Open
 Society
-Foundations…<]>
+Foundations<]>
+…
 EVERYDAY
 CARRY
 GEAR
@@ -1043,7 +1061,8 @@ inception
 in
 the
 early
-’90s
+’
+90s
 ,
 and
 that
@@ -1079,7 +1098,8 @@ Open
 Society
 .
 
-“The
+“
+The
 incidents
 ,
 whether
@@ -1118,7 +1138,8 @@ Mr
 Zimmerman
 said
 .
-“But
+“
+But
 these
 circumstances
 focused
@@ -1284,7 +1305,9 @@ echo
 chamber
 of
 <[>Facebook<]>
-“likes”
+“
+likes
+”
 and
 <[>Twitter<]>
 hashtags
@@ -1390,7 +1413,8 @@ and
 foundation<]>
 also
 fund
-“social
+“
+social
 activism
 .
 ”
@@ -1399,7 +1423,8 @@ is
 kabillionaire
 code
 for
-“mess
+“
+mess
 stuff
 up
 and
@@ -1457,9 +1482,11 @@ and
 is
 funded
 by
-…you
+…
+you
 guessed
-it:
+it
+:
 George
 Soros
 .
@@ -1701,4 +1728,5 @@ at
 email
 protected
 ]
-Share:
+Share
+:

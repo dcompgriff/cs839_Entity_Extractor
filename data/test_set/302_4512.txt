@@ -13,7 +13,8 @@ October
 28
 ,
 2016
-‘I
+‘
+I
 Could
 Sue
 You’:
@@ -160,7 +161,8 @@ about
 the
 inner
 city
-“ghettos
+“
+ghettos
 .
 ”
 She
@@ -179,7 +181,8 @@ is
 not
 looking
 at
-“the
+“
+the
 whole
 of
 the
@@ -230,7 +233,8 @@ she
 says
 ,
 
-“I
+“
+I
 think
 it’s
 really
@@ -324,7 +328,9 @@ the
 creation
 of
 the
-“ghettos”
+“
+ghettos
+”
 which
 he
 now
@@ -398,7 +404,8 @@ cuts
 in
 ,
 remarking
-“And
+“
+And
 [
 she
 ]
@@ -482,7 +489,8 @@ to
 the
 charge
 she
-“ran
+“
+ran
 the
 <[>CBC<]>
 into
@@ -491,9 +499,11 @@ ground
 ,
 ”
 Rye
-says:
+says
+:
 
-“That’s
+“
+That’s
 slander
 .
 I
@@ -519,7 +529,8 @@ of
 words
 ,
 via
-YouTube:
+YouTube
+:
 
 Featured
 image

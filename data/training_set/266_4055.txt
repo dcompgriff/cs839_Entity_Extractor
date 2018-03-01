@@ -13,7 +13,8 @@ OATH
 SHE
 GAVE
 UP
-‘ALL
+‘
+ALL
 THE
 DEVICES’
 WITH
@@ -29,7 +30,8 @@ OATH
 SHE
 GAVE
 UP
-‘ALL
+‘
+ALL
 THE
 DEVICES’
 WITH
@@ -240,7 +242,8 @@ by
 Watch<]>
 .
 
-“There’s
+“
+There’s
 nothing
 that
 she’s
@@ -259,7 +262,8 @@ with
 respect
 to
 this
-investigation…
+investigation
+…
 we
 fully
 stand
@@ -366,7 +370,8 @@ the
 .
 )
 
-“How
+“
+How
 did
 you
 go
@@ -400,7 +405,8 @@ asked
 her
 .
 
-“I
+“
+I
 looked
 for
 all

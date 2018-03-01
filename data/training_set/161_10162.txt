@@ -6,7 +6,8 @@ Someone
 really
 likes
 Kit
-Kats…
+Kats
+…
 Some
 people
 might
@@ -25,4 +26,5 @@ others
 have
 more
 specific
-motives…
+motives
+…

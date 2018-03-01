@@ -27,7 +27,8 @@ health
 -
 natural
 -
-way/
+way
+/
 
 By
 Jade
@@ -44,7 +45,8 @@ at
 12:09pm
 EDT
 
-Keywords:
+Keywords
+:
 best
 foods
 for
@@ -222,7 +224,8 @@ critical
 for
 maintaining
 healthy
-eyes:
+eyes
+:
 Lutein
 ,
 zeaxanthin
@@ -846,7 +849,8 @@ better
 
 About
 the
-author:
+author
+:
 
 Jade
 Rich
@@ -942,4 +946,5 @@ visual
 acuity
 .
 
-Sources:
+Sources
+:

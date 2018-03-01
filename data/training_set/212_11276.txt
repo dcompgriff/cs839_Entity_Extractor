@@ -3,8 +3,10 @@ U
 S
 .
 Army
-Veteran:
-‘I
+Veteran
+:
+‘
+I
 Killed
 Four
 People
@@ -30,7 +32,8 @@ Lebonte
 ,
 known
 as
-‘Bone’
+‘
+Bone’
 to
 his
 fellow

@@ -250,7 +250,8 @@ Conway
 said
 on
 <[>Fox
-News<]>:
+News<]>
+:
 
 What
 we
@@ -337,7 +338,9 @@ together
 to
 bleach
 this
-“stain”
+“
+stain
+”
 from
 the
 White

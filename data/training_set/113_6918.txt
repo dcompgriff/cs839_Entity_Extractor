@@ -48,7 +48,8 @@ National
 Bird
 has
 it
-right:
+right
+:
 the
 national
 bird
@@ -1234,7 +1235,8 @@ Lie
 "
 and
 "
-Daybreak:
+Daybreak
+:
 Undoing
 the
 Imperial

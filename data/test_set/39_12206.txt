@@ -76,7 +76,8 @@ to
 prevent
 such
 a
-sequel:
+sequel
+:
 
 First
 thing
@@ -103,7 +104,8 @@ entire
 annual
 revenue
 on
-‘military
+‘
+military
 stuff’
 .
 After
@@ -245,7 +247,8 @@ any
 World
 War
 .
-NOTE:
+NOTE
+:
 Best
 done
 in
@@ -535,7 +538,8 @@ the
 same
 .
 Call
-it:
+it
+:
 a
 practice
 run

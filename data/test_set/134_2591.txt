@@ -22,7 +22,9 @@ attending
 the
 Broadway
 Musical
-“Hamilton”
+“
+Hamilton
+”
 on
 Friday
 night
@@ -81,9 +83,11 @@ and
 then
 said
 the
-following:
+following
+:
 
-“We
+“
+We
 ,
 sir
 —
@@ -155,9 +159,11 @@ Dixon
 was
 asked
 on
-<[>“CBS<]>
+“
+<[>CBS<]>
 This
-Morning”
+Morning
+”
 Monday
 about
 the
@@ -181,18 +187,22 @@ say
 that
 Pence
 was
-“harassed”
+“
+harassed
+”
 and
 that
 the
 cast
 was
-“very
+“
+very
 rude
 .
 ”
 
-“The
+“
+The
 president
 -
 elect
@@ -215,7 +225,8 @@ morning
 interview
 .
 
-“I
+“
+I
 heard
 ,
 ”
@@ -223,7 +234,8 @@ Dixon
 responded
 .
 
-“We
+“
+We
 assume
 that
 no
@@ -236,7 +248,8 @@ Rose
 asked
 .
 
-“There
+“
+There
 is
 nothing
 to
@@ -254,7 +267,8 @@ added
 that
 this
 is
-“certainly
+“
+certainly
 not
 the
 first
@@ -289,14 +303,17 @@ show
 ”
 
 Dixon’s
-<[>“CBS<]>
+“
+<[>CBS<]>
 This
-Morning”
+Morning
+”
 interview
 can
 be
 seen
-below:
+below
+:
 
 Sign
 up

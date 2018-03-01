@@ -1,8 +1,10 @@
-in:
+in
+:
 General
 Health
 (
-image:
+image
+:
 shutterstock
 )
 Few
@@ -315,9 +317,11 @@ author
 of
 the
 <[>HNRCA<]>
-study:
+study
+:
 
-“We
+“
+We
 saw
 ,
 by
@@ -420,7 +424,8 @@ popular
 brands
 of
 prenatal
-vitamins>
+vitamins
+>
 contain
 significantly
 larger
@@ -533,4 +538,5 @@ very
 young
 children
 .
-References:
+References
+:

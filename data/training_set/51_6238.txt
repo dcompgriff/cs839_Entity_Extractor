@@ -71,7 +71,8 @@ Lambert
 via
 e
 -
-mail:
+mail
+:
 
 By
 Comey’s
@@ -86,7 +87,8 @@ there
 must
 have
 been
-“new
+“
+new
 and
 substantial
 information
@@ -128,12 +130,15 @@ have
 been
 quite
 some
-“briefing
+“
+briefing
 .
 ”
 
-Also:
-“Yesterday
+Also
+:
+“
+Yesterday
 ,
 the
 investigative
@@ -208,7 +213,8 @@ campaign’s
 talking
 point
 of
-“We
+“
+We
 don’t
 know
 what’s
@@ -224,7 +230,8 @@ sake
 of
 the
 American
-people”
+people
+”
 is
 bullshit
 ,
@@ -276,7 +283,8 @@ explain
 renewed
 email
 inquiry
-‘without
+‘
+without
 delay
 <[>Washington
 Post<]>

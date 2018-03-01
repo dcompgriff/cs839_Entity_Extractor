@@ -153,7 +153,8 @@ poll
 in
 today's
 Liberty
-Report:
+Report
+:
 Copyright
 2016
 by

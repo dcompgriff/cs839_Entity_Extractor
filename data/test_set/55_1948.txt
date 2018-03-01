@@ -32,8 +32,10 @@ and
 the
 Roman
 Empire
-began:
-“Two
+began
+:
+“
+Two
 things
 only
 the
@@ -73,7 +75,8 @@ is
 part
 of
 the
-Circuses…
+Circuses
+…
 You
 should
 worry
