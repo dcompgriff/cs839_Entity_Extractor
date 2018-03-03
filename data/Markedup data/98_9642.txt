@@ -110,7 +110,8 @@ a
 top
 Clinton
 fundraiser
-–who
+–
+who
 just
 happens
 to
@@ -121,7 +122,8 @@ for
 the
 Puerto
 Rican
-treasury—
+treasury
+—
 emailed
 his
 brother
@@ -284,7 +286,8 @@ a
 subject
 line
 of
-“Puerto
+“
+Puerto
 Rico
 .
 ”
@@ -295,7 +298,8 @@ the
 email
 asked
 ,
-“Can
+“
+Can
 you
 call
 me
@@ -391,7 +395,9 @@ brother
 emailed
 him
 seeking
-“advice”
+“
+advice
+”
 and
 after
 his
@@ -405,7 +411,8 @@ $
 9
 million
 for
-“services
+“
+services
 .
 ”
 
@@ -417,7 +424,8 @@ be
 ?
 Could
 they
-be…
+be
+…
 using
 one’s
 connections
@@ -512,9 +520,11 @@ $
 ,
 000
 to
-–surprise
+–
+surprise
 ,
-surprise–
+surprise
+–
 The
 <[>Clinton
 Foundation<]>
@@ -548,7 +558,9 @@ exchange
 for
 favors
 ,
-…allegedly…
+…
+allegedly
+…
 have
 there
 been
@@ -838,8 +850,10 @@ suspicion
 is
 that
 our
-“mainstream
-media”
+“
+mainstream
+media
+”
 is
 equally
 corrupt

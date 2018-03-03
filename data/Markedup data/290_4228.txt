@@ -748,9 +748,11 @@ Edited
 by
 Jeanette
 Smith
-Sources:
+Sources
+:
 <[>CBN
-News:<]>
+News<]>
+:
 What
 Researchers
 Found
@@ -760,7 +762,8 @@ Tomb
 of
 Jesus
 Live
-Science:
+Science
+:
 Original
 Bedrock
 of
@@ -771,8 +774,10 @@ in
 New
 Images
 <[>National
-Geographic:<]>
-Exclusive:
+Geographic<]>
+:
+Exclusive
+:
 Christ’s
 Burial
 Place
@@ -806,7 +811,8 @@ O
 .
 P
 .
-’s
+’
+s
 Flickr
 Page
 –

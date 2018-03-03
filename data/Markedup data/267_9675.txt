@@ -1,6 +1,7 @@
 You
 are
-here:
+here
+:
 Home
 /
 US
@@ -93,12 +94,14 @@ incorrect
 claim
 that
 the
-“life
+“
+life
 and
 health
 of
 the
-mother”
+mother
+”
 is
 often
 at
@@ -108,7 +111,8 @@ such
 cases
 .
 
-“The
+“
+The
 kinds
 of
 cases
@@ -178,7 +182,8 @@ Clinton’s
 dangerous
 and
 incorrect
-statements:
+statements
+:
 
 The
 first
@@ -203,11 +208,13 @@ abortions
 for
 fetal
 abnormalities
-“make
+“
+make
 up
 a
 small
-minority”
+minority
+”
 of
 late
 -
@@ -497,7 +504,8 @@ and
 partial
 -
 birth
-abortion:
+abortion
+:
 
 Most
 late

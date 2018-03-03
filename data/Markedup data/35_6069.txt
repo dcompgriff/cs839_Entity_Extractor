@@ -218,7 +218,8 @@ com/5q4l04b5pM
 Jim
 Acosta
 (
-@Acosta
+@
+Acosta
 )
 October
 31
@@ -418,9 +419,11 @@ voters
 actually
 believing
 the
-“hope
+“
+hope
 and
-change”
+change
+”
 spiel
 voted
 for
@@ -454,8 +457,10 @@ will
 change
 during
 his
-“lame
-duck”
+“
+lame
+duck
+”
 months
 ,
 freeloaders

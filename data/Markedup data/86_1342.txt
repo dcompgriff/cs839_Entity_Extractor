@@ -7,7 +7,8 @@ Regarding
 Facial
 Recognition
 Technology
-‘DeepFace’
+‘
+DeepFace’
 
 
 Michael
@@ -169,7 +170,8 @@ and
 regulations
 .
 
-“Looking
+“
+Looking
 at
 the
 sum
@@ -212,7 +214,8 @@ the
 told
 <[>Vocativ<]>
 .
-“So
+“
+So
 we
 find
 ourselves
@@ -286,7 +289,8 @@ some
 of
 what
 we
-learned:
+learned
+:
 
 While
 millions
@@ -499,7 +503,9 @@ litigation
 encourages
 users
 to
-“tag”
+“
+tag
+”
 people
 in
 photographs
@@ -535,8 +541,8 @@ a
 person
 .
 <[>Alphabet
-Inc
-.'s<]>
+Inc<]>
+.'s
 cloud
 -
 based
@@ -635,7 +641,8 @@ the
 privacy
 concerns
 are
-twofold:
+twofold
+:
 <[>Facebook<]>
 might
 sell
@@ -860,4 +867,5 @@ on
 the
 topic
 ,
-see:
+see
+:

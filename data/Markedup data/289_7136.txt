@@ -21,7 +21,8 @@ a
 week
 -
 long
-“shit
+“
+shit
 -
 in
 ,
@@ -56,11 +57,13 @@ Tuesday
 that
 administrators
 had
-“tentatively
+“
+tentatively
 agreed
 to
 progressive
-‘benchmarks’
+‘
+benchmarks’
 put
 forth
 by
@@ -91,7 +94,8 @@ a
 week
 -
 long
-“shit
+“
+shit
 -
 in
 ,
@@ -135,7 +139,9 @@ the
 activists
 have
 nicknamed
-“Queermore”
+“
+Queermore
+”
 )
 ,
 and
@@ -172,7 +178,8 @@ ending
 .
 
 
-“Maybe
+“
+Maybe
 [
 administrators
 ]
@@ -257,7 +264,8 @@ to
 share
 one
 with
-“other
+“
+other
 sitters
 .
 ”
@@ -296,7 +304,8 @@ group
 believes
 will
 promote
-“trans
+“
+trans
 inclusivity
 and
 safety
@@ -340,7 +349,8 @@ is
 calling
 for
 the
-“advancement
+“
+advancement
 of
 medically
 and
@@ -364,22 +374,23 @@ as
 well
 as
 the
-“hiring
+“
+hiring
 of
 a
 professor
 by
 the
-WGSS
+<[>WGSS<]>
 [
 Women
 ,
 Gender
 ,
 and
-Sexuality
+<[>Sexuality
 Studies
-Department
+Department<]>
 ]
 who
 is
@@ -421,7 +432,8 @@ the
 protesters
 
 
-“These
+“
+These
 demands
 are
 elementary
@@ -470,7 +482,8 @@ the
 message
 declares
 .
-“In
+“
+In
 the
 meantime
 ,
@@ -533,9 +546,11 @@ their
 interest
 in
 the
-“shit
+“
+shit
 -
-in”
+in
+”
 by
 asserting
 that
@@ -547,7 +562,8 @@ interrelated
 ,
 saying
 ,
-“There
+“
+There
 can
 be
 no
@@ -631,11 +647,13 @@ evening
 that
 administrators
 had
-“tentatively
+“
+tentatively
 agreed
 to
 progressive
-‘benchmarks’
+‘
+benchmarks’
 put
 forth
 by
@@ -644,7 +662,8 @@ organizers
 ”
 
 
-“The
+“
+The
 administration
 is
 definitely
@@ -681,7 +700,8 @@ remain
 prepared
 ,
 because
-“the
+“
+the
 need
 for
 action
@@ -694,7 +714,8 @@ moment
 ”
 
 
-“Changing
+“
+Changing
 the
 signage
 really
@@ -745,7 +766,8 @@ another
 member
 added
 .
-“I
+“
+I
 and
 other
 members
@@ -833,7 +855,8 @@ concerns
 .
 
 
-“Currently
+“
+Currently
 ,
 there
 are
@@ -872,12 +895,15 @@ converting
 single
 -
 user
-‘Men’
+‘
+Men’
 or
-‘Women’
+‘
+Women’
 facilities
 to
-‘Restrooms
+‘
+Restrooms
 ,
 ’”
 he
@@ -885,7 +911,8 @@ explained
 ,
 adding
 that
-“All
+“
+All
 new
 construction
 and

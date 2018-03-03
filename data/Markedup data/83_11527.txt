@@ -433,7 +433,8 @@ of
 the
 city
 .
-“We
+“
+We
 came
 to
 control
@@ -444,7 +445,8 @@ situation
 he
 said
 .
-“We
+“
+We
 expect
 to
 withdraw
@@ -463,7 +465,8 @@ Peshmerga
 ,
 but
 not
-all:
+all
+:
 13
 years
 later
@@ -814,8 +817,10 @@ the
 so
 -
 called
-“disputed
-territories”
+“
+disputed
+territories
+”
 claimed
 by
 both

@@ -85,7 +85,8 @@ Deal
 With
 China
 to
-'Ease
+'
+Ease
 Tensions
 in
 the
@@ -236,7 +237,8 @@ Malaysia
 .
 ©
 <[>AP<]>
-Photo/
+Photo
+/
 Bullit
 Marquez
 China
@@ -390,12 +392,14 @@ Russia
 .
 "
 ©
-<[>Flickr/<]>
+<[>Flickr<]>
+/
 <[>Naval
 Surface
 Warriors<]>
 Waning
-Influence:
+Influence
+:
 Washington
 Losing
 Its

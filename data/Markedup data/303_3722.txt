@@ -225,7 +225,9 @@ firm
 labeled
 as
 a
-“bonus”
+“
+bonus
+”
 that
 exactly
 equaled
@@ -362,7 +364,9 @@ $
 million
 listed
 as
-“bonuses”
+“
+bonuses
+”
 in
 <[>Thornton
 Law

@@ -311,7 +311,8 @@ uselessly
 keep
 doing
 for
-women:
+women
+:
 1
 .
 Fighting
@@ -534,7 +535,9 @@ the
 opportunity
 to
 be
-“alpha”
+“
+alpha
+”
 and
 dominate
 over
@@ -650,7 +653,8 @@ stopped
 working
 .
 
-Remember:
+Remember
+:
 a
 woman
 can

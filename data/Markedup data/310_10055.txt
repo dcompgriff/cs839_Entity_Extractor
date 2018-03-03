@@ -133,7 +133,8 @@ Native
 American
 stereotype
 .
-Report:
+Report
+:
 Election
 Day
 Most

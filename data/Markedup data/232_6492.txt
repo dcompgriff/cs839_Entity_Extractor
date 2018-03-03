@@ -8,9 +8,8 @@ the
 Natural
 Way
 Ad
-728×90
-–
-HBS
+728
+<[>HBS<]>
 Account
 –
 2149237058061490
@@ -28,7 +27,8 @@ health
 -
 natural
 -
-way/
+way
+/
 
 By
 Jade
@@ -45,7 +45,8 @@ at
 12:09pm
 EDT
 
-Keywords:
+Keywords
+:
 best
 foods
 for
@@ -223,7 +224,8 @@ critical
 for
 maintaining
 healthy
-eyes:
+eyes
+:
 Lutein
 ,
 zeaxanthin
@@ -847,7 +849,8 @@ better
 
 About
 the
-author:
+author
+:
 
 Jade
 Rich
@@ -943,4 +946,5 @@ visual
 acuity
 .
 
-Sources:
+Sources
+:

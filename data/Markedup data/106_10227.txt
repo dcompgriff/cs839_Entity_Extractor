@@ -7,8 +7,10 @@ November
 ,
 2016
 10:38am
-URL:
-Embed:
+URL
+:
+Embed
+:
 
 With
 two
@@ -87,7 +89,8 @@ Subscribe
 to
 <[>VICE
 News<]>
-here:
+here
+:
 http://bit
 .
 ly/Subscribe
@@ -96,13 +99,13 @@ to
 -
 <[>VICE
 News<]>
-
 Check
 out
 <[>VICE
 News<]>
 for
-more:
+more
+:
 http://vicenews
 .
 com
@@ -110,4 +113,5 @@ com
 Follow
 <[>VICE
 News<]>
-here:
+here
+:

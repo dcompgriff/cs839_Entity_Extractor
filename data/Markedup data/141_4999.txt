@@ -75,7 +75,8 @@ political
 manipulation
 .
 <[>NBC<]>
-reports:
+reports
+:
 
 The
 <[>FBI<]>
@@ -106,7 +107,8 @@ on
 Friday
 .
 
-“In
+“
+In
 connection
 with
 an

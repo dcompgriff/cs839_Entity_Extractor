@@ -87,7 +87,8 @@ thinking
 someone
 it
 takes
-‘the
+‘
+the
 russians’
 to
 get
@@ -107,7 +108,8 @@ Russia
 hacking
 anything
 is
-‘we
+‘
+we
 think
 it
 is
@@ -216,9 +218,11 @@ Warehouse
 in
 Columbus
 ,
-Ohio…
+Ohio
+…
 .
-.now
+.
+now
 in
 the
 possession
@@ -405,9 +409,11 @@ LIKE
 ,
 <[>TWITTER<]>
 ,
-ETC…
+ETC
+…
 .
-.TO
+.
+TO
 TRY
 TO
 DEBUNK
@@ -429,7 +435,8 @@ OH
 AND
 BY
 THE
-WAY:
+WAY
+:
 TRUMP
 IS
 UP

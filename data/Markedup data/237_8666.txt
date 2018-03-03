@@ -15,7 +15,8 @@ Hedge
 .
 
 Editor’s
-Comment:
+Comment
+:
 Though
 his
 administration
@@ -221,8 +222,10 @@ CEO
 complained
 of
 the
-“huge
-impact”
+“
+huge
+impact
+”
 of
 Donald
 Trump’s
@@ -256,7 +259,8 @@ Michigan
 Donald
 Trump
 tweeted
-“Just
+“
+Just
 got
 a
 call
@@ -292,7 +296,8 @@ seemingly
 winning
 his
 first
-‘america
+‘
+america
 -
 first’
 victory
@@ -402,7 +407,8 @@ interview
 he
 said
 ,
-“We
+“
+We
 all
 share
 the
@@ -515,7 +521,8 @@ later
 ,
 Donald
 Trump
-tweeted…
+tweeted
+…
 Just
 got
 a
@@ -552,7 +559,8 @@ J
 .
 Trump
 (
-@realDonaldTrump
+@
+realDonaldTrump
 )
 November
 18
@@ -595,7 +603,8 @@ J
 .
 Trump
 (
-@realDonaldTrump
+@
+realDonaldTrump
 )
 November
 18
@@ -613,7 +622,8 @@ from
 <[>Ford<]>
 confirming
 Trump’s
-comment…
+comment
+…
 This
 article
 was

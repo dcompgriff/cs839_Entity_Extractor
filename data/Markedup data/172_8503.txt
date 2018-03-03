@@ -62,7 +62,8 @@ The
 <[>Blue
 Dog
 Coalition<]>
-—represents
+—
+represents
 conservative
 Democrats
 who
@@ -94,7 +95,8 @@ Dems
 ·
 Mainstream
 Republicans
-—are
+—
+are
 all
 over
 the
@@ -153,7 +155,8 @@ boundaries
 .
 ·
 Indies
-—comprise
+—
+comprise
 the
 big
 chunk
@@ -237,7 +240,8 @@ foibles
 Donald
 Trump
 is
-right:
+right
+:
 the
 system
 is
@@ -614,7 +618,8 @@ If
 Hillary
 Clinton
 is
-“elected
+“
+elected
 ,
 ”
 her
@@ -652,8 +657,10 @@ And
 if
 the
 <[>FBI<]>
-“gets
-religion”
+“
+gets
+religion
+”
 this
 time
 around
@@ -1107,7 +1114,8 @@ So
 ,
 let’s
 get
-‘er
+‘
+er
 done
 !
 SF
@@ -1117,4 +1125,5 @@ Oct
 .
 2016
 Share
-this:
+this
+:

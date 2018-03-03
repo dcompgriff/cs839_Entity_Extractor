@@ -119,7 +119,9 @@ cannabis
 market
 through
 its
-”mission”
+”
+mission
+”
 to
 create
 a
@@ -166,7 +168,8 @@ VoteNoOn64
 —
 David
 (
-@rskls
+@
+rskls
 )
 September
 6
@@ -214,8 +217,10 @@ business
 practices
 .
 Leafly
-notes:
-“The
+notes
+:
+“
+The
 worry
 is
 that
@@ -402,7 +407,8 @@ shared
 his
 intention
 to
-“invest
+“
+invest
 ,
 like
 ,
@@ -412,7 +418,8 @@ billion
 in
 the
 pot
-business”
+business
+”
 with
 <[>Forbes<]>
 in
@@ -433,7 +440,8 @@ and
 garden
 .
 <[>Forbes<]>
-reports:
+reports
+:
 <[>Scotts
 Miracle
 -

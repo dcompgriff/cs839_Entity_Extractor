@@ -39,7 +39,8 @@ packed
 talk
 radio
 on
-ACR…
+ACR
+…
 
 LISTEN
 LIVE
@@ -51,7 +52,8 @@ THE
 FOLLOWING
 SCHEDULED
 SHOW
-TIMES:
+TIMES
+:
 
 SUNDAYS
 –
@@ -264,10 +266,12 @@ is
 your
 brave
 new
-world…
+world
+…
 
 *
-NOTE:
+NOTE
+:
 THIS
 EPISODE
 MAY

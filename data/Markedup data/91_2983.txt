@@ -4,7 +4,8 @@ October
 2016
 Likud
 deputy
-minister:
+minister
+:
 Italy
 earthquakes
 retribution

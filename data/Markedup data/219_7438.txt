@@ -5,17 +5,18 @@ office
 sealed
 
 
-Source:
+Source
+:
 <[>Amnesty
 .
 org<]>
 .
 ru
 The
-Department
+<[>Department
 for
-Property
-of
+Property<]>
+created
 the
 City
 of
@@ -229,7 +230,7 @@ International<]>
 is
 an
 international
-NGO
+<[>NGO<]>
 based
 in
 the

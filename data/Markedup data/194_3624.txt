@@ -48,7 +48,6 @@ allies
 voiced
 concern
 .
-
 <[>NATO<]>
 is
 concerned
@@ -141,7 +140,8 @@ their
 promises
 .
 
-“Where
+“
+Where
 is
 the
 disengagement
@@ -161,7 +161,8 @@ Putin
 asked
 .
 
-“So
+“
+So
 far
 we
 have
@@ -247,7 +248,9 @@ The
 group
 has
 two
-“oilers”
+“
+oilers
+”
 (
 tankers
 )
@@ -293,7 +296,8 @@ foreign
 ministry<]>
 .
 
-“Given
+“
+Given
 the
 information
 which
@@ -395,7 +399,6 @@ in
 Spanish
 ports
 .
-
 <[>NATO<]>
 had
 said
@@ -409,7 +412,8 @@ with
 Spain
 .
 
-“We
+“
+We
 are
 concerned
 and
@@ -442,7 +446,6 @@ strikes
 against
 Syria
 ,
-”
 <[>NATO’s<]>
 Secretary
 -
@@ -584,8 +587,10 @@ announced
 last
 week
 a
-“humanitarian
-pause”
+“
+humanitarian
+pause
+”
 in
 attacks
 as

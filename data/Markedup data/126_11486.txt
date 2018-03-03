@@ -2,13 +2,15 @@
 Don't
 Panic
 (
-@dd42bb
+@
+dd42bb
 )
 October
 30
 ,
 2016
-@mattzap
+@
+mattzap
 That
 sounds
 like
@@ -22,7 +24,8 @@ answer
 DC
 Dude
 (
-@DCDude1776
+@
+DCDude1776
 )
 October
 30
@@ -112,7 +115,8 @@ ask
 That’s
 weird
 ,
-though:
+though
+:
 the
 story
 before
@@ -174,7 +178,8 @@ account
 ,
 and
 …
-@ktumulty
+@
+ktumulty
 She
 used
 his

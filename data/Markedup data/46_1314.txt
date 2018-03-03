@@ -89,7 +89,8 @@ Keith
 Ellison
 as
 <[>DNC<]>
-Chair:
+Chair
+:
 Another
 High
 Place
@@ -714,9 +715,11 @@ else
 than
 mumble
 about
-“black
+“
+black
 lives
-mattering”
+mattering
+”
 and
 pose
 occasionally

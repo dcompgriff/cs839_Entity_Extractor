@@ -25,8 +25,8 @@ Democrats
 -
 and
 the
-Clinton
-Campaign
+<[>Clinton
+Campaign<]>
 -
 now
 openly
@@ -283,9 +283,11 @@ day
 to
 Clinton
 involving
-“timetables
+“
+timetables
 and
-deliverables”
+deliverables
+”
 for
 her
 review
@@ -362,7 +364,8 @@ up
 in
 Anthony
 Weiner's
-computer:
+computer
+:
 in
 the
 above
@@ -385,8 +388,10 @@ percent
 redacted
 ,
 with
-“PAGE
-DENIED”
+“
+PAGE
+DENIED
+”
 stamped
 across
 the
@@ -511,7 +516,8 @@ co/mcsBi7j7XU
 Kurt
 Eichenwald
 (
-@kurteichenwald
+@
+kurteichenwald
 )
 October
 29
@@ -612,7 +618,8 @@ we
 do
 know
 one
-thing:
+thing
+:
 according
 to
 the
@@ -631,7 +638,8 @@ to
 Weiner's
 PC
 was
-staggering:
+staggering
+:
 
 The
 <[>F
@@ -707,7 +715,8 @@ up
 two
 more
 critical
-questions:
+questions
+:
 i
 )
 when
@@ -868,7 +877,8 @@ J
 .
 Trump
 (
-@realDonaldTrump
+@
+realDonaldTrump
 )
 August
 3

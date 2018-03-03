@@ -12,12 +12,14 @@ Contest
 
 Here’s
 the
-pic:
+pic
+:
 
 You
 know
 the
-drill:
+drill
+:
 Enter
 the
 contest
@@ -38,9 +40,11 @@ until
 you
 see
 the
-“LEAVE
+“
+LEAVE
 A
-REPLY”
+REPLY
+”
 box
 )
 ,
@@ -133,9 +137,11 @@ going
 ,
 here’s
 my
-caption:
+caption
+:
 
-“Why
+“
+Why
 aren’t
 I
 50

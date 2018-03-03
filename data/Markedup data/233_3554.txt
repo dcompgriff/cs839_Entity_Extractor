@@ -167,7 +167,9 @@ quality
 Corporate
 mergers
 and
-“hostile”
+“
+hostile
+”
 takeovers
 can
 promote
@@ -307,7 +309,9 @@ they
 must
 sign
 a
-“franchise”
+“
+franchise
+”
 agreement
 with
 their

@@ -85,9 +85,9 @@ expected
 to
 join
 the
-<[>NATO
+<[>NATO<]>
 military
-divisions<]>
+divisions
 that
 will
 be
@@ -202,7 +202,9 @@ to
 act
 as
 a
-“deterrent”
+“
+deterrent
+”
 to
 the
 <[>Russian
@@ -227,7 +229,8 @@ third
 world
 war
 .
-“This
+“
+This
 is
 a
 credible
@@ -288,7 +291,8 @@ this
 move
 was
 to
-‘prevent
+‘
+prevent
 conflict
 .
 ’
@@ -387,7 +391,8 @@ someone
 else’s
 lands
 .
-“This
+“
+This
 deployment
 ,
 if

@@ -16,7 +16,8 @@ allocate
 bytes
 )
 in
-/home/pakalert/public
+/
+home/pakalert/public
 _
 html/wp
 -

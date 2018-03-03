@@ -1,6 +1,7 @@
 You
 are
-here:
+here
+:
 Home
 /
 US
@@ -252,9 +253,13 @@ allowing
 them
 to
 answer
-“yes”
+“
+yes
+”
 or
-“no”
+“
+no
+”
 for
 each
 of
@@ -277,7 +282,9 @@ protests
 ,
 which
 scored
-“yes”
+“
+yes
+”
 at
 a
 rate
@@ -290,7 +297,9 @@ Other
 answers
 also
 scored
-“yes”
+“
+yes
+”
 at
 a
 high
@@ -300,7 +309,9 @@ including
 50
 percent
 of
-“yeses”
+“
+yeses
+”
 for
 coverage
 of

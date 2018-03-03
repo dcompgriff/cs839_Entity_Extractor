@@ -234,7 +234,8 @@ Hillary
 Clinton
 to
 be
-“locked
+“
+locked
 up
 .
 ”
@@ -295,7 +296,8 @@ the
 result
 in
 suburban
-Michigan:
+Michigan
+:
 
 It
 doesn’t

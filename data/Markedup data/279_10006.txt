@@ -9,7 +9,8 @@ Wrigley
 Field
 Crowd’s
 Indigestion
-Close 
+Close
+ 
 Vol
 52
 Issue
@@ -59,7 +60,8 @@ Field
 crowd’s
 indigestion
 .
-“It’s
+“
+It’s
 so
 loud—I’ve
 never
@@ -111,7 +113,8 @@ as
 120
 decibels
 .
-“It
+“
+It
 started
 off
 as
@@ -197,7 +200,8 @@ up
 .
 Share
 This
-Story:
+Story
+:
 WATCH
 VIDEO
 FROM

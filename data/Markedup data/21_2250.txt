@@ -16,7 +16,8 @@ You
 Donald
 Trump
 !
-By:
+By
+:
 John
 Nolte
 November
@@ -990,7 +991,8 @@ the
 worst
 thing
 imaginable
-happened…
+happened
+…
 .
 
 5
@@ -1238,7 +1240,8 @@ Obama
 correct
 about
 one
-thing…
+thing
+…
 
 The
 moral
@@ -1258,5 +1261,6 @@ John
 Nolte
 on
 <[>Twitter<]>
-@NolteNC
+@
+NolteNC
 Tags

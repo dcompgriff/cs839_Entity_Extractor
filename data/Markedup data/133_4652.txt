@@ -19,7 +19,8 @@ last
 one
 of
 her
-marbles…
+marbles
+…
 
 Or
 ,
@@ -59,7 +60,8 @@ as
 one
 of
 the
-“most
+“
+most
 corrupt
 ,
 least
@@ -80,7 +82,8 @@ you
 want
 to
 brag
-about…
+about
+…
 A
 guide
 to
@@ -100,14 +103,16 @@ co/QzK7XZYmJW
 Hillary
 Clinton
 (
-@HillaryClinton
+@
+HillaryClinton
 )
 October
 31
 ,
 2016
 
-“A
+“
+A
 guide
 to
 help
@@ -128,4 +133,5 @@ tweet
 
 And
 <[>Twitter<]>
-reacted…
+reacted
+…

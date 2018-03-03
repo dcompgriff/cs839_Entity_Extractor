@@ -18,7 +18,9 @@ MOSCOW
 November
 11
 .
-/TASS/
+/
+TASS
+/
 .
 The
 <[>International

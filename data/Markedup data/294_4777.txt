@@ -136,7 +136,8 @@ The
 <[>New
 York
 Times<]>
-reports:
+reports
+:
 
 "
 The
@@ -232,7 +233,8 @@ information
 about
 the
 individual
-charges:
+charges
+:
 
 All
 seven
@@ -285,8 +287,8 @@ charge
 according
 to
 the
-Associated
-Press
+<[>Associated
+Press<]>
 .
 "
 
@@ -354,7 +356,9 @@ the
 defendants
 ,
 Brian
-“Booda”
+“
+Booda
+”
 Cavalier
 ,
 was
@@ -370,7 +374,8 @@ nine
 months
 ,
 for
-“conspiring
+“
+conspiring
 to
 impede
 federal
@@ -433,7 +438,8 @@ S
 Marshals<]>
 in
 the
-courtroom:
+courtroom
+:
 Marcus
 Mumford
 was
@@ -464,7 +470,8 @@ oregonstandoff
 Maxine
 Bernstein
 (
-@maxoregonian
+@
+maxoregonian
 )
 October
 27
@@ -482,7 +489,8 @@ courtroom
 ,
 yelling
 ,
-'Don't
+'
+Don't
 resist
 !
 '
@@ -499,7 +507,8 @@ oregonstandoff
 Maxine
 Bernstein
 (
-@maxoregonian
+@
+maxoregonian
 )
 October
 27
@@ -556,4 +565,5 @@ trial
 can
 be
 viewed
-here:
+here
+:

@@ -96,13 +96,16 @@ below
 
 <[>Press
 TV<]>
-reports:
+reports
+:
 
-“The
+“
+The
 issues
 are
 being
-investigated…
+investigated
+…
 We
 are
 very
@@ -250,7 +253,8 @@ has
 approved
 more
 than
-£3
+£
+3
 billion
 (
 $

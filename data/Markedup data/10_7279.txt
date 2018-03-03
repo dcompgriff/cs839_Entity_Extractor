@@ -26,13 +26,15 @@ Universe
 pageant
 .
 
-Clip:
+Clip
+:
 
 —
 <[>CBS
 News<]>
 (
-@CBSNews
+@
+CBSNews
 )
 November
 1
@@ -42,7 +44,8 @@ November
 Machado
 said
 ,
-“I
+“
+I
 was
 scared
 of
@@ -89,7 +92,8 @@ Housekeeping
 ,
 Miss
 Eating
-Machine…
+Machine
+…
 .
 For
 years
@@ -109,7 +113,8 @@ disorders
 Machado
 added
 ,
-“It’s
+“
+It’s
 clear
 .
 It’s

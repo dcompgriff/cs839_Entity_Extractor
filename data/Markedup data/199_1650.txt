@@ -4,7 +4,8 @@ many
 things
 to
 many
-people:
+people
+:
 It’s
 a
 form
@@ -185,7 +186,8 @@ And
 more
 to
 the
-point:
+point
+:
 With
 all
 of
@@ -430,12 +432,14 @@ method
 in
 Rwanda
 called
-“Ubudehe
+“
+Ubudehe
 ,
 ”
 which
 means
-“community
+“
+community
 works
 for
 the
@@ -557,7 +561,8 @@ community
 to
 heal
 .
-“We
+“
+We
 call
 this
 the
@@ -568,7 +573,8 @@ of
 building
 ,
 or
-‘lo
+‘
+lo
 -
 fab
 ,
@@ -577,7 +583,8 @@ and
 it
 has
 four
-pillars:
+pillars
+:
 hire
 locally
 ,
@@ -675,7 +682,8 @@ it
 seems
 .
 It
-“can
+“
+can
 be
 a
 transformative

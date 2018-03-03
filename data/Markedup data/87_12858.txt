@@ -40,11 +40,11 @@ diseases
 .
 
 The
-UK's
-<[>Medicines
+<[>UK's
+Medicines
 and
 Healthcare
-products
+Products
 Regulatory
 Agency<]>
 (
@@ -64,8 +64,10 @@ or
 modifying
 effects
 on
-“physiological
-functions”
+“
+physiological
+functions
+”
 when
 administered
 to
@@ -121,7 +123,8 @@ ago
 Anonhq
 .
 com
-reports:
+reports
+:
 
 Observers
 say
@@ -401,8 +404,10 @@ the
 ,
 the
 agency
-said:
-“The
+said
+:
+“
+The
 <[>MHRA<]>
 has
 now
@@ -455,7 +460,8 @@ the
 definition
 of
 a
-‘medicinal
+‘
+medicinal
 product’
 because
 it
@@ -554,8 +560,10 @@ by
 the
 <[>Independent<]>
 as
-saying:
-“Since
+saying
+:
+“
+Since
 our
 inception
 we’ve

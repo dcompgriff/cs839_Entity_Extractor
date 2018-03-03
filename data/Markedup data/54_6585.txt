@@ -80,7 +80,8 @@ note
 Twain
 wrote
 that
-‘golf
+‘
+golf
 is
 a
 good
@@ -110,7 +111,8 @@ the
 park
 .
 
-‘Twain
+‘
+Twain
 was
 a
 prodigious
@@ -151,7 +153,8 @@ at
 <[>Oxford
 University<]>
 .
-‘These
+‘
+These
 new
 notes
 reveal
@@ -208,7 +211,8 @@ out
 .
 ’
 
-‘The
+‘
+The
 local
 toilets
 at
@@ -233,7 +237,8 @@ continued
 De
 Mornay
 .
-‘Frustratingly
+‘
+Frustratingly
 for
 him
 ,
@@ -332,7 +337,8 @@ a
 different
 matter
 .
-‘Twain’s
+‘
+Twain’s
 place
 in
 the
@@ -346,7 +352,8 @@ De
 Mornay
 confidently
 .
-‘Although
+‘
+Although
 ,
 with
 this
@@ -374,7 +381,8 @@ story
 .
 .
 
-Posted:
+Posted
+:
 Nov
 12th
 ,
@@ -391,5 +399,6 @@ chrisf
 .
 More
 Stories
-about:
+about
+:
 Arts/Entertainment

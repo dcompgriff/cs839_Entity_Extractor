@@ -5,7 +5,8 @@ Trump
 super
 <[>PAC<]>
 promoted
-‘voter
+‘
+voter
 suppression’
 against
 black
@@ -13,7 +14,8 @@ black
 female
 voters
 Published
-time:
+time
+:
 27
 Oct
 ,
@@ -35,7 +37,8 @@ call
 the
 2016
 election
-“rigged
+“
+rigged
 ,
 ”
 but
@@ -225,7 +228,8 @@ probation
 .
 Quid
 pro
-woah:
+woah
+:
 Documents
 link
 Wisconsin
@@ -245,7 +249,8 @@ com/KygHsCgYP7
 <[>RT
 America<]>
 (
-<[>@RT
+@
+<[>RT
 _
 America<]>
 )
@@ -335,7 +340,8 @@ in
 Ohio
 ,
 he
-said:
+said
+:
 “
 In
 Cleveland
@@ -565,7 +571,8 @@ com/9tCDNaj14W
 <[>RT
 America<]>
 (
-<[>@RT
+@
+<[>RT
 _
 America<]>
 )

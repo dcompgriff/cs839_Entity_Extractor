@@ -1,7 +1,8 @@
 By
 Will
 Griffin
-‘I’ve
+‘
+I’ve
 been
 on
 the
@@ -18,7 +19,9 @@ President
 Bush
 announced
 the
-“surge”
+“
+surge
+”
 in
 January
 2007

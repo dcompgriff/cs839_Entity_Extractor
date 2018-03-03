@@ -103,7 +103,8 @@ stay
 clear
 of
 .
-“The
+“
+The
 <[>Hashd
 al
 -
@@ -119,7 +120,8 @@ just
 kilometers
 from
 Tal
-Afar”
+Afar
+”
 and
 nearing
 the
@@ -147,10 +149,12 @@ said
 he
 hoped
 that
-“in
+“
+in
 a
 few
-hours”
+hours
+”
 his
 forces
 will
@@ -293,7 +297,8 @@ in
 Tal
 Afar
 .
-“Tal
+“
+Tal
 Afar
 is
 a
@@ -333,7 +338,8 @@ Erdogan
 said
 Saturday
 .
-“Tal
+“
+Tal
 Afar
 is
 a
@@ -369,7 +375,8 @@ Muslims
 he
 added
 ,
-“But
+“
+But
 if
 <[>Hashd
 al
@@ -387,7 +394,8 @@ different
 .
 ”
 Related
-Posts:
+Posts
+:
 No
 Related
 Posts

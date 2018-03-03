@@ -51,8 +51,10 @@ markets
 .
 
 Eric
-King:
-“John
+King
+:
+“
+John
 ,
 we
 are
@@ -80,8 +82,10 @@ thoughts
 ”
 
 John
-Ing:
-“It’s
+Ing
+:
+“
+It’s
 important
 ,
 Eric
@@ -142,8 +146,10 @@ trend
 of
 the
 gold
-price…
-IMPORTANT:
+price
+…
+IMPORTANT
+:
 To
 hear
 which
@@ -183,8 +189,10 @@ BELOW
 
 John
 Ing
-continues:
-“Sure
+continues
+:
+“
+Sure
 we
 get
 these
@@ -622,7 +630,8 @@ pain
 
 *
 *
-<[>*KWN<]>
+*
+<[>KWN<]>
 has
 now
 released
@@ -674,8 +683,10 @@ BELOW
 
 *
 *
-*ALSO
-RELEASED:
+*
+ALSO
+RELEASED
+:
 The
 Destiny
 Of
@@ -690,7 +701,8 @@ HERE
 by
 <[>King
 World
-News®<]>
+News<]>
+®
 .
 All
 Rights

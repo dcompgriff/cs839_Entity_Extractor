@@ -1,6 +1,7 @@
 <[>Natural
 Blaze<]>
-reports:
+reports
+:
 
 After
 months
@@ -154,10 +155,13 @@ are
 also
 known
 as
-“Tatanka
-Oyate”
+“
+Tatanka
+Oyate
+”
 or
-“Buffalo
+“
+Buffalo
 Nation
 ,
 ”

@@ -15,7 +15,8 @@ treatments
 are
 unnecessary
 Image
-Credits:
+Credits
+:
 DarkoStojanovic/Pixabay
 .
 
@@ -55,11 +56,13 @@ with
 the
 warning
 that
-“more
+“
+more
 doesn’t
 always
 mean
-better”
+better
+”
 .
 
 Tips

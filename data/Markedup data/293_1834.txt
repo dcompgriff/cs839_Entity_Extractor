@@ -9,7 +9,8 @@ To
 Pastor’s
 Family
 
-“I
+“
+I
 am
 writing
 to
@@ -73,7 +74,8 @@ he
 said
 that
 he
-“cannot
+“
+cannot
 assess
 whether
 or
@@ -90,7 +92,8 @@ believed
 it
 to
 be
-“important
+“
+important
 to
 update
 your
@@ -131,7 +134,7 @@ election
 race
 that
 had
-GOP
+<[>GOP<]>
 nominee
 Donald
 Trump
@@ -269,7 +272,7 @@ attention
 away
 from
 recent
-WikiLeaks
+<[>WikiLeaks<]>
 revelations
 of
 impropriety

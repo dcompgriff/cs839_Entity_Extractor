@@ -1,5 +1,6 @@
 
-<[>Twitter<]>:
+<[>Twitter<]>
+:
 @
 batchelorshow
 
@@ -19,7 +20,8 @@ Landscape
 @
 carlzimmer
 .
-@nytimes
+@
+nytimes
 .
 
 “…In
@@ -49,7 +51,8 @@ the
 southern
 Levant
 .
-“The
+“
+The
 model
 was
 that
@@ -318,7 +321,8 @@ have
 begun
 .
 
-“We
+“
+We
 got
 fixated
 on
@@ -356,7 +360,8 @@ Dr
 Zeder
 said
 .
-“Now
+“
+Now
 we
 really
 understand

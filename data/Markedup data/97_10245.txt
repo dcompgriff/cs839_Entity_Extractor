@@ -317,9 +317,11 @@ Sunni
 let
 alone
 between
-“radical
+“
+radical
 Islamic
-fundamentalism”
+fundamentalism
+”
 and
 the
 post
@@ -746,7 +748,8 @@ a
 new
 way
 of
-thinking:
+thinking
+:
 that
 we
 must
@@ -789,7 +792,8 @@ as
 he
 passed
 the
-sixtieth:
+sixtieth
+:
 so
 far
 so
@@ -1137,7 +1141,8 @@ exact
 parting
 words
 were
-“I’d
+“
+I’d
 be
 much
 happier

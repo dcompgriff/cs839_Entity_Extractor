@@ -276,9 +276,11 @@ old
 B
 -
 rock
-“the
+“
+the
 Islamic
-Shock”
+Shock
+”
 Obama
 did
 to
@@ -333,7 +335,8 @@ available
 We’ve
 got
 three
-categories:
+categories
+:
 guns
 ,
 ammo
@@ -513,7 +516,8 @@ safe
 as
 it
 looks
-“traditional
+“
+traditional
 .
 ”
 
@@ -900,7 +904,8 @@ ammo
 is
 the
 big
-3:
+3
+:
 9mm
 Luger
 ,
@@ -1299,8 +1304,10 @@ box
 magazine
 ,
 especially
-“high
-capacity”
+“
+high
+capacity
+”
 ones
 .
 I
@@ -1724,7 +1731,8 @@ need
 .
 
 Read
-More:
+More
+:
 5
 Firearms
 A

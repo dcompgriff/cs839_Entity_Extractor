@@ -63,9 +63,11 @@ had
 to
 say
 about
-it:
+it
+:
 
-“I
+“
+I
 do
 not
 think

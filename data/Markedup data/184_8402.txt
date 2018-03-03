@@ -83,7 +83,8 @@ the
 author
 of
 Boxed
-In:
+In
+:
 The
 Culture
 of
@@ -97,7 +98,8 @@ ed
 .
 ;
 Mad
-Scientists:
+Scientists
+:
 The
 Secret
 History
@@ -105,7 +107,8 @@ of
 Modern
 Propaganda
 ;
-Spectacle:
+Spectacle
+:
 Operation
 Desert
 Storm
@@ -126,8 +129,10 @@ book
 is
 Cruel
 and
-Unusual:
-Bush/
+Unusual
+:
+Bush
+/
 Cheney’s
 New
 World
@@ -151,7 +156,9 @@ the
 and
 the
 Russian
-“Putin”
+“
+Putin
+”
 threat
 .
 He
@@ -184,7 +191,8 @@ owned
 Finally
 ,
 he
-“looks
+“
+looks
 at
 the
 role

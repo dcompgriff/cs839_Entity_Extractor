@@ -11,7 +11,8 @@ to
 S
 .
 Treasury<]>
-'I
+'
+I
 promised
 Kentuckians
 I
@@ -23,7 +24,8 @@ smaller
 more
 efficient
 government'
-Published:
+Published
+:
 15
 mins
 ago
@@ -100,7 +102,8 @@ January
 2011
 .
 
-“It’s
+“
+It’s
 easy
 to
 picture
@@ -124,7 +127,8 @@ Dr
 .
 Paul
 .
-“So
+“
+So
 I
 determined
 to
@@ -149,13 +153,15 @@ I
 could
 to
 stop
-‘business
+‘
+business
 as
 usual
 .
 ’
 
-“I
+“
+I
 promised
 Kentuckians
 I

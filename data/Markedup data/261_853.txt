@@ -113,7 +113,8 @@ of
 international
 relations
 and
-lamented:
+lamented
+:
 "
 My
 personal
@@ -289,7 +290,8 @@ U
 .
 S
 .
--led
+-
+led
 coalition
 air
 strikes
@@ -663,8 +665,8 @@ soldiers
 from
 the
 2nd
-Cavalry
-Regiment
+<[>Cavalry
+Regiment<]>
 ,
 which
 is
@@ -998,7 +1000,8 @@ of
 Russia
 .
 Ask
-yourselves:
+yourselves
+:
 Why
 all
 this

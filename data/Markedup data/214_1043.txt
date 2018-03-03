@@ -1,10 +1,10 @@
-BNI
 Store
 Oct
 30
 2016
 GERMAN
-‘GESTAPO’
+‘
+GESTAPO’
 considers
 prosecuting
 parents
@@ -35,7 +35,8 @@ for
 refusing
 to
 pay
-‘truancy’
+‘
+truancy’
 fine
 after
 refusing
@@ -113,7 +114,8 @@ a
 geography
 class
 .
-“What
+“
+What
 a
 trip
 to
@@ -147,8 +149,10 @@ history
 with
 one
 user
-tweeting:
-“Visiting
+tweeting
+:
+“
+Visiting
 mosques
 is
 a
@@ -190,7 +194,9 @@ his
 son
 would
 be
-“indoctrinated”
+“
+indoctrinated
+”
 in
 the
 mosque
@@ -201,7 +207,8 @@ on
 to
 say
 that
-“for
+“
+for
 years
 we
 have
@@ -239,7 +246,8 @@ fear
 for
 their
 son’s
-“bodily
+“
+bodily
 safety
 .
 ”
@@ -269,7 +277,8 @@ of
 the
 opinion
 that
-“nobody
+“
+nobody
 shall
 be
 forced
@@ -314,7 +323,8 @@ in
 setting
 up
 the
-‘Dugida
+‘
+Dugida
 ,
 ’
 a
@@ -343,7 +353,8 @@ the
 lawyer
 through
 the
-<[>‘Pax
+‘
+<[>Pax
 Europa’<]>
 movement
 ,
@@ -354,7 +365,8 @@ which
 opposes
 the
 perceived
-“Islamization
+“
+Islamization
 of
 Europe
 .
@@ -370,7 +382,8 @@ couple
 a
 total
 of
-€300
+€
+300
 (
 $
 328

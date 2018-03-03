@@ -215,7 +215,8 @@ video
 and
 decide
 for
-yourself:
+yourself
+:
 
 (
 Watch
@@ -266,10 +267,13 @@ Without
 a
 Podium
 
-Related:
+Related
+:
 Leaked
-Email:
-‘If
+Email
+:
+‘
+If
 She
 Wins
 ,

@@ -1,4 +1,5 @@
-‘It’s
+‘
+It’s
 for
 my
 children
@@ -83,7 +84,8 @@ over
 Ammon
 said
 ,
-“Everything
+“
+Everything
 comes
 from
 the
@@ -142,7 +144,8 @@ York
 Daily
 News<]>
 (
-@NYDailyNews
+@
+NYDailyNews
 )
 October
 28
@@ -175,7 +178,8 @@ that
 Americans
 need
 to
-“wake
+“
+wake
 up
 .
 ”
@@ -210,7 +214,8 @@ juries
 Kurt
 Schlichter
 (
-@KurtSchlichter
+@
+KurtSchlichter
 )
 October
 28
@@ -251,7 +256,8 @@ com/k4fW36F8nr
 Raw
 Story
 (
-@RawStory
+@
+RawStory
 )
 October
 28

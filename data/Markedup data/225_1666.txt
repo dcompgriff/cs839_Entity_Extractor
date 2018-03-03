@@ -53,9 +53,11 @@ published
 a
 book
 titled
-“At
+“
+At
 Day’s
-Close:
+Close
+:
 Night
 in
 Times
@@ -101,7 +103,8 @@ tribes
 in
 Nigeria
 .
-“It’s
+“
+It’s
 not
 just
 the
@@ -253,7 +256,8 @@ a
 very
 distinct
 sleeping
-pattern:
+pattern
+:
 the
 same
 bimodal
@@ -290,7 +294,8 @@ morning
 )
 
 
-“Ekirch
+“
+Ekirch
 found
 that
 references
@@ -409,8 +414,10 @@ theories
 Historian
 Craig
 Koslofsky
-writes:
-“Associations
+writes
+:
+“
+Associations
 with
 night
 before
@@ -513,8 +520,10 @@ then
 the
 industrial
 revolution
-happened:
-“People
+happened
+:
+“
+People
 were
 becoming
 increasingly
@@ -635,7 +644,8 @@ from
 a
 condition
 called
-“sleep
+“
+sleep
 maintenance
 insomnia
 ,
@@ -775,7 +785,8 @@ clock
 ]
 neuroscience
 at
-Oxford:
+Oxford
+:
 “
 Many
 people

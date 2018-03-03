@@ -1,8 +1,8 @@
 Inside
 <[>Bill
 Clinton
-Inc
-.<]>
+Inc<]>
+.
 :
 Hacked
 Memo
@@ -36,7 +36,8 @@ by
 <[>WikiLeaks<]>
 ,
 details
-“a
+“
+a
 circle
 of
 enrichment
@@ -98,7 +99,8 @@ Post<]>
 
 The
 <[>Post<]>
-continues:
+continues
+:
 
 The
 system
@@ -213,11 +215,12 @@ he
 called
 <[>Bill
 Clinton
-Inc
-.<]>
+Inc<]>
+.
 ,
 obtaining
-“in
+“
+in
 -
 kind
 services
@@ -248,7 +251,8 @@ to
 Clinton
 during
 the
-’90s
+’
+90s
 as
 his
 personal
@@ -259,7 +263,8 @@ White
 House
 and
 became
-“the
+“
+the
 architect
 of
 his
@@ -295,9 +300,11 @@ president
 and
 his
 family’s
-foundation:
+foundation
+:
 
-“We
+“
+We
 have
 dedicated
 ourselves
@@ -323,7 +330,8 @@ added
 that
 he
 had
-“sought
+“
+sought
 to
 leverage
 my
@@ -350,7 +358,8 @@ foundation
 
 The
 <[>Post<]>
-continues:
+continues
+:
 
 Band’s
 memo
@@ -582,7 +591,7 @@ wrote
 
 Records
 show
-UBS
+<[>UBS<]>
 paid
 Clinton
 about
@@ -632,7 +641,8 @@ Another
 achievement
 cited
 by
-Band:
+Band
+:
 <[>Laureate
 International
 Universities<]>
@@ -697,7 +707,8 @@ in
 payments
 from
 <[>Dow<]>
-“raised
+“
+raised
 red
 flags
 for
@@ -733,8 +744,10 @@ denied
 ”
 The
 investigator
-wrote:
-“It
+wrote
+:
+“
+It
 appears
 <[>Dow<]>
 is

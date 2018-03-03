@@ -36,7 +36,8 @@ you’re
 running
 for
 elective
-office:
+office
+:
 It’s
 the
 currency
@@ -86,7 +87,8 @@ on
 the
 <[>Univision<]>
 show
-“El
+“
+El
 Gordo
 y
 La
@@ -97,7 +99,8 @@ The
 title
 translates
 to
-“The
+“
+The
 Fat
 Man
 &
@@ -246,7 +249,8 @@ gracious
 to
 ask
 ,
-“What
+“
+What
 sense
 ?
 ”

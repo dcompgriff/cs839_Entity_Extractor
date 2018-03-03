@@ -62,7 +62,8 @@ and
 her
 running
 mate
-“continue
+“
+continue
 to
 set
 the
@@ -278,8 +279,8 @@ latter
 going
 to
 the
-Clinton
-Foundation
+<[>Clinton
+Foundation<]>
 .
 
 What
@@ -322,7 +323,8 @@ derived
 from
 self
 -
-employment:
+employment
+:
 with
 the
 biggest
@@ -443,7 +445,8 @@ describes
 <[>Gems
 Education<]>
 as
-“the
+“
+the
 largest
 operator
 of
@@ -481,7 +484,8 @@ In
 ,
 Bill
 Clinton
-“named
+“
+named
 <[>GEMS
 Education<]>
 a
@@ -511,7 +515,8 @@ time
 <[>GEMS
 Education<]>
 paid
-Bill–
+Bill
+–
 $
 500
 ,
@@ -544,7 +549,8 @@ the
 York
 Times<]>
 as
-“a
+“
+a
 network
 of
 for
@@ -596,7 +602,9 @@ were
 described
 to
 have
-“inspired”
+“
+inspired
+”
 students
 .
 3
@@ -802,7 +810,8 @@ to
 self
 -
 employment
-taxes:
+taxes
+:
 social
 security
 and
@@ -1072,7 +1081,8 @@ the
 ,
 not
 made
-clear–
+clear
+–
 probably
 in
 the
@@ -1516,7 +1526,8 @@ $
 188
 ,
 000
-–39
+–
+39
 .
 6
 %
@@ -1677,7 +1688,8 @@ $
 ,
 009
 ,
-766–
+766
+–
 over
 $
 1
@@ -1741,7 +1753,9 @@ the
 Clinton
 income
 was
-“earned”
+“
+earned
+”
 income
 which
 is
@@ -1942,7 +1956,9 @@ $
 Nevertheless
 ,
 this
-“lower”
+“
+lower
+”
 income
 could
 arouse
@@ -2025,7 +2041,8 @@ one’s
 signature
 that
 
-“Under
+“
+Under
 penalties
 of
 perjury
@@ -2070,7 +2087,8 @@ what
 he
 submitted
 is
-“true
+“
+true
 ,
 correct
 and
@@ -2105,7 +2123,8 @@ lawyers
 on
 this
 issue
-at:
+at
+:
 
 http://lawnewz
 .
@@ -2139,7 +2158,8 @@ taxes
 -
 during
 -
-audit/
+audit
+/
 
 2
 .
@@ -2189,7 +2209,8 @@ this
 Street
 Journal<]>
 article
-at:
+at
+:
 http://www
 .
 wsj
@@ -2275,9 +2296,11 @@ A
 <[>Wikipedia<]>
 article
 indicates
-that:
+that
+:
 
-“Former
+“
+Former
 U
 .
 S
@@ -2335,7 +2358,8 @@ com/2016/08/23/news/clinton
 -
 laureate
 -
-university/
+university
+/
 
 4
 .

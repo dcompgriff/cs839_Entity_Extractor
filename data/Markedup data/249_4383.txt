@@ -300,7 +300,8 @@ the
 heart
 .
 (
-See:
+See
+:
 Cardiologist
 Comments
 on
@@ -367,7 +368,8 @@ com<]>
 Watch
 the
 entire
-interview:
+interview
+:
 More
 information
 about
@@ -483,7 +485,8 @@ vaccine
 doctors
 are
 all
-“quacks
+“
+quacks
 .
 ”
 
@@ -511,8 +514,10 @@ on
 their
 positions
 regarding
-“the
-science”
+“
+the
+science
+”
 of
 vaccines
 ,
@@ -658,7 +663,8 @@ doctors
 who
 consider
 themselves
-“pro
+“
+pro
 -
 vaccine
 ,
@@ -685,7 +691,9 @@ Many
 doctors
 recommend
 a
-“delayed”
+“
+delayed
+”
 vaccine
 schedule
 for

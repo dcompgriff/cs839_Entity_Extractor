@@ -42,7 +42,8 @@ The
 oldest
 question
 .
-“Is
+“
+Is
 there
 anyone
 there
@@ -102,7 +103,8 @@ gray
 slabs
 .
 No
-‘take
+‘
+take
 me
 to
 your
@@ -386,7 +388,8 @@ approach
 He
 wrote
 :
-“Consider
+“
+Consider
 an
 extraterrestrial
 civilization
@@ -499,7 +502,8 @@ to
 the
 usual
 background
-‘noise’
+‘
+noise’
 of
 the
 universe
@@ -635,7 +639,8 @@ deeper
 ;
 as
 Borra
-acknowledged:
+acknowledged
+:
 “
 Extraordinary
 claims
@@ -754,7 +759,8 @@ described
 as
 being
 :
-“Not
+“
+Not
 an
 overwhelmingly
 large
@@ -798,7 +804,8 @@ sail
 we
 could
 :
-“Reach
+“
+Reach
 Pluto
 in
 5
@@ -855,8 +862,10 @@ and
 whilst
 Barro
 admitted
-that:
-“This
+that
+:
+“
+This
 is
 a
 long
@@ -946,7 +955,8 @@ he
 cautioned
 that
 :
-“We
+“
+We
 should
 be
 wary
@@ -981,7 +991,8 @@ that
 he
 noted
 :
-“Didn’t
+“
+Didn’t
 turn
 out
 so
@@ -1055,7 +1066,8 @@ it’s
 still
 only
 a
-‘probably
+‘
+probably
 ,
 ’
 but
@@ -1099,7 +1111,8 @@ Lucretius
 once
 said
 :
-“Nothing
+“
+Nothing
 in
 the
 universe
@@ -1150,14 +1163,16 @@ pulses
 are
 coming
 from
-here:
+here
+:
 
 Featured
 Image
 By
 Beckie
 Via
-<[>Flickr/<]>
+<[>Flickr<]>
+/
 CC
 -
 2
