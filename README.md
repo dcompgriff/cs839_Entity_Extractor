@@ -12,7 +12,7 @@ This extractor parses a set of fake news articles, and extracts institutions or 
 
 * [Original Fake News Dataset](https://www.kaggle.com/mrisdal/fake-news) - Original set of fake news articles
 * [300+ raw documents folder](data/raw_data/) - Raw documents that haven't been split to different lines
-* [300+ documents folder](data/Markedup%20data/) - Marked up data files (Only files from 0 through 310 roughly)
+* [300+ documents folder](data/Markedup_data/) - Marked up data files (Only files from 0 through 310 roughly)
 * [Marked up Training Set I](data/training_set/) - 200 Marked up training files
 * [Marked up Test Set J](data/test_set/) - 100 Marked up test files
 * [Code folder](scripts/) - Scripts for running the pipeline and other processing
@@ -73,29 +73,26 @@ python classificationSuite.py A ../data/featurized_instances.csv ../data/tuples_
 
 ## Running the Testing Pipeline
 
-#### Creating updated featurized_instances.csv and tuples_instances.csv from the test set.
+#### Creating featurized_instances.csv and tuples_instances.csv from the test set.
 
-The featurization process can be very time consuming, so the script was modified to allow for updates to the existing featurized_instances.csv file. In the below script, U is passed to the script to indicate that this is an update to the existing featurized_instances.csv file. The string after "U" represents a string list
-of feature functions to update, or add to the existing featurized_instances.csv file. If the feature column exists, the values are updated. If the feature column doesn't exist, the feature column is generated and added to the existing featurized_instances.csv file. Note that the featurized_instances.csv file's columns are not garunteed to remain in sorted order. The only garuntee is that the 'label' column will be the last column.
+Just like we did for the training set, we develop the two csv files from running the featureGenerator script on test set
 
 ```
-Give an example
+cd scripts/
+python featureGenerator.py "../data/test_set/" C ""
 ```
 
 #### Generating the trained model.
 
-Explain
-
-```
-Give an example
-```
+Since the random forrest gives us the best predictor in Cross-Validation, we build our classifier by fitting Random Forrest model on the entire training set.
 
 #### Evaluating the trained model on the test set.
 
-Explain
+We calculate prediction of this model on the test set's featurized_instances.csv. We then apply post processing step to these predictions and make use of tuples_instances.csv. Our final predictions are then compared with actual labels to calculate the precision and recall of the trained model on the test set. This and the trained model step are part of below script in which we have hardcoded the file names for simplicity.
 
 ```
-Give an example
+cd scripts/
+python testing.py
 ```
 
 ## About the Feature Corpus Sets Used
