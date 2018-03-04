@@ -17,7 +17,7 @@ This extractor parses a set of fake news articles, and extracts institutions or 
 * [Marked up Test Set J](data/test_set/) - 100 Marked up test files
 * [Code folder](scripts/) - Scripts for running the pipeline and other processing
 * [Compressed Directories](Archive.zip) - Zip file of this repo
-* [Pdf Detailing The Project]() - Pdf describing the process of entity extraction in detail
+* [Pdf Detailing The Project](839_Project_Stage_1.pdf) - Pdf describing the process of entity extraction in detail
 
 ## Running the Training Pipeline
 
