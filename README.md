@@ -13,8 +13,8 @@ This extractor parses a set of fake news articles, and extracts institutions or 
 * [Original Fake News Dataset](https://www.kaggle.com/mrisdal/fake-news) - Original set of fake news articles
 * [300+ raw documents folder](data/raw_data/) - Raw documents that haven't been split to different lines
 * [300+ documents folder](data/Markedup%20data/) - Marked up data files (Only files from 0 through 310 roughly)
-* [Marked up Training Set J](data/training_set/) - 200 Marked up training files
-* [Marked up Test Set I](data/test_set/) - 100 Marked up test files
+* [Marked up Training Set I](data/training_set/) - 200 Marked up training files
+* [Marked up Test Set J](data/test_set/) - 100 Marked up test files
 * [Code folder](scripts/) - Scripts for running the pipeline and other processing
 * [Compressed Directories](Archive.zip) - Zip file of this repo
 * [Pdf Detailing The Project]() - Pdf describing the process of entity extraction in detail
